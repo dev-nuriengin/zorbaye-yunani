@@ -1523,6 +1523,34 @@ HTML_DOC = r"""<!DOCTYPE html>
   .sent.on .orig::before{ content:"\201C"; }
   .sent.on .orig::after{ content:"\201D"; }
 
+  /* ---- Bilêvkirin (TTS): lîstika dengî ya her hevokê ---- */
+  .tts{ display:none; }
+  .sent.on .tts{
+    display:inline-flex; align-items:center; gap:4px; vertical-align:middle;
+    margin:2mm 0 1mm 7mm; text-indent:0; user-select:none;
+  }
+  .tts button{
+    -webkit-appearance:none; appearance:none; cursor:pointer;
+    display:inline-flex; align-items:center; justify-content:center;
+    width:24px; height:24px; padding:0; border-radius:50%;
+    background:#f7f0db; border:0.6px solid #8a7a55; color:#5a4a22; line-height:0;
+  }
+  .tts button:hover{ background:#fff; }
+  .tts button:disabled{ cursor:default; opacity:.7; }
+  .tts svg{ width:13px; height:13px; display:block; fill:currentColor; }
+  .tts-speed{ width:auto !important; padding:0 7px !important; border-radius:12px !important;
+    font:600 10px "Georgia",serif; line-height:1 !important; }
+  /* destek lîstikê yên zêde: tenê dema çalak xuya dibin */
+  .tts-more{ display:none; align-items:center; gap:4px; }
+  .tts.active .tts-more{ display:inline-flex; }
+  /* spinner — tenê HTML/CSS, bê wêne */
+  .tts-spin{ width:14px; height:14px; border-radius:50%;
+    border:2px solid #c9bb98; border-top-color:#5a4a22; animation:tts-rot .7s linear infinite; }
+  @keyframes tts-rot{ to{ transform:rotate(360deg); } }
+  /* peyva ku niha tê xwendin — ronîkirin (heman ruhê reveal accent) */
+  .ku .w-on{ background:rgba(150,110,30,.26); border-radius:3px;
+    box-shadow:0 0 0 1px rgba(150,110,30,.22); }
+
   /* ---- Nîşana rûpela PDF-ê (referans) ---- */
   .pagemark{
     display:inline-block; font-size:8pt; color:#9a8a66; letter-spacing:1px;
@@ -1600,6 +1628,10 @@ HTML_DOC = r"""<!DOCTYPE html>
     body.dark .cover .rule, body.dark .chapter-rule{ border-top-color:#b7a47e; }
     body.dark .sent:hover .ku{ background:rgba(230,210,160,.13); }
     body.dark .sent.on .orig{ color:#cbb78c; border-left-color:#7a6a48; }
+    body.dark .tts button{ background:#3a3228; border-color:#6b5d44; color:#e0cfa6; }
+    body.dark .tts button:hover{ background:#473a2c; }
+    body.dark .tts-spin{ border-color:#5a4f3e; border-top-color:#e0cfa6; }
+    body.dark .ku .w-on{ background:rgba(230,200,130,.22); box-shadow:0 0 0 1px rgba(230,200,130,.18); }
     body.dark .pagemark{ color:#b7a47e; border-color:#5a4f3e; }
     body.dark .drawer-handle, body.dark .reader-bar{ background:#2b251d; border-color:#b7a47e; color:#e9ddc4; }
     body.dark .reader-bar{ border-top-color:#b7a47e; }
@@ -1621,6 +1653,8 @@ HTML_DOC = r"""<!DOCTYPE html>
     .reader-bar, .reader-drawer, .drawer-handle{ display:none !important; }
     .pagemark{ display:none !important; }
     .sent .orig{ display:none !important; }
+    .tts{ display:none !important; }
+    .ku .w-on{ background:none !important; box-shadow:none !important; }
     .sent:hover .ku{ background:none; }
     .cover{ min-height:247mm; border-color:#111; }
     .cover .rule, .chapter-rule{ border-top-color:#111; }
@@ -1823,6 +1857,197 @@ HTML_DOC = r"""<!DOCTYPE html>
     refresh();
   });
   refresh();
+})();
+</script>
+
+<script>
+/* ---- Bilêvkirin (TTS): play/pause her hevokê + ronîkirina peyvan ---- */
+(function(){
+  var API='/api/tts';
+  var ICON={
+    play:'<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>',
+    pause:'<svg viewBox="0 0 24 24"><path d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg>',
+    restart:'<svg viewBox="0 0 24 24"><path d="M12 5V2L7 6l5 4V7a5 5 0 1 1-5 5H5a7 7 0 1 0 7-7z"/></svg>',
+    rw:'<svg viewBox="0 0 24 24"><path d="M11 6v12L3 12zM20 6v12l-8-6z"/></svg>',
+    ff:'<svg viewBox="0 0 24 24"><path d="M13 6v12l8-6zM4 6v12l8-6z"/></svg>'
+  };
+  var SPEEDS=[1,1.25,1.5,0.75], speedIdx=0;
+  function speedVal(){ return SPEEDS[speedIdx]; }
+  function speedLabel(v){ return (v===1?'1':String(v))+'x'; }
+
+  /* ---- Cache: IndexedDB (deng + timestamps tê tomarkirin, careke din bê req) ---- */
+  var dbp=(function(){ return new Promise(function(res){
+    try{
+      var r=indexedDB.open('zorba-tts',1);
+      r.onupgradeneeded=function(){ r.result.createObjectStore('audio'); };
+      r.onsuccess=function(){ res(r.result); };
+      r.onerror=function(){ res(null); };
+    }catch(e){ res(null); }
+  }); })();
+  function cacheGet(key){ return dbp.then(function(db){ if(!db) return null; return new Promise(function(res){
+    try{ var q=db.transaction('audio','readonly').objectStore('audio').get(key);
+      q.onsuccess=function(){ res(q.result||null); }; q.onerror=function(){ res(null); };
+    }catch(e){ res(null); } }); }); }
+  function cachePut(key,val){ dbp.then(function(db){ if(!db) return;
+    try{ db.transaction('audio','readwrite').objectStore('audio').put(val,key); }catch(e){} }); }
+
+  function b64ToBlob(b64,type){
+    var bin=atob(b64), len=bin.length, u8=new Uint8Array(len);
+    for(var i=0;i<len;i++) u8[i]=bin.charCodeAt(i);
+    return new Blob([u8],{type:type});
+  }
+
+  var flashEl=document.getElementById('bm-flash');
+  function flash(m){ if(!flashEl) return; flashEl.textContent=m; flashEl.style.opacity=1;
+    clearTimeout(flashEl._t2); flashEl._t2=setTimeout(function(){ flashEl.style.opacity=0; },2400); }
+
+  var audio=new Audio();
+  var active=null;   // state-a hevokê ya niha çalak
+
+  function setIcon(st,kind){
+    if(kind==='spin') st.toggle.innerHTML='<span class="tts-spin"></span>';
+    else if(kind==='pause') st.toggle.innerHTML=ICON.pause;
+    else st.toggle.innerHTML=ICON.play;
+  }
+
+  function kuText(ku){
+    var out=''; var ns=ku.childNodes;
+    for(var i=0;i<ns.length;i++){ out += (ns[i].nodeName==='BR') ? ' ' : (ns[i].textContent||''); }
+    return out.replace(/\s+/g,' ').trim();
+  }
+
+  function wrapWords(st){
+    if(st.wrapped) return;
+    st.wrapped=true; st.words=[];
+    var ku=st.ku, ns=ku.childNodes, ts=st.timestamps||[];
+    if(!ts.length) return;
+    if(!(ns.length===1 && ns[0].nodeType===3)) return;   // verse/dirûv: tenê deng, bê ronîkirin
+    var text=ns[0].nodeValue, low=text.toLowerCase(), from=0, positions=[];
+    for(var i=0;i<ts.length;i++){
+      var w=(ts[i].word||'').trim();
+      if(!w){ positions.push(null); continue; }
+      var idx=low.indexOf(w.toLowerCase(), from);
+      if(idx<0){ positions.push(null); continue; }
+      positions.push({s:idx,e:idx+w.length}); from=idx+w.length;
+    }
+    var frag=document.createDocumentFragment(), cur=0, words=[];
+    for(var j=0;j<positions.length;j++){
+      var p=positions[j];
+      if(!p){ words.push(null); continue; }
+      if(p.s>cur) frag.appendChild(document.createTextNode(text.slice(cur,p.s)));
+      var sp=document.createElement('span'); sp.className='w'; sp.textContent=text.slice(p.s,p.e);
+      frag.appendChild(sp); words.push(sp); cur=p.e;
+    }
+    if(cur<text.length) frag.appendChild(document.createTextNode(text.slice(cur)));
+    ku.replaceChild(frag, ns[0]);
+    st.words=words;
+  }
+
+  function clearHighlight(st){
+    if(st.words && st.lastWord>=0 && st.words[st.lastWord]) st.words[st.lastWord].classList.remove('w-on');
+    st.lastWord=-1;
+  }
+  function highlight(st,t){
+    var ts=st.timestamps, words=st.words;
+    if(!ts||!ts.length||!words||!words.length) return;
+    var idx=-1;
+    for(var i=0;i<ts.length;i++){ if(t>=ts[i].start && t<ts[i].end){ idx=i; break; } }
+    if(idx===st.lastWord) return;
+    if(st.lastWord>=0 && words[st.lastWord]) words[st.lastWord].classList.remove('w-on');
+    if(idx>=0 && words[idx]) words[idx].classList.add('w-on');
+    st.lastWord=idx;
+  }
+
+  function getAudio(text){
+    return cacheGet(text).then(function(hit){
+      if(hit && hit.blob) return { url:URL.createObjectURL(hit.blob), timestamps:hit.timestamps||[] };
+      return fetch(API,{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({text:text}) })
+        .then(function(r){ return r.json().then(function(j){ if(!r.ok) throw new Error(j.error||('HTTP '+r.status)); return j; }); })
+        .then(function(j){
+          var blob=b64ToBlob(j.audio,'audio/wav');
+          cachePut(text,{ blob:blob, timestamps:j.timestamps||[] });
+          return { url:URL.createObjectURL(blob), timestamps:j.timestamps||[] };
+        });
+    });
+  }
+
+  function deactivate(st){
+    if(active===st){ try{ audio.pause(); }catch(e){} }
+    st.wrap.classList.remove('active');
+    setIcon(st,'play');
+    clearHighlight(st);
+  }
+
+  function start(st){
+    if(active && active!==st) deactivate(active);
+    active=st; st.wrap.classList.add('active');
+    st.speedBtn.textContent=speedLabel(speedVal());
+    setIcon(st,'spin'); st.loading=true; st.toggle.disabled=true;
+    getAudio(kuText(st.ku)).then(function(d){
+      st.loading=false; st.toggle.disabled=false;
+      if(active!==st){ URL.revokeObjectURL(d.url); return; }
+      audio.src=d.url; st.timestamps=d.timestamps||[];
+      wrapWords(st);
+      audio.playbackRate=speedVal(); audio.currentTime=0;
+      return audio.play();
+    }).catch(function(err){
+      st.loading=false; st.toggle.disabled=false; setIcon(st,'play'); st.wrap.classList.remove('active');
+      if(active===st) active=null;
+      flash('TTS: '+((err&&err.message)||'çewtî'));
+    });
+  }
+
+  function onToggle(st){
+    if(st.loading) return;
+    if(active===st){ if(audio.paused) audio.play(); else audio.pause(); return; }
+    start(st);
+  }
+
+  audio.addEventListener('play', function(){ if(active) setIcon(active,'pause'); });
+  audio.addEventListener('pause', function(){ if(active && !audio.ended) setIcon(active,'play'); });
+  audio.addEventListener('ended', function(){ if(active){ setIcon(active,'play'); clearHighlight(active); try{audio.currentTime=0;}catch(e){} } });
+  audio.addEventListener('timeupdate', function(){ if(active) highlight(active, audio.currentTime); });
+  audio.addEventListener('error', function(){ if(active){ setIcon(active,'play'); active.wrap.classList.remove('active'); } });
+
+  function mkBtn(cls,title,icon){ var b=document.createElement('button'); b.className=cls; b.title=title; b.innerHTML=icon; return b; }
+
+  function ensurePlayer(sent){
+    if(sent._tts) return sent._tts;
+    var ku=sent.querySelector('.ku'); if(!ku) return null;
+    var wrap=document.createElement('span'); wrap.className='tts';
+    wrap.addEventListener('click', function(e){ e.stopPropagation(); });
+    var toggle=mkBtn('tts-toggle','Bilêvke',ICON.play);
+    var more=document.createElement('span'); more.className='tts-more';
+    var bR=mkBtn('tts-restart','Ji nû ve',ICON.restart);
+    var bB=mkBtn('tts-rw','-5s',ICON.rw);
+    var bF=mkBtn('tts-ff','+5s',ICON.ff);
+    var bS=document.createElement('button'); bS.className='tts-speed'; bS.title='Lez'; bS.textContent=speedLabel(speedVal());
+    more.appendChild(bR); more.appendChild(bB); more.appendChild(bF); more.appendChild(bS);
+    wrap.appendChild(toggle); wrap.appendChild(more);
+    sent.appendChild(wrap);
+    var st={ sent:sent, ku:ku, wrap:wrap, toggle:toggle, speedBtn:bS, loading:false, wrapped:false, words:[], lastWord:-1, timestamps:[] };
+    sent._tts=st;
+    toggle.addEventListener('click', function(e){ e.stopPropagation(); onToggle(st); });
+    bR.addEventListener('click', function(e){ e.stopPropagation(); if(active===st){ try{audio.currentTime=0;}catch(x){} if(audio.paused) audio.play(); } });
+    bB.addEventListener('click', function(e){ e.stopPropagation(); if(active===st){ try{audio.currentTime=Math.max(0,audio.currentTime-5);}catch(x){} } });
+    bF.addEventListener('click', function(e){ e.stopPropagation(); if(active===st){ try{audio.currentTime=Math.min(audio.duration||0,audio.currentTime+5);}catch(x){} } });
+    bS.addEventListener('click', function(e){ e.stopPropagation(); speedIdx=(speedIdx+1)%SPEEDS.length; if(active===st) audio.playbackRate=speedVal(); bS.textContent=speedLabel(speedVal()); });
+    return st;
+  }
+
+  // Delegasyon: dema hevokek vebe -> lîstik çêbike ; dema bigire -> rawestîne
+  document.addEventListener('click', function(e){
+    if(e.target.closest('.tts')) return;          // destek lîstikê bi xwe digirin
+    var sent=e.target.closest('.sent'); if(!sent) return;
+    if(sent.classList.contains('on')) ensurePlayer(sent);
+    else if(sent._tts && active===sent._tts){ deactivate(sent._tts); active=null; }
+  });
+
+  // "Hemûyan veke" jî divê lîstikan çêbike
+  var exAll=document.getElementById('ex-all');
+  if(exAll) exAll.addEventListener('click', function(){
+    document.querySelectorAll('.sent.on').forEach(function(s){ ensurePlayer(s); });
+  });
 })();
 </script>
 
