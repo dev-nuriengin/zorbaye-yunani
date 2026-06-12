@@ -50,11 +50,11 @@
   .verse{ text-indent:0; font-style:italic; margin:5mm 0 5mm 8mm; text-align:left; }
 
   /* ---- Hevok bi tikandinê: orîjînala îngilîzî li jêr xuya dibe ---- */
-  .sent{ cursor:pointer; }
+  .sent{ cursor:pointer; position:relative; }
   .sent:hover .ku{ background:rgba(120,90,30,0.10); }
   .sent .orig{ display:none; }
   .sent.on .orig{
-    display:block; text-indent:0; text-align:left;
+    display:block; position:relative; text-indent:0; text-align:left;
     margin:3mm 0 3.5mm 7mm; padding:1mm 0 1mm 5mm;
     border-left:2px solid #b9a77d; font-style:italic;
     color:#6b5d44; font-size:0.92em;
@@ -64,24 +64,30 @@
 
   /* ---- Bilêvkirin (TTS): lîstika dengî ya her hevokê ---- */
   .tts{ display:none; }
+  /* lîstik di valahiya çepê ya bloka îngilîzî de radiweste — ne di nav nivîsê de */
   .sent.on .tts{
-    display:inline-flex; align-items:center; gap:4px; vertical-align:middle;
-    margin:2mm 0 1mm 7mm; text-indent:0; user-select:none;
+    display:flex; flex-direction:column; align-items:flex-end; gap:5px;
+    position:absolute; top:0; right:100%; margin-right:3.5mm;
+    text-indent:0; user-select:none;
   }
+  /* bişkojka HTML: çargoşeyek gilover a bi sînor (ne xelek) */
   .tts button{
     -webkit-appearance:none; appearance:none; cursor:pointer;
     display:inline-flex; align-items:center; justify-content:center;
-    width:24px; height:24px; padding:0; border-radius:50%;
-    background:#f7f0db; border:0.6px solid #8a7a55; color:#5a4a22; line-height:0;
+    padding:5px 6px; border-radius:7px; line-height:0;
+    background:#f7f0db; border:1px solid #b9a77d; color:#5a4a22;
+    transition:background .15s, border-color .15s;
   }
-  .tts button:hover{ background:#fff; }
-  .tts button:disabled{ cursor:default; opacity:.7; }
-  .tts svg{ width:13px; height:13px; display:block; fill:currentColor; }
-  .tts-speed{ width:auto !important; padding:0 7px !important; border-radius:12px !important;
-    font:600 10px "Georgia",serif; line-height:1 !important; }
-  /* destek lîstikê yên zêde: tenê dema çalak xuya dibin */
-  .tts-more{ display:none; align-items:center; gap:4px; }
-  .tts.active .tts-more{ display:inline-flex; }
+  .tts button:hover{ background:#fff; border-color:#8a7a55; }
+  .tts button:disabled{ cursor:default; opacity:.6; }
+  .tts svg{ width:15px; height:15px; display:block; fill:none;
+    stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
+  .tts-toggle{ padding:6px 8px !important; }
+  .tts-speed{ padding:3px 7px !important; border-radius:7px !important;
+    font:600 10px "Georgia",serif; line-height:1 !important; color:#5a4a22; }
+  /* destek lîstikê yên zêde: tenê dema çalak xuya dibin (li jêr, di valahiyê de) */
+  .tts-more{ display:none; flex-direction:column; align-items:flex-end; gap:5px; }
+  .tts.active .tts-more{ display:flex; }
   /* spinner — tenê HTML/CSS, bê wêne */
   .tts-spin{ width:14px; height:14px; border-radius:50%;
     border:2px solid #c9bb98; border-top-color:#5a4a22; animation:tts-rot .7s linear infinite; }
@@ -611,12 +617,13 @@
 /* ---- Bilêvkirin (TTS): play/pause her hevokê + ronîkirina peyvan ---- */
 (function(){
   var API='/api/tts';
+  /* îkonên xêzkirî (outline) — wek bişkojkên referansê */
   var ICON={
-    play:'<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>',
-    pause:'<svg viewBox="0 0 24 24"><path d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg>',
-    restart:'<svg viewBox="0 0 24 24"><path d="M12 5V2L7 6l5 4V7a5 5 0 1 1-5 5H5a7 7 0 1 0 7-7z"/></svg>',
-    rw:'<svg viewBox="0 0 24 24"><path d="M11 6v12L3 12zM20 6v12l-8-6z"/></svg>',
-    ff:'<svg viewBox="0 0 24 24"><path d="M13 6v12l8-6zM4 6v12l8-6z"/></svg>'
+    play:'<svg viewBox="0 0 24 24"><polygon points="6 4 20 12 6 20 6 4"/></svg>',
+    pause:'<svg viewBox="0 0 24 24"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg>',
+    restart:'<svg viewBox="0 0 24 24"><polyline points="3 4 3 9 8 9"/><path d="M3.5 9.5A9 9 0 1 1 3 13"/></svg>',
+    rw:'<svg viewBox="0 0 24 24"><polygon points="11 5 4 12 11 19 11 5"/><polygon points="20 5 13 12 20 19 20 5"/></svg>',
+    ff:'<svg viewBox="0 0 24 24"><polygon points="13 5 20 12 13 19 13 5"/><polygon points="4 5 11 12 4 19 4 5"/></svg>'
   };
   var SPEEDS=[1,1.25,1.5,0.75], speedIdx=0;
   function speedVal(){ return SPEEDS[speedIdx]; }
@@ -771,7 +778,8 @@
     var bS=document.createElement('button'); bS.className='tts-speed'; bS.title='Lez'; bS.textContent=speedLabel(speedVal());
     more.appendChild(bR); more.appendChild(bB); more.appendChild(bF); more.appendChild(bS);
     wrap.appendChild(toggle); wrap.appendChild(more);
-    sent.appendChild(wrap);
+    // di bloka îngilîzî de cih digire da ku di valahiya çepê de, li jor-çepê, radiweste
+    (sent.querySelector('.orig') || sent).appendChild(wrap);
     var st={ sent:sent, ku:ku, wrap:wrap, toggle:toggle, speedBtn:bS, loading:false, wrapped:false, words:[], lastWord:-1, timestamps:[] };
     sent._tts=st;
     toggle.addEventListener('click', function(e){ e.stopPropagation(); onToggle(st); });
