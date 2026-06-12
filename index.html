@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Zorbayê Yûnanî — Nîkos Kazancakîs</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3Crect%20width=%2224%22%20height=%2224%22%20rx=%224%22%20fill=%22%23f4ecd2%22/%3E%3Cpath%20d=%22M7%203h10v18l-5-3.4L7%2021z%22%20fill=%22%237a5b1e%22/%3E%3C/svg%3E">
 <style>
   @page { size: A4; margin: 30mm 22mm 22mm 22mm; }
   html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
@@ -69,11 +70,34 @@
   }
   .pagemark::before{ content:"r."; opacity:.7; margin-right:2px; }
 
-  /* ---- Bara xwendinê (jêrîn): bookmark + rûpel ---- */
+  /* ---- Bara xwendinê: çekmece ji jêr ber bi jor (drawer) ---- */
+  .reader-drawer{
+    position:fixed; left:0; right:0; bottom:0; z-index:60;
+    display:flex; flex-direction:column; align-items:center;
+    transform:translateY(calc(100% - 34px));   /* girtî: tenê destik xuya dibe */
+    transition:transform .28s ease;
+    pointer-events:none;                        /* deverên vala rê li tikandinê venekin */
+  }
+  .reader-drawer.open{ transform:translateY(0); }
+  .reader-drawer > *{ pointer-events:auto; }
+
+  /* destika ku her dem xuya ye (digel rûpela niha) */
+  .drawer-handle{
+    height:34px; box-sizing:border-box;
+    display:flex; align-items:center; gap:9px;
+    background:#efe5c8; border:0.6px solid #2a241b; border-bottom:none;
+    border-radius:9px 9px 0 0; padding:0 16px; cursor:pointer;
+    font-family:"Georgia",serif; font-size:11px; color:#3a3225;
+    box-shadow:0 -1px 6px rgba(60,48,20,.15);
+  }
+  .drawer-handle b{ font-weight:bold; }
+  .drawer-handle .dh-arrow{ font-size:10px; transition:transform .28s ease; }
+  .reader-drawer.open .drawer-handle .dh-arrow{ transform:rotate(180deg); }
+
   .reader-bar{
-    position:fixed; bottom:0; left:0; right:0; z-index:60;
+    width:100%; box-sizing:border-box;
     display:flex; gap:7px 9px; align-items:center; justify-content:center; flex-wrap:wrap;
-    background:#efe5c8; border-top:0.6px solid #2a241b; padding:5px 9px;
+    background:#efe5c8; border-top:0.6px solid #2a241b; padding:6px 9px;
     font-family:"Georgia",serif; font-size:10.5px; color:#3a3225;
   }
   .reader-bar button{
@@ -81,16 +105,20 @@
     border-radius:5px; padding:3px 8px; color:#3a3225;
   }
   .reader-bar button:hover{ background:#fff; }
+  .reader-bar select{
+    font:inherit; background:#f7f0db; border:0.6px solid #8a7a55;
+    border-radius:5px; padding:2px 4px; color:#3a3225; cursor:pointer;
+  }
+  .reader-bar label{ display:flex; align-items:center; gap:4px; }
   .reader-bar .rb-item b{ font-weight:bold; }
   .reader-bar .rb-flash{ opacity:0; transition:opacity .3s; font-style:italic; color:#6b5d44; min-width:1px; }
   .reader-bar .rb-sep{ width:1px; align-self:stretch; background:#c9bb98; margin:0 2px; }
   .reader-bar .rb-group{ display:flex; align-items:center; gap:5px; }
-  .reader-bar .rb-group .rb-az{ font-style:italic; }
   .reader-bar input[type=range]{ width:96px; cursor:pointer; accent-color:#8a7a55; vertical-align:middle; }
 
   /* ---- Ekran: rûpel dagire, kêm valahî li kêlekan ---- */
   @media screen{
-    body{ background:#d9ccac; padding:62px 0 58px; font-size:17px; }
+    body{ background:#d9ccac; padding:62px 0 44px; font-size:17px; }
     .flow, .cover-host{
       width:100%; max-width:72rem; margin:0 auto; box-sizing:border-box;
       background:#f4ecd2; box-shadow:0 1px 10px rgba(60,48,20,.25);
@@ -108,7 +136,7 @@
     body{ background:#fff; color:#111; padding:0; font-size:12.5pt; }
     .run-head{ background:#fff; border-bottom-color:#111; }
     .run-head .rh-en{ color:#333; }
-    .reader-bar{ display:none !important; }
+    .reader-bar, .reader-drawer, .drawer-handle{ display:none !important; }
     .pagemark{ display:none !important; }
     .sent .orig{ display:none !important; }
     .sent:hover .ku{ background:none; }
@@ -347,21 +375,30 @@
 <p><span class="sent"><span class="ku">Min yek ji pirteqalên av-pir qalî kir; ew wek hingiv şîrîn bû. </span><span class="orig">I peeled one of the juicy oranges; it was as sweet as honey.</span></span><span class="sent"><span class="ku">Ez razam, ketim xewê, û tevahiya şevê ez di baxçeyên pirteqalan de geriyam. </span><span class="orig">I lay down, fell asleep, and the whole night through I wandered in orange groves.</span></span><span class="sent"><span class="ku">Bayekî germ dihat; min sînga xwe li ber bayê tazî kiribû û çiqilek rîhanê li pişt guhê min hebû. </span><span class="orig">A warm wind was blowing; I had bared my chest to the wind and had a sprig of sweet basil behind my ear.</span></span><span class="sent"><span class="ku">Ez gundiyekî ciwan ê bîst salî bûm, û ez li baxçeyê pirteqalan digeriyam, fîk lê dixist û li bendê bûm. </span><span class="orig">I was a young peasant of twenty, and I roamed about the orange grove whistling and waiting.</span></span><span class="sent"><span class="ku">Ez li hêviya kê bûm? — ez nizanim. Lê dilê min amade bû ku ji şahiyê biteqe. </span><span class="orig">For whom was I waiting? -- I do not know. But my heart was ready to burst for joy.</span></span><span class="sent"><span class="ku">Min simbêlên xwe badan û guhdarî kir, tevahiya şevê, behra ku wek jinekê li pişt daran pirteqalê dikişand. </span><span class="orig">I twirled up my moustache and listened, the whole night through, to the sea sighing like a woman behind the orange trees.</span></span></p>
 </article>
 
-<div class="reader-bar">
-  <span class="rb-item">Rûpel (PDF): <b id="curpage">&mdash;</b></span>
-  <span class="rb-sep"></span>
-  <button id="bm-set">Şopê deyne</button>
-  <button id="bm-go">Here şopê <small id="bm-page"></small></button>
-  <span class="rb-sep"></span>
-  <span class="rb-group">
-    <button id="fs-dn" title="Biçûktir">A&minus;</button>
-    <input id="fs-range" type="range" min="12" max="34" step="1" value="17" aria-label="Mezinahiya nivîsê">
-    <button id="fs-up" title="Mezintir">A+</button>
-  </span>
-  <span class="rb-sep"></span>
-  <button id="ex-all">Hemûyan veke</button>
-  <button id="col-all">Hemûyan bigire</button>
-  <span id="bm-flash" class="rb-flash"></span>
+<div class="reader-drawer" id="reader-drawer">
+  <div class="drawer-handle" id="drawer-handle" role="button" tabindex="0" aria-label="Bara xwendinê veke/bigire">
+    <span class="dh-arrow">&#9650;</span>
+    <span>Rûpel (PDF): <b id="curpage">&mdash;</b></span>
+  </div>
+  <div class="reader-bar">
+    <span class="rb-group">
+      <label>Rûpel <select id="page-select"></select></label>
+      <label>Beş <select id="chap-select"></select></label>
+    </span>
+    <span class="rb-sep"></span>
+    <button id="bm-set">Şopê deyne</button>
+    <button id="bm-go">Here şopê <small id="bm-page"></small></button>
+    <span class="rb-sep"></span>
+    <span class="rb-group">
+      <button id="fs-dn" title="Biçûktir">A&minus;</button>
+      <input id="fs-range" type="range" min="12" max="34" step="1" value="17" aria-label="Mezinahiya nivîsê">
+      <button id="fs-up" title="Mezintir">A+</button>
+    </span>
+    <span class="rb-sep"></span>
+    <button id="ex-all">Hemûyan veke</button>
+    <button id="col-all">Hemûyan bigire</button>
+    <span id="bm-flash" class="rb-flash"></span>
+  </div>
 </div>
 
 <script>
@@ -371,6 +408,48 @@
   var firstPage = marks.length ? marks[0].getAttribute('data-page') : '—';
   var curEl=document.getElementById('curpage');
   var flashEl=document.getElementById('bm-flash');
+
+  // ---- Çekmece: veke/bigire (girtî di destpêkê de) ----
+  var drawer=document.getElementById('reader-drawer');
+  var handle=document.getElementById('drawer-handle');
+  function toggleDrawer(){ if(drawer) drawer.classList.toggle('open'); }
+  if(handle){
+    handle.addEventListener('click', toggleDrawer);
+    handle.addEventListener('keydown', function(e){
+      if(e.key==='Enter'||e.key===' '){ e.preventDefault(); toggleDrawer(); }
+    });
+  }
+
+  // ---- Birina cî: offset ji bo sernavka jorîn ----
+  function jumpTo(el){
+    if(!el) return;
+    var top = el.getBoundingClientRect().top + window.scrollY - 80;
+    window.scrollTo({ top: Math.max(0, top), behavior:'smooth' });
+  }
+
+  // ---- Hilbijêrê rûpelê (ji nîşanên ##PG) ----
+  var pageSel=document.getElementById('page-select');
+  if(pageSel){
+    marks.forEach(function(m){
+      var p=m.getAttribute('data-page');
+      var o=document.createElement('option'); o.value=p; o.textContent=p; pageSel.appendChild(o);
+    });
+    pageSel.addEventListener('change', function(){
+      var m=null;
+      for(var i=0;i<marks.length;i++){ if(marks[i].getAttribute('data-page')===this.value){ m=marks[i]; break; } }
+      jumpTo(m);
+    });
+  }
+
+  // ---- Hilbijêrê beşê (ji sernavên beşan) ----
+  var chapSel=document.getElementById('chap-select');
+  var chapEls=[].slice.call(document.querySelectorAll('.chapter-num'));
+  if(chapSel){
+    chapEls.forEach(function(h,i){
+      var o=document.createElement('option'); o.value=String(i); o.textContent=h.textContent.trim(); chapSel.appendChild(o);
+    });
+    chapSel.addEventListener('change', function(){ jumpTo(chapEls[parseInt(this.value,10)]); });
+  }
 
   // tikandin -> orîjînala îngilîzî veke/bigire
   var allSents=document.querySelectorAll('.sent');
@@ -407,7 +486,11 @@
     }
     return cur;
   }
-  function refresh(){ if(curEl) curEl.textContent = currentPage(); }
+  function refresh(){
+    var p=currentPage();
+    if(curEl) curEl.textContent = p;
+    if(pageSel && pageSel.value!==String(p)) pageSel.value = String(p);
+  }
 
   var ticking=false;
   window.addEventListener('scroll', function(){
