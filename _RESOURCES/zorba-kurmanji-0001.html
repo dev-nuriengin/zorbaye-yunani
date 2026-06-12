@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="ku">
+<head>
+<meta charset="UTF-8">
+<title>Zorbayê Yûnanî — Nîkos Kazancakîs</title>
+<style>
+  /* ---- Rûpel: A4, ji bo çapê amade, paşê dikare bibe pirtûka qatkirî ---- */
+  @page {
+    size: A4;
+    margin: 22mm 24mm 24mm 24mm;
+  }
+
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+  body {
+    font-family: "Georgia", "Times New Roman", serif;
+    font-size: 12.5pt;
+    line-height: 1.6;
+    color: #111;
+    margin: 0;
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+  }
+
+  /* Her .page yek beşê çapê ye (bi destê me hatî sazkirin) */
+  .page {
+    page-break-after: always;
+    break-after: page;
+  }
+  .page:last-child { page-break-after: auto; }
+
+  /* Naveroka ku xwe bi xwe li ser çend rûpelan belav dibe */
+  .flow { page-break-after: auto; }
+
+  /* ---------- BERG (kêm hibir: tenê xêzên zirav, tu cihê reş ê tije nîn e) ---------- */
+  .cover {
+    min-height: 247mm;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1.5px solid #111;
+    padding: 18mm 14mm;
+    box-sizing: border-box;
+    position: relative;
+  }
+  .cover .motif {
+    font-size: 20pt;
+    letter-spacing: 8px;
+    margin: 8mm 0;
+  }
+  .cover .title {
+    font-size: 40pt;
+    letter-spacing: 1px;
+    line-height: 1.12;
+    margin: 0;
+    font-weight: normal;
+  }
+  .cover .rule {
+    width: 52mm;
+    border: none;
+    border-top: 1px solid #111;
+    margin: 9mm 0;
+  }
+  .cover .author {
+    font-size: 17pt;
+    letter-spacing: 1px;
+    margin-top: 4mm;
+  }
+  .cover .subtitle {
+    font-size: 13pt;
+    font-style: italic;
+    letter-spacing: 3px;
+    margin-top: 7mm;
+    text-transform: uppercase;
+  }
+  .cover .footer {
+    position: absolute;
+    bottom: 18mm;
+    left: 0; right: 0;
+    font-size: 10pt;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #333;
+  }
+
+  /* ---------- RÛPELÊN BEŞAN ---------- */
+  .chapter-num {
+    text-align: center;
+    font-size: 26pt;
+    margin: 6mm 0 2mm 0;
+    font-weight: normal;
+  }
+  .chapter-rule {
+    width: 28mm;
+    border: none;
+    border-top: 1px solid #111;
+    margin: 0 auto 11mm auto;
+  }
+  p { margin: 0 0 4mm 0; text-indent: 6mm; }
+  p.first { text-indent: 0; }
+  p.first::first-letter {
+    font-size: 240%;
+    line-height: 1;
+    font-weight: bold;
+    padding-right: 2px;
+  }
+  /* Stran / helbest: paldayî, ne tije reş */
+  .verse {
+    text-indent: 0;
+    font-style: italic;
+    margin: 4mm 0 4mm 8mm;
+    text-align: left;
+  }
+
+  /* ---------- Dîmena ekranê: da ku di geroka tevê de wek pirtûkê xuya bibe ---------- */
+  @media screen {
+    body { background: #f3f3f0; }
+    .page, .flow {
+      width: 210mm;
+      background: #fff;
+      margin: 10mm auto;
+      padding: 22mm 24mm 24mm 24mm;
+      box-sizing: border-box;
+      box-shadow: 0 1px 8px rgba(0,0,0,0.18);
+    }
+    .page { min-height: 297mm; }
+    .cover { min-height: 253mm; }
+  }
+</style>
+</head>
+<body>
+
+<!-- ============ BERG ============ -->
+<section class="page">
+  <div class="cover">
+    <div class="motif">&#10086;</div>
+    <h1 class="title">Zorbayê<br>Yûnanî</h1>
+    <hr class="rule">
+    <div class="author">Nîkos Kazancakîs</div>
+    <div class="subtitle">Roman</div>
+    <div class="footer">Wergera Kurmancî</div>
+  </div>
+</section>
+
+<!-- ============ BEŞ 10 ============ -->
+<article class="flow">
+  <h2 class="chapter-num">10</h2>
+  <hr class="chapter-rule">
+
+  <p class="first">«Vêca çi ev afirand: ev labîrenta dudiliyê, ev perestgeha pozbilindiyê, ev cêra gunehan, ev zeviya ku hezar xap tê de hatine çandin, ev deriyê dojehê, ev selîka ku ji fêlbaziyê tije ye, ev jehra ku tama wê wek hingiv e, ev zincîra ku mirovan bi erdê ve girê dide: jin?» Min hêdî hêdî, bêdeng ev strana Bûdayî ji nû ve dinivîsî, li ser erdê li nêzî mangalê rûniştî bûm. Min efsûn li ser efsûnê diceriband, dixwest wêneyê laşê jinekê yê ji baranê şilbûyî ji hişê xwe biavêjim — ew wêneyê ku her şev di wê payîzê de di hewaya şil de li ber çavên min diçû û dihat, bi hejîna ranan. Ji wê rojê ku gal hilweşiya û jiyana min hema hema qut bû ve, min jinebî di xwîna xwe de hîs dikir. Wek heywanekî hov gazî min dikir, bi lez û bi gilî.</p>
+
+  <p>«Were! Were!» diqîriya. «Jiyan wek birûskê derbas dibe. Bi lez were, were, were, berî ku pir dereng bibe!»</p>
+
+  <p>Min baş dizanî ku ev Mara bû, ruhê Xerabiyê, di şiklê jinekê de bi ran û qûnên bihêz. Min li dijî wî şer dikir. Min xwe da nivîsandina Bûda, çawa ku mirovên hov di şkeftên xwe de bi kevirekî tûj heywanên birçî û dirinde yên ku li dora wan digeriyan dikolan an bi sor û spî dinexşandin. Wan jî hewl dida ku bi kolan û nexşandina van heywanan, wan li ser zinaran bi cih bikin. Eger wan wisa nekira, dê heywanan xwe bavêtina ser wan.</p>
+
+  <p>Ji roja ku ez hema hema bin axê de nemam ve, jinebî bê navber di hewaya agirîn a tenêtiya min de derbas dibû, gazî min dikir û ranên xwe bi şehwet dihejand. Bi roj ez bihêz bûm, hişê min şiyar bû û min karî ku wê biavêjim. Min dinivîsî ka Ceribkar bi çi awayî li ber Bûda xuya bû, çawa şiklê jinekê girt, çawa memikên xwe yên hişk li çokên zahid pêçandin, çawa Bûda metirsî dît, hemû hêza xwe kom kir û Xerabî têk bir.</p>
+
+  <p>Her hevokek ku min dinivîsî rihetiyeke nû dida min, min wêrekî digirt, min hîs dikir ku Xerabî paşde diçû, bi efsûna hêzdar a peyvê hatibû avêtin. Bi roj min bi hemû hêza xwe şer dikir, lê bi şev hişê min çekên xwe datanîn, deriyên hundir vedibûn û jinebî dikete hundir. Sibehê ez westiyayî û têkçûyî hişyar dibûm, û têkoşîn ji nû ve dest pê dikir.</p>
+
+  <p>Çaxê min serê xwe ji kaxezê bilind dikir, dawiya êvarê bû; ronahî dihate qewirandin; tarî ji nişkê ve bi ser min de dadiket. Roj kurt dibûn, Sersal nêzîk dibû. Min xwe bi hemû hêza xwe avêt nav têkoşînê. Min ji xwe re digot: ez ne tenê me. Hêzeke mezin, ronahiya rojê, jî şer dike. Ew jî carinan têk diçe, carinan bi ser dikeve. Lê hêviya xwe winda nake. Ez bi ronahiyê re têkoşîn dikim û hêvî dikim!</p>
+
+  <p>Wisa dihat ber min, û ev fikir wêrekî dida min, ku di şerê li dijî jinebiyê de ez jî bi ahengeke mezin a gerdûnî re hevdeng bûm. Min fikirî: maddeya fêlbaz vî laşî hilbijartiye, da ku hêdî hêdî wî agirê azad ê ku di hundirê min de dibiriqe vemirîne. Min ji xwe re got: hêza nemir a ku maddeyê dike ruh, ya xwedayî ye. Her mirovekî di hundirê xwe de hêmaneke ji wî bagerê xwedayî heye, û bi vî awayî dikare nan, av û goşt veguherîne fikir û kar. Zorba rast digot: «Bibêje min tu bi tiştê ku dixwî çi dikî, ezê bibêjim tu kî yî!» Û wisa min bi zehmetî hewl dida ku wê daxwaza tund a goşt veguherînim Bûda.</p>
+
+  <p>«Tu li ser çi difikirî, axa? Tu ne wek xwe yî,» Zorba di şeva berî Sersalê de got. Wî texmîneke jîr dikir ka ez li dijî kîjan cinî şer dikim. Min xwe wisa nîşan da ku min nebihîst. Lê Zorba ne ew kes bû ku wisa hêsanî dest jê berde.</p>
+
+  <p>«Tu ciwan î, axa,» got. Û ji nişkê ve dengê wî tehl û bi hêrs bû. «Tu ciwan î û pir saxlem î, baş dixwî, baş vedixwî, hewaya behrê ya geş dikişînî hundir, û hêz kom dikî — lê tu bi vê hemûyê çi dikî? Tu bi tenê radizê, û ev heyf e ji wê hêzê re! Îşev here wir — erê, wextê xwe winda neke! Axa, her tişt di vê dinyayê de hêsan e. Çend caran divê ez ji te re bibêjim? Loma neçe û tiştan tevlihev neke!»</p>
+
+  <p>Destnivîsa Bûda li ber min vekirî bû û min pelên wê diqulibandin dema ku ez li gotinên Zorba guhdarî dikim, û min fêm dikir ku ew rêyeke piştrast, dilkêş û pir mirovî nîşanî min didin. Dîsa ruhê Mara bû, ew dehfdarê fêlbaz, ku gazî dikir. Min bê tu peyvê guhdarî dikir û hêdî hêdî pelên destnivîsê diqulibandin. Min fîk lê dixist da ku hestên xwe veşêrim.</p>
+
+  <p>Lê Zorba, çaxê dît ku ez napeyivim, ji nişkê ve teqiya: «Ev şeva berî Sersalê ye, hevalê min, lezê bike, berî ku ew here dêrê xwe bigihîne wê. Îşev Îsa dê çêbibe, axa; tu jî here û keramata xwe bike!»</p>
+
+  <p>Ez bi acizî rabûm. «Bes e, Zorba,» min got. «Her kes li gor xwesleta xwe diçe. Mirov wek darekê ye. Tu tu caran bi dara hêjîrê re pev neçûyî ji ber ku gêlas nade, ne wisa? Vêca, bes e! Hema hema nîvê şevê ye. Em herin dêrê û em bi xwe bibînin ka Îsa çawa çêdibe.»</p>
+
+  <p>Zorba kumê xwe yê stûr ê zivistanê li serê xwe kişand. «Baş e, vêca!» bi xemgînî got. «Em herin! Lê ez dixwazim tu bizanî ku Xwedê dê pir bêtir kêfxweş bûya eger tu îşev mîna Cebraîlê milyaket biçûya ba jinebiyê. Eger Xwedê jî heman rê wek te bigirta, axa, ew tu caran neçûya ba Meryemê û Îsa tu caran çênedibû. Eger tu ji min bipirsî ka Xwedê li ser kîjan rê dimeşe, ezê bibêjim: ya ku diçe ba Meryemê. Meryem ew jinebî ye.»</p>
+
+  <p>Bê fêde û bêdeng li bersiva min sekinî. Derî bi hêz vekir û derket. Bi serê gopalê xwe bi hêrs li keviran dixist. «Erê,» bi israr dubare kir, «Meryem ew jinebî ye!»</p>
+
+  <p>«Vêca, em herin!» min got. «Neqîre!»</p>
+
+  <p>Em di şeva zivistanê de bi lezeke baş dimeşiyan. Ezman bi temamî zelal bû, stêrk mezin xuya dikirin û nizm li ezmanan daleqandî bûn wek gûyên agir. Şev, dema ku em li ber peravê diçûn, dişibiya heywanekî reş ê mezin ê ku li ber lêva avê dirêj bûyî.</p>
+
+  <p>«Ji îşev ve,» min ji xwe re got, «ronahiya ku zivistanê paşde avêtibû, dê dest bi şereke serketî bike. Mîna ku ev şev bi xwedayê pitik re çêbûbe.»</p>
+
+  <p>Hemû gundî li hundirê dêrê yê germ û bîhnxweş kom bûbûn. Mêr li pêş sekinîbûn û jin, bi destên girêdayî, li paş. Keşîşê dirêj, Stefanos, piştî rojiya çil rojan di rewşeke pir aciz de bû. Bi rîda xwe ya zêrîn a giran, bi gavên mezin vir û wê de direvî, bixûrdana xwe dihejand, bi dengê herî bilind distira û pir bilez bû ku bibîne Îsa çêdibe û here malê ji bo şorbeyeke stûr, sosîsên bîhnxweş û goştên dûkêşkirî....</p>
+
+  <p>Eger di pirtûkên pîroz de hatibûya gotin: «Îro, ronahî çêdibe,» dilê mirov dê neperikiya. Ev fikir dê nebûya efsane û dê dinya dest nexista. Wan tenê dê diyardeyeke fizîkî ya asayî teswîr bikira û dê xeyala me — yanî ruhê me — neşewitanda. Lê ronahiya ku di dilê zivistanê de çêdibe bûye zarok û zarok bûye Xwedê, û bîst sedsalan e ku ruhê me wê dimije....</p>
+
+  <p>Merasîma nepenî demek piştî nîvê şevê bi dawî bû. Îsa çêbûbû. Gundiyên birçî û bextewar bi bezê çûn malê, da ku xwarinekê bixwin û di kûrahiya hinava xwe de razê bedenbûnê hîs bikin. Zik bingehê hişk e; nan, şerab û goşt tiştên herî pêwîst in; tenê bi nan, şerab û goşt mirov dikare Xwedê biafirîne.</p>
+
+  <p>Stêrk mezin wek milyaketan li ser qubeya spî ya dêrê dibiriqîn. Rêya Kadîz wek çemekî ji aliyekî ezman heta yê din diherikî. Stêrkeke kesk li jorê me wek zimrûdekê dibiriqî. Min axîn kişand, dîlê hestên xwe.</p>
+
+  <p>Zorba berê xwe da min. «Axa, tu bawer dikî? Ku Xwedê bûye mirov û di tewleyekê de çêbûye? Tu bawer dikî, an tu tenê me dixapînî?»</p>
+
+  <p>«Zehmet e mirov bibêje, Zorba,» min bersiv da. «Ez nikarim bibêjim ez bawer dikim, ne jî ku nakim. Tu çawa?»</p>
+
+  <p>«Ez jî nikarim bibêjim ez dikim. Bi tu awayî nikarim. Binêre, dema ez zarok bûm û dapîra min çîrok ji min re digotin, min peyvek jî bawer nedikir. Û dîsa jî ez ji heyecanê dilerizîm, ez dikeniyam û ez digiriyam, mîna ku min bawer dikira. Çaxê rî li çenê min hat, min ew berdan, min heta pê dikeniya jî; lê niha, di pîrbûna xwe de — texmîn dikim ez nerm dibim, ne wisa axa? — bi awayekî ez dîsa bawer dikim.... Mirov sirr e!»</p>
+
+  <p>Me rêya ku diçû mala Madam Hortans girtibû û em wek du hespên birçî yên ku bîhna tewleyê digirin dest bi bezê kirin. «Bavên pîroz pir fêlbaz in, tu dizanî!» Zorba got. «Bi rêya zikê te xwe digihînin te, vêca tu çawa ji wan xilas dibî? Çil rojan, dibêjin, goşt naxwî, şerabê venaxwî; tenê rojî bigire. Çima? Da ku tu ji bo goşt û şerabê bikevî hesretê. Ax, berazên qelew, ew hemû fêlên lîstikê dizanin!»</p>
+
+  <p>Wî hê bileztir dest bi meşê kir. «Em bilezînin, axa,» got. «Divê elok niha tam pijiyabe!»</p>
+
+  <p>Çaxê em gihîştin odeya xanima me ya delal, bi nivîna xwe ya mezin a dilkêş, me mase bi qumaşekî spî nixumandî dît, û li ser wê elok germ-germ li ser pişta xwe rakirî bû, lingên wê ji hev vekirî. Mangal germahiyeke nerm belav dikir. Madam Hortans porê xwe lewitandibû û kirasekî dirêj ê pembeyê çilmisî yê bi destikên mezin û tevneyên qetiyayî li xwe kiribû. Li dora situyê xwe yê qermiçandî bendeke teng a zer-kenarî, qasî bejna du tiliyan, hebû. Wê bi camêrî ava kulîlka pirteqalê li xwe reşandibû.</p>
+
+  <p>Çiqas her tişt li ser vê erdê bi temamî li hev tê, min fikirî. Çiqas erd bi dilê mirov re li hev tê! Va ye ev stranbêja kabareyê ya pîr a ku jiyaneke pir bilez derbas kiriye, û niha, li vê peravê tenê hatî avêtin, di vê odeya reben de hemû xema pîroz û germahiya jinaniyê kom dike. Xwarina bol û bi baldarî amadekirî, mangala dişewite, laşê boyaxkirî û xemilandî, bîhna kulîlka pirteqalê — bi çi lezê û bi çi sadetiyê ev hemû kêfên biçûk, bedenî û pir mirovî diguherin nav şahiyeke mezin a ruhanî!</p>
+
+  <p>Dilê min ji nişkê ve di sîngê min de perikî. Min di wê êvara bi rûmet de hîs kir ku ez li vir li ser vê peravê vala ne bi tena serê xwe me. Afirîdek tije dilsoziya jinanî, dilovanî û sebir ber bi min de dihat: ew dê, xwişk û jin bû. Û ez, ê ku digot pê re ne hewceyî tiştekî me, ji nişkê ve hîs kir ku ez hewceyî her tiştî me.</p>
+
+  <p>Diviya Zorba jî hesteke wisa hîs kiribe, çimkî hema em ketin odeyê, ew bezî ber bi stranbêja xemilandî ve û hembêz kir. «Îsa çêbû!» qîriya. «Silav li te, mêya cinsê me!» Berê xwe da min, dikeniya. «Binêre, axa, jin çi afirîdeke fêlbaz e! Ew dikare Xwedê jî li dora tiliya xwe ya biçûk bipêçe!»</p>
+
+  <p>Em li ber masê rûniştin; me xwarin bi birçîtî xwarin û şerab vexwar. Laşên me têr bûn û ruhên me ji kêfê diricifîn. Zorba dîsa geş bû. «Bixwe û vexwe,» bê navber diqîriya. «Bixwe û vexwe, axa, û germ bibe! Tu jî bistirê, kuro, wek şivanan bistirê: ‹Rûmet ji yê herî jor re!... Rûmet ji yê herî nizm re...› Îsa çêbû, ev tiştekî ecêb e, tu dizanî. Stranê bilind bike û bila Xwedê te bibihîze û şa bibe.»</p>
+
+  <p>Wî bi temamî kêfa xwe vegerandibû, û rawestandina wî tune bû. «Îsa çêbû, Silêmanê min ê zana, mirîzê min ê reben ê qeleman! Tiştan bi derziyê hilnede! Çêbûye an çênebûye? Helbet çêbûye, dîn nebe. Eger tu camekê bigirî û li ava vexwarina xwe binêrî — endezyarekî rojekê ev ji min re got — tê bibînî, got, av tije kurmikên biçûk e ku tu bi çavê tazî nikarî bibînî. Tê kurmikan bibînî û tê venexwî. Tê venexwî û tê ji tîbûnê bibirûzî. Camê bişkêne, axa, û kurmikên biçûk dê winda bibin û tê bikarî vexwî û rehet bibî!»</p>
+
+  <p>Berê xwe da hevala me ya xemilandî, qedeha xwe ya tije bilind kir û got: «Bûbûlîna min a pir delal, hevala min a kevn a şer, ez dixwazim li ser tenduristiya te vexwim! Min di jiyana xwe de gelek peykerên pêşiya keştiyê dîtine; ew li serê keştiyê hatine mîxkirin, memikên xwe di destên xwe de digirin, û rû û lêvên wan bi sorahiyeke agirîn boyaxkirî ne. Wan li ser hemû behran rê kiriye, ketine her benderê, û çaxê keştî ket perçe-perçe, ew tên ser hişkayê û, heta dawiya rojên xwe, li dîwarê meyxaneyeke masîgirekî paldayî dimînin, ku kaptan tên wir vedixwin. Bûbûlîna min, îşev, dema ku ez te li ser vê peravê dibînim, niha ku zikê min tije tiştên xweş e û çavên min vekirî ne, tu ji min re wek peykera keştiyeke mezin xuya dikî. Û ez bendera te ya dawî me, ez ew meyxane me ku kaptanên behrê tên vedixwin. Were, xwe bide ser min, kelekên xwe daxe! Ez vê qedeha şeraba Krêtayî li ser tenduristiya te vedixwim, sîrena min!»</p>
+
+  <p>Bi hest û bê hêz, Madam Hortans dest bi giriyê kir û xwe da ser milê Zorba. «Tu ê bibînî, axa,» Zorba di guhê min de pist-pist kir, «axaftina min a xweş dê min têxe nav hin derdan. Ev dê îşev nexwaze min berde. Lê, ev e, dilê min bi vê afirîdê reben dişewite, erê, ez dilovaniya wan dikim!» «Îsa çêbû!» bi dengekî bilind ji sîrena xwe re qîriya. «Li ser tenduristiya me!» Wî milê xwe xiste bin milê xanima me û wan bi hev re qedehên xwe vexwarin, mil di mil de, û bi heyecan li hev dinêrîn.</p>
+
+  <p>Spêde ne dûr bû dema ku min ew her du li wê odeya razanê ya germ a biçûk bi nivîna wê ya mezin hiştin û rêya malê girt. Gundiyan baş xwaribû û vexwaribû, û niha gund radiza bi derî û pencereyên girtî, di bin stêrkên mezin ên zivistanê de. Sar bû, behr dixuriya, Zuhre bi şeytanetî li rojhilatê dans dikir. Ez li ber lêva avê dimeşiyam û bi pêlan re dilîstim. Ew dibezîn da ku min şil bikin û ez direviyam. Ez bextewar bûm û min ji xwe re got: «Ev bextewariya rastîn e: ku tu tu armanc nebî û dîsa wek hespekî bixebitî mîna ku hemû armancên te hebin. Ku tu dûrî mirovan bijî, ne hewceyî wan bî û dîsa jî ji wan hez bikî. Ku tu beşdarî cejna Sersalê bibî û, piştî ku te baş xwar û vexwar, bi tena serê xwe ji hemû xefkan bireviyî, stêrk li jorê te, erd li milê çepê û behr li milê rastê te bin: û ji nişkê ve fêm bikî ku, di dilê te de, jiyanê keramata xwe ya dawî pêk aniye: ew bûye çîroka periyan.»</p>
+
+  <p>Roj derbas dibûn. Min hewl dida ku rûyekî wêrek nîşan bidim, ez diqîriyam û dînîtiyê dikim, lê di kûrahiya dilê xwe de min dizanî ku ez xemgîn im. Di vê heftiya cejnan de, bîranîn şiyar bûbûn û sîngê min bi muzîkeke dûr û bi ezîzan tije kiribûn. Dîsa rastiya wê gotina kevn li min ket: dilê mirov çalek e tije xwîn. Ezîzên ku mirine xwe diavêjin ser kêleka vê çalê da ku xwînê vexwin û wisa dîsa zindî bibin; çiqas ji te re ezîztir bin, ewqas xwîna te bêtir vedixwin.</p>
+
+  <p>Şeva Sersalê. Komeke zarokên gundê ku keştiyeke mezin a kaxezî hildigirtin hatin koxika me û bi dengên xwe yên tûj û şa dest bi stranên Sersalê kirin: «Aziz Vasîlê Mezin ji Qeyseriyê, bajarê xwe yê zikmakî, hat...» Ew li vir li ser vê peravê biçûk a Krêtayî li ber behra şîn a tarî sekinîbû. Xwe da ser gopalê xwe û gopalê wî ji nişkê ve bi pel û kulîlkan nixumî. Strana Sersalê bilind bû:</p>
+
+  <p class="verse">Sala we ya nû pîroz be, Xiristiyanno!<br>
+  Axa, bila mala te bi genim, zeyt û şerabê tije bibe;<br>
+  bila jina te bibe stûneke mermerî ji banê mala te re;<br>
+  bila keça te bizewice û neh kur û keçek bîne;<br>
+  bila van kuran Konstantînopolîsê, bajarê padîşahên me, azad bikin!</p>
+
+  <p>Zorba bi heyecan guhdarî dikir. Wî defa zarokan girtibû û bi dînîtî lê dixist. Min temaşe dikir û guhdarî dikir bê tu gotin. Min hîs dikir ku pelek din ji dilê min dikeve, derbasbûna saleke din. Ez gaveke din ber bi çalê reş ve dimeşiyam. «Çi bi serê te hat, axa?» Zorba pirsî, di navbera stranê de ku bi dengê herî bilind bi zarokan re distira û li defê dixist. «Çi bi serê te hat, kuro? Tu bi salan kal xuya dikî, û rûyê te gewr bûye. Ev ew dem e ku ez dîsa dibim kurikekî biçûk; ez ji nû ve çêdibim, wek Îsa. Ma ew her sal çênabe? Ez jî wisa!»</p>
+
+  <p>Ez li ser nivîna xwe razam û çavên xwe girtin. Dilê min wê şevê di hewayekî hov de bû; min nedixwest bipeyivim. Min nikaribû razêm. Min hîs dikir ku divê ez heman şevê hesabê karên xwe bidim. Min tevahiya jiyana xwe ji ber çavan re derbas kir, ku bêtam, bêhevseng û dudilî, wek xewnekê xuya dikir. Min bi bêhêvîtî lê nihêrî. Wek ewrekî hirî ku ji ber bayên ji bilindahiyan tê êrişkirin, jiyana min bê navber şikil diguhert. Diket perçe-perçe, ji nû ve çêdibû, diguherî — bi dorê, qûyek, kûçikek, cinek, dûpişkek, meymûnek bû — û ewr her dem dihate qetandin. Bi bayên ezman dihate ajotin û bi keskesorê dihate ronîkirin.</p>
+
+  <p>Roj hilat. Min çavên xwe venekirin. Min hewl dida ku hemû hêza xwe li ser daxwaza xwe ya geş kom bikim — ku qalikê hiş bişkênim û têkevim wê kanala tarî û metirsîdar ku her dilopa mirovî pê tê birin da ku bi okyanusê re tev bibe. Min dixwest perdeyê biçirînim û bibînim ka Sala Nû dê çi ji min re bîne....</p>
+
+  <p>«Sibe baş, axa. Sala te pîroz be!» Dengê Zorba ez bi hovîtî vegerandim erdê. Min çavên xwe vekirin tam di wextê de ku min dît Zorba hinarekî mezin avêt nav deriyê koxikê. Tovên wê, wek yaqûtên zelal, heta nivîna min belav bûn. Min çend hilanîn û xwarin, û qirika min rehet bû.</p>
+
+  <p>«Ez hêvî dikim em pereyên gelek qezenc bikin û keçên bedew dilê me bibin!» Zorba bi kêfxweşî qîriya. Xwe şuşt, rîya xwe taşt û cilên xwe yên herî baş li xwe kirin — şalekî kesk ê qumaş û çakêtekî ku li malê hatibû çêkirin, ku li ser wî kurkekî nîv-astarî yê ji çermê bizinê avêt. Kumê xwe yê rûsî yê astraxan li xwe kir û simbêlên xwe badan. «Axa,» got, «ezê wek nûnerê Şirketê xwe li dêrê nîşan bidim. Ne di berjewendiya kanê de ye ku ew bifikirin em farmason in. Ev tiştekî ji min naxwaze û dê wextê derbas bike.» Xwe xwar kir û çavê xwe qirpand. «Belkî ez jinebiyê jî li wir bibînim,» pist-pist kir.</p>
+
+  <p>Xwedê, berjewendiyên Şirketê û jinebî bi awayekî hevaheng di hişê Zorba de tev bûbûn. Min dengê gavên wî yên sivik bihîst ku dûr dibûn. Ez rabûm ser xwe. Efsûn şikest, ruhê min ji nû ve di girtîgeha goşt de hat girtin. Min cilên xwe li xwe kirin û çûm xwarê ber lêva avê. Ez bilez dimeşiyam.</p>
+
+  <p>Ez şa bûm, mîna ku ez ji metirsiyekê an ji gunehekî reviyabim. Daxwaza min a bêedeb a wê sibehê — ku berî ku pêşeroj çêbibe têkevim navê û wê bizanim — ji nişkê ve ji min re wek kufrekê xuya bû. Min bîr anî sibehekê ku min di qalikê darekê de pîlek dît, tam dema ku perperok di doxa xwe de qulek çêdikir û xwe amade dikir ku derkeve. Ez demekê li bendê mam, lê pir dirêj dikişand û ez bêsebir bûm. Xwe xwar kirim û bi bîhna xwe lê kir da ku germ bikim. Min wek ku ji destê min dihat zû germ kir û keramat li ber çavên min dest pê kir, bileztir ji jiyanê. Dox vebû, perperok hêdî hêdî dest bi xişînê kir ku derkeve, û ez tu caran tirsa xwe ji bîr nakim çaxê min dît ka baskên wê çawa paşde pêçandî û qermiçandî bûn; perperoka reben bi tevahiya laşê xwe yê dilerizî hewl dida ku wan veke. Min xwe xwar kir, hewl da ku bi bîhna xwe alîkariya wê bikim. Bê fêde. Diviya bû ew bi sebir derketa û vebûna baskan diviya bû di tavê de hêdî hêdî bûya. Niha pir dereng bû. Bîhna min perperok mecbûr kiribû ku xuya bibe, hemû qermiçî, berî wextê xwe. Bi bêhêvîtî têkoşiya û, çend saniye şûnde, di kefa destê min de mir.</p>
+
+  <p>Ew laşê biçûk, ez bawer dikim, giraniya herî mezin e ku li ser wijdana min heye. Çimkî ez îro fêm dikim ku binpêkirina qanûnên mezin ên xwezayê gunehekî kujer e. Divê em lez nekin, divê em bêsebir nebin, lê divê em bi piştrastî li ahenga herheyî guhdarî bikin. Ez li ser zinarekî rûniştim da ku vê fikra Sala Nû hilmijim. Ax, eger tenê ew perperoka biçûk her dem li ber min bifiriya da ku rê nîşanî min bide.</p>
+
+</article>
+
+</body>
+</html>
