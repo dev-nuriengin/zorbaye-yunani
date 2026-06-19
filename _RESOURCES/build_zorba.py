@@ -4119,7 +4119,7 @@ HTML_DOC = r"""<!DOCTYPE html>
 <title>Zorbayê Yûnanî — Nîkos Kazancakîs</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2024%2024%22%3E%3Crect%20width=%2224%22%20height=%2224%22%20rx=%224%22%20fill=%22%23f4ecd2%22/%3E%3Cpath%20d=%22M7%203h10v18l-5-3.4L7%2021z%22%20fill=%22%237a5b1e%22/%3E%3C/svg%3E">
 <style>
-  @page { size: A4; margin: 30mm 22mm 22mm 22mm; }
+  @page { size: auto; margin: 20mm 12mm 16mm 12mm; }
   html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
   body {
     font-family: "Georgia","Times New Roman",serif;
@@ -4313,7 +4313,7 @@ HTML_DOC = r"""<!DOCTYPE html>
     .tts{ display:none !important; }
     .ku .w-on{ background:none !important; box-shadow:none !important; }
     .sent:hover .ku{ background:none; }
-    .cover{ min-height:247mm; border-color:#111; }
+    .cover{ min-height:225mm; border-color:#111; }
     .cover .rule, .chapter-rule{ border-top-color:#111; }
     .flow, .cover-host{ width:auto; max-width:none; margin:0; padding:0; background:none; box-shadow:none; }
   }
