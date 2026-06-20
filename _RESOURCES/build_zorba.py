@@ -995,6 +995,259 @@ Zorba bi bêsebrî simbêlên xwe diqurtand, bê ku çavên xwe ji qûna gindiro
 «Hm!» ji nişkê ve bi axînekê got. «Bila jiyan here dojehê! Ev qehpik tu carî dev ji lîstikên xwe bernade!» ||| "Hm!" he suddenly muttered with a sigh. "To hell with life! The jade's never done playing us tricks!"
 """
 
+CH07 = r"""
+##PG 51
+##FIRST
+Em li ber mangalê bêdeng man heta dereng di şevê de. ||| WE STAYED silent by the brazier until far into the night.
+Min careke din hîs kir bextewarî çiqas tiştekî sade û hindik e: qedehek şerab, kestaneyek biraştî, mangalek biçûk ê belengaz, dengê behrê. ||| I felt once more how simple and frugal a thing is happiness: a glass of wine, a roast chestnut, a wretched little brazier, the sound of the sea.
+Ne tiştekî din. ||| Nothing else.
+Û tişta ku divê hebe ku mirov hîs bike ku li vir û niha bextewarî ye, dilekî sade û hindiknexwaz e. ||| And all that is required to feel that here and now is happiness is a simple, frugal heart.
+
+«Tu çend caran zewicî yî, Zorba?» min pirsî. ||| "How many times have you been married, Zorba?" I asked.
+
+Em her du jî di kêfeke baş de bûn, ne ewqas ji ber ku me pir vexwaribû lê ji ber wê bextewariya ku nayê vegotin a di hundirê me de. ||| We were both in a good humor, not so much for having drunk a lot as on account of the indescribable happiness within us.
+Em bi kûrahî haydar bûn, her yekî ji me bi awayê xwe, ku em du kêzikên biçûk ên demborî bûn, bi tundî bi qalikê erdê ve zeliqî, ku me quncikeke rehet li nêzî behrê dîtibû, li paş hin qamîş, texte û tenekeyên benzînê yên vala, ku em tê de bi hev re dihatin asêkirin, û, di dawiyê de, ku li ber me hin tiştên xweş û xwarin hebûn, û di hundirê me de aramî, hezkirin û ewlehî. ||| We were deeply aware, each of us in our own way, that we were two ephemeral little insects, clinging tightly to the terrestrial bark, that we had found a convenient corner near the sea, behind some bamboos, planks and empty petrol cans, where we hung together, and, lastly, that we had before us some pleasant things and food, and within us serenity, affection and security.
+
+Zorba pirsa min nebihîst. ||| Zorba did not hear my question.
+Kî dizane li ser kîjan deryayan, li der dora dengê min, hişê wî dimeşiya? ||| Who knows on what oceans beyond the reach of my voice his mind was sailing?
+Min destê xwe dirêj kir û bi serê tiliyên xwe ew xist. ||| I stretched out my arm and touched him with the tip of my fingers.
+
+«Tu çend caran zewicî yî, Zorba?» min dîsa pirsî. ||| "How many times have you been married, Zorba?" I asked again.
+
+Veciniqî. ||| He started.
+Vê carê bihîstibû. ||| He had heard this time.
+Destê xwe yê mezin hejand û bersiv da: ||| Waving his great hand, he answered:
+
+«Tu niha li çi dikolî? Tu difikirî ku ez ne mêr im?» ||| "What are you delving into now? D'you think I'm not a man?"
+«Mîna her kesî, min Ehmeqiya Mezin kiriye. Ez zewacê wisa bi nav dikim — bila zewicî min bibexşînin! Erê, min Ehmeqiya Mezin kiriye, ez zewicîme!» ||| "Like everyone else, I've committed the Great Folly. That's what I call marriage -- may married folk forgive me! Yes, I've committed the Great Folly, I've married!"
+
+«Erê, lê çend caran?» ||| "Yes, but how many times?"
+
+Zorba bi tundî serê xwe xurand. ||| Zorba scratched his head vigorously.
+
+«Çend caran?» di dawiyê de got. «Bi rastî carekê, carekê û her û her. Bi nîv-rastî du caran. Bi nerastî hezar, du hezar, sê hezar caran. Tu çawa hêvî dikî ku ez wê bihejmêrim?» ||| "How many times?" he said, at last. "Honestly once, once and for all. Half-honestly twice. Dishonestly a thousand, two thousand, three thousand times. How d'you expect me to reckon it?"
+
+«Hinekî li ser zewacên xwe ji min re bêje, Zorba. Sibe Yekşem e, em ê xwe kur bikin û cilên xwe yên herî baş li xwe bikin û herin cem Bûbûlîna ya pîr ‹ji bo demeke xweş û keçeke xerab!› Niha, ji min re bêje!» ||| "Tell me a little about your marriages, Zorba. Tomorrow's Sunday, we'll shave and put on our best clothes and go to old Bouboulina's 'for a good time and a bad girl!' Now, tell me!"
+
+«Ji te re çi bibêjim! Ma ev bi rastî tiştên ku mirov li ser dipeyive ne, axa?» ||| "Tell you what! Are those really things you talk about, boss?"
+«Zewacên rast bêtam in; ew xwarinek bê biber in.» ||| "Honest marriages are tasteless; they're a dish without any pepper."
+«Ji te re çi bibêjim! Gava ku pîroz ji îkonên xwe li te dinihêrin û pîrozbahiya xwe didin te, ma tu jê re dibêjî maç?» ||| "Tell you what! When the saints ogle you from their icons and give you their blessing, d'you call that a kiss?"
+«Li gundê me dibêjin ‹tenê goştê dizî bi tam e.› Jina te ne goştê dizî ye.» ||| "In our village we say 'only stolen meat is tasty.' Your wife is no stolen meat."
+«Niha, derbarê yekîtiyên nerast de, tu çawa yê wan bînî bîra xwe? Ma dîk tomarê digire? Belê! Û ji bo çi bigire, bi her awayî?» ||| "Now, as for the dishonest unions, how are you going to recall them? Does the cock keep a register? You bet! And why should he, anyhow?"
+«Demek hebû, dema ez ciwan bûm, min ji her jina ku ez pê re nas bûm bisteke por digirt. Min her tim cotek meqes bi xwe re digirt. Heta dema diçûm dêrê jî, erê, meqesa min di berîka min de bû! Em mêr in, di dawiyê de; mirov qet nizane çi yê were pêş, ne wisa?» ||| "There was a time, when I was young, I kept a lock of hair of every woman I got familiar with. I always kept a pair of scissors on me. Even when I went to church, yes, there were my scissors in my pocket! We're men, after all; you never know what'll come along, do you?"
+
+«Vêca, bi vî awayî, min kombûnek ji bistên por çêkir. Reş hebûn, zer hebûn, sorik hebûn, heta çend spî jî.» ||| "So, like that, I made a collection of locks of hair. There were dark ones, fair ones, ginger ones, even a few white ones."
+«Min ewqas kom kir ku min balgîhek pê tije kir. Min balgîhê ku ez li ser radizam pê tije kir — lê tenê di zivistanê de. Di havînê de min pir germ dikir.» ||| "I collected such a lot, I stuffed a pillow with them. I stuffed the pillow I slept on -- only in winter, though. In summer it made me too hot."
+«Paşê, piçekî şûnde, ez ji wê jî bêzar bûm — tu dibînî, dest bi bîhnê kir, loma min ew şewitand.» ||| "Then, a bit later, I got fed up with that, too -- you see, it began to stink, so I burned it."
+
+Zorba dest bi kenê kir. ||| Zorba started laughing.
+
+«Ew tomara min bû, axa,» got, «û ew şewitî. Lê ez heta dirana jê bêzar bûbûm. Min difikirî ku dê ewqas pir nebin, û paşê min dît ku dawiya wê tune. Loma min meqesa xwe avêt.» ||| "That was my register, boss," he said, "and it's burnt. But I was fed up to the teeth with it. I thought there wouldn't be so many, and then I saw there was no end to it. So I threw my scissors away."
+
+«Zewacên nîv-rast çi, Zorba?» ||| "What about the half-honest marriages, Zorba?"
+
+##PG 52
+«Ax, ew xweşiyeke wan a taybet heye,» axîn kişand. «Ey Slavê biecêb, bila tu hezar salî bijî! Çi azadî! Tu yek ji vana tune:» ||| "Oh, those have a certain charm," he sighed. "O wonderful Slav, may you live a thousand years! What freedom! None of those:"
+
+«‹Tu li ku derê bûyî?› ‹Çima dereng mayî?› ‹Tu li ku razayî?›» ||| "'Where have you been?' 'Why're you late?' 'Where did you sleep?'"
+
+«Ew ji te tu pirsan nake û tu jê tu pirsan nakî. Azadî!» ||| "She asks you no questions and you ask her none. Freedom!"
+
+Destê xwe ber bi qedeha xwe dirêj kir, ew vala kir û kestaneyek qaşil kir. ||| He reached for his glass, emptied it and shelled a chestnut.
+Dema dipeyivî dixwar. ||| He munched as he spoke.
+
+«Navê yekê Sofînka bû, ya din Nûsa. Min Sofînka li gundekî baş-mezin ê li nêzî Novo Rossîskê nas kir.» ||| "One was called Sophinka, the other Noussa. I met Sophinka in a tidy-sized village near Novo Rossisk."
+«Zivistan bû û berf dibariya. Ez diçûm li kanekê li kar bigerim, û li vî gundî sekinîm.» ||| "It was winter and snowing. I was going to look for work in a mine, and stopped in this village."
+«Roja bazarê bû û, ji hemû gundên dor û berê, jin û mêr hatibûn ku bikirin û bifiroşin. Birçîtiyeke tirsnak û sermayeke tehl.» ||| "It was market day and, from all the villages round about, men and women had come to buy and sell. A terrible famine and bitter cold."
+«Ji bo ku nan bikirin, mirovan her tiştê xwe difirot, heta îkonên xwe jî!» ||| "To buy bread people were selling all they had, even their icons!"
+
+«Wele, ez li bazarê digeriyam dema min jineke gundî ya ciwan dît ku ji erebeya xwe diqevizî — keçeke şeş-pê bi çavên xwe yên şîn ên wek behrê û çi ran û qûn — ez ji te re dibêjim, mahîneke rastîn a nijadê!...» ||| "Well, I was going round the market when I saw a young peasant woman jumping down from her cart -- a six-foot hussy with eyes as blue as the sea and such thighs and buttocks -- I tell you, a real brood mare!..."
+«Ez li ciyê xwe çiq sekinîm. ‹Zorbayê belengaz, ax, Zorbayê min ê belengaz!› min got.» ||| "I stopped dead in my tracks. 'Poor Zorba, oh, my poor bloody Zorba!' I said."
+
+«Min dest pê kir li dû wê biçim û binêrim.... Min nikaribû çavên xwe jê biqetînim! Te diviya bidîta ka qûna wê çawa wek zengilên dêrê yên Paskalyayê dihejiya!» ||| "I started to follow her and look.... I couldn't keep my eyes off her! You should've seen her buttocks swinging like church bells at Easter!"
+«‹Çima li kanan digerî, kerê belengaz?› min ji xwe re got. ‹Çima li wir dema biha winda dikî, bayê serbanê yê neladî? Va ye kana te: têkeve û galeriyan veke!›» ||| "'Why go looking for mines, you poor mutt?' I said to myself. 'Why waste precious time there, you damned weathercock? Here's the mine for you: get in it and open up the galleries!'"
+
+«Keçikê sekinî, dest bi bazarê kir, barek dar kirî, ew rakir — Îsa, çi mil! — û avêt nav erebeya xwe!» ||| "The girl stopped, started to bargain, bought a load of wood, lifted it up -- Jesus, what arms! -- and threw it into her cart!"
+«Hinek nan û pênc-şeş masiyên dûxankirî kirîn. ‹Ev çiqas e?› pirsî. ‹Ewqas...› Ji bo ku bide, guharên xwe yên zêr ji guhên xwe derxistin.» ||| "She bought some bread and five or six smoked fish. 'How much is that?' she asked. 'So much...' She took off her golden earrings to pay."
+
+«Ji ber ku pereyê wê tunebû, wê dixwest guharên xwe bide. Dilê min hat dev.» ||| "As she'd no money, she was going to give her earrings. My heart leapt into my mouth."
+«Ez, bihêlim jinek guharên xwe, xemilên xwe, sabûnên xwe yên bîhnxweş, şûşeyên xwe yên biçûk ên ava lavanteyê bide?... Eger wê ew hemû bide, dinya xelas e!» ||| "Me, let a woman give away her earrings, her trinkets, her scented cakes of soap, her little bottles of lavender-water?... If she gives away all that, it's all up with the world!"
+«Wek ku te perên tawisekî rûçikandibe. Ma dilê te yê hebe ku tawisekî rûçikînî? Tu carî!» ||| "It's as if you plucked a peacock's feathers. Would you have the heart to pluck a peacock? Never!"
+«Na, heta ku Zorba sax e, min ji xwe re got, ev nayê serî. Min bûrika xwe vekir û min da.» ||| "No, as long as Zorba lives, I said to myself, that won't happen. I opened my purse and I paid."
+«Ew dem bû ku rûbil bûbûn perçeyên kaxezê. Bi sed drahmî te dikaribû hêstirek bikira, bi deh drahmî jinek.» ||| "It was the time when roubles had become bits of paper. With a hundred drachmas you could buy a mule, with ten a woman."
+
+«Vêca min da. Keçikê zivirî û ji goşeya çavên xwe nêrînek li min kir.» ||| "So I paid. The wench turned round and took a look at me out of the corner of her eyes."
+«Destê min girt ku maç bike. Lê min destê xwe paş kişand. Wê ez çi hesibandim? Mêrekî pîr?» ||| "She took my hand to kiss it. But I pulled my hand away. What did she take me for? An old man?"
+«‹Spassiba! Spassiba!› qîriya — ev tê wateyê: ‹Spas! Spas!› Û bazda nav erebeya xwe. Dizgînan girt û qamçiya xwe rakir.» ||| "'Spassiba! Spassiba!' she cried -- that means: 'Thanks! Thanks!' And away she leaped into her cart. She took the reins and raised her whip."
+
+«‹Zorba,› min ji xwe re got, ‹hay ji xwe hebe, hevalo, ew ê ji nav tiliyên te bireve!› Bi lêbazekê, ez li kêleka wê di erebeyê de bûm.» ||| "'Zorba,' I said to myself, 'look out, my friend, she's going to slip through your fingers!' In one bound, I was at her side in the cart."
+
+«Wê tiştek negot. Wê heta li dora xwe jî nenihêrî. Qerçîneke qamçî û em çûn.» ||| "She said nothing. She didn't even look round. A crack of the whip and off we went."
+
+«Di rê de, wê fêm kir ku ez dixwazim ew a min be. Ez sê peyvên Rûsî pê dizanibûm, lê di van karan de ne hewce ye ku mirov pir bibêje.» ||| "On the way, she came to realize I wanted her to be mine. I could muster three words of Russian, but in these affairs there's no need to say much."
+«Em bi çavên xwe, bi destên xwe, bi çongên xwe bi hev re peyivîn. Ne hewce ye ku mirov li dor û berê bigere.» ||| "We spoke to each other with our eyes, our hands, our knees. No need to beat about the bush."
+«Em gihîştin gund û li ber izba wê sekinîn. Em peya bûn. Keçikê deriyê hewşê bi milê xwe veda û em ketin hundir.» ||| "We arrived in the village and stopped in front of her izba. We got down. The girl thrust open the yard gate with her shoulder and we went in."
+«Me dar di hewşê de daxistin, masî û nan girtin û ketin odeyê. Pîrejineke biçûk li ber ocaxa vala rûniştibû. Dilerizî.» ||| "We unloaded the wood in the yard, took the fish and bread and entered the room. A little old woman was sitting by the empty hearth. She was shivering."
+«Ew di nav tûr, perça û postên pez de pêçayî bû, lê dilerizî.» ||| "She was wrapped in sacks, rags, and sheepskins, but she was shivering."
+##PG 53
+«Ewqas sar bû, ez ji te re dibêjim, neynûkên te hema diketin. Ez xwar bûm, hembêzek dar danî nav cihê êgir û agir pêxist.» ||| "It was so cold, I tell you, your fingernails fairly fell out. I bent down, put an armful of wood in the fireplace and lit the fire."
+«Pîrejina biçûk li min nihêrî û bişirî. Keça wê tiştek jê re gotibû, lê min fêm nekiribû.» ||| "The little old woman looked at me and smiled. Her daughter had said something to her, but I hadn't understood."
+
+«Min agir geş kir; pîrejinê xwe lê germ kir û piçekî bi xwe hat.» ||| "I made the fire go; the old woman warmed herself by it and recovered a little."
+
+«Di vê navberê de, keçikê maseyê amade dikir. Hinek vodka derxist; me ew vexwar. Samovar pêxist û çay çêkir.» ||| "Meanwhile, the girl was laying the table. She brought out some vodka; we drank it. She lit the samovar and made some tea."
+«Me xwar û para wê da pîrejinê. Paşê wê bi lez nivîn bi cawên paqij raxist, qendîla îkona Meryema Pîroz pêxist û sê caran xaç li xwe kir.» ||| "We ate and gave her share to the old woman. Then she quickly made the bed with clean sheets, lit the Holy Virgin's icon lamp and crossed herself three times."
+«Paşê îşaret bi min kir; em bi hev re li ber pîrejinê li ser çokan rûniştin û destê wê maç kir. Pîrejinê destên xwe yên hestî danîn ser serên me û tiştek bin guhê xwe got.» ||| "Then she signed to me; we knelt together in front of the old woman and kissed her hand. The old woman put her bony hands on our heads and muttered something."
+
+«Belkî pîrozahiya wê li ser me. ‹Spassiba! Spassiba!› min qîriya, û bi lêbazekê, ez li wir di nav nivînê de bi keçikê re bûm!» ||| "Probably her blessing on us. 'Spassiba! Spassiba!' I cried, and in one bound, there I was in bed with the wench!"
+
+Zorba bêdeng bû. Serê xwe rakir û li dûr li ser behrê nihêrî. ||| Zorba became silent. He raised his head and gazed into the distance over the sea.
+
+«Navê wê Sofînka bû....» piştî demekê got, û dîsa bêdeng bû. ||| "Her name was Sophinka...." he said after a while, and became silent again.
+
+«Vêca?» min bi bêsebrî pirsî. «Vêca?» ||| "Well?" I asked impatiently. "Well?"
+
+«Vêca tune! Çi xewneke te heye, axa, bi ‹vêca› û ‹çima›yên xwe! Niha, ma mirov li ser van tiştan dipeyive?» ||| "There's no well! What a mania you've got, boss, with your 'wells' and 'wherefores!' Now, does one talk about those things?"
+«Jin kaniyeke taze ye. Tu li ser wê xwar dibî, te xwe dibînî û vedixwî; tu vedixwî heta hestiyên te biqerçin.» ||| "Woman is a fresh spring. You lean over her, you see your reflection and you drink; you drink until your bones crack."
+«Paşê yekî din tê, ew jî tî ye; ew li ser wê xwar dibe, xwe dibîne û vedixwe. Paşê yê sêyem....» ||| "Then there's another who comes, and he's thirsty, too; he bends over her, he sees his reflection and he drinks. Then a third...."
+«Kaniyeke taze, ev e ya ku ew e, û ew jineke jî ye....» ||| "A fresh spring, that's what she is, and she's a woman, too...."
+
+«Piştî wê tu jê veqetiyayî?» ||| "Did you leave her after that?"
+
+«Tu çi hêvî dikî? Ew kaniyek e, min ji te re got, û ez rêwiyek im. Ez vegeriyam rê.» ||| "What d'you expect? She's a spring, I told you, and I'm a passerby. I went back on the road."
+«Ez sê meh pê re mabûm. Xwedê wê biparêze, tiştekî min li dijî wê tune! Lê piştî sê mehan min bîr anî ku ez li kanekê digeriyam.» ||| "I'd stayed three months with her. God protect her, I've nothing to say against her! But after three months I remembered I was looking for a mine."
+«‹Sofînka,› min sibehekê jê re got, ‹hin kar hene ku divê ez bikim. Divê ez biçim.›» ||| "'Sophinka,' I said to her one morning, 'I've got some work to do. I must go.'"
+
+«‹Baş e,› Sofînka got, ‹here. Ezê mehekê li bendê bimînim. Eger di nav mehekê de venegerî, ez ê azad bibim. Tu jî. Xwedê te biparêze!› Ez çûm.» ||| "'Well,' Sophinka said, 'go along. I'll wait one month. If you're not back in one month's time, I'll be free. So will you. God bless you!' I went."
+
+«Û tu piştî mehekê vegeriyayî...?» ||| "And you came back after a month...?"
+
+«Lê tu ehmeq î, axa, eger tu li min negirî,» Zorba qîriya. «Vegeriyam! Ma ev mahîn carî dev ji te berdidin? Deh roj şûnde, li Kûbanê, min Nûsa nas kir.» ||| "But you're stupid, boss, if you don't mind my saying so," Zorba exclaimed. "Came back! Do the jades ever leave you alone? Ten days later, in the Kuban, I met Noussa."
+
+«Li ser wê ji min re bêje! Bêje!» ||| "Tell me about her! Tell me!"
+
+«Careke din, axa. Divê em wan tevlihev nekin, belengaz! Saxiya te, Sofînka!» ||| "Another time, boss. We mustn't get them mixed up, the poor things! Your health, Sophinka!"
+
+Qedeha şerabê hilqurtand. Paşê xwe da dîwêr û got: ||| He quaffed the glass of wine. Then he leaned against the wall and said:
+
+«Baş e! Ezê niha li ser Nûsa ji te re bibêjim. Îşev Rûsya li serê min e. Alê daxe! Em ê embaran vala bikin!» ||| "All right! I'll tell you now about Noussa. I've got Russia on the brain tonight. Strike the flag! We'll empty the holds!"
+
+Simbêlên xwe paqij kirin û pizotê tev da. ||| He wiped his moustache and poked the embers.
+
+«Vêca, wek ku min got, min ev yek li gundekî Kûbanê nas kir. Havîn bû. Çiyayên qawin û zebeşan.» ||| "Well, as I said, I met this one in a Kuban village. It was summer. Mountains of melons and watermelons."
+«Ez carinan yekê hildigirtim û tu kes tiştek negotma. Min ew bi du perçeyan dikir û rûyê xwe dixist nav.» ||| "I'd pick up one now and then and nobody'd say a thing. I'd cut it in two and stick my face into it."
+
+«Her tişt bi firehî tê dîtin li Rûsyayê, axa, her tişt li hev kom. Were û hilbijêre!» ||| "Everything's to be had in abundance in Russia, boss, everything in a heap. Roll up and take your choice!"
+«Û ne tenê qawin û zebeş, ez ji te re dibêjim, lê masî û rûn û jin. Tu derbas dibî, zebeşekê dibînî, wê hildigirî.» ||| "And not only melons and watermelons, I tell you, but fish and butter and women. You're passing by, you see a watermelon, you take it."
+«Ne wek li vir li Yûnanistanê, ku eger tu carî qalikê herî biçûk ji qawinekê biqurfînî tê birin ber dadgehan, û hema tu destê xwe li jinekê bidî birayê wê bi lez tê û kêrê dikişîne ku ji te goştê sûcûqê çêbike!» ||| "Not like here in Greece, where if you ever pinch the tiniest bit of skin off a melon you're hauled up before the courts, and as soon as you touch a woman her brother rushes up and draws a knife to make sausage meat of you!"
+##PG 54
+«Ûf! Bila ew elaleta belengaz a parsekan here dojehê! Tu tenê here Rûsyayê eger tu bixwazî bibînî ka çawa mirov dikare wek axayekî bijî.» ||| "Ugh! To hell with that measly crowd of beggars! You just go to Russia if you want to see how you can live like a lord."
+
+«Vêca, ez di Kûbanê re derbas dibûm û min jinek di baxçeyekî sebzeyan de dît. Dîtina wê li min xweş hat.» ||| "So, I was going through Kuban and I saw a woman in a kitchen garden. I liked the look of her."
+«Bila ez ji te re bibêjim, axa, jina Slav ne wek wan Yûnaniyên zirav û çavbirçî ye yên ku evînê dilopek bi dilopek ji te re difiroşin, û her tiştî dikin ku ji para te kêmtir li te biqotin û li ser kêşê te bixapînin.» ||| "Let me tell you, boss, the Slav woman is not like those skinny, greedy little Greeks who sell you love a drop at a time, and do everything they can to palm you off with less than your due and swindle you over the weight."
+«Na, axa, Slav ji te re pîvaneke baş dide. Di xewê de, di evînê de, û di xwarinê de. Ew ewqas nêzî heywanên zeviyan û erdê bi xwe ye.» ||| "No, boss, the Slav gives you good measure. In sleep, in love, and in food. She's so nearly related to the beasts of the fields and the earth itself."
+«Ew bi dilfirehî dide û dide, ew tê de ne çikûs e wek wan Yûnaniyên bazarger. Min jê pirsî: ‹Navê te çi ye?›» ||| "She gives and gives bountifully, she's not niggardly about it like those haggling Greeks. I asked her: 'What's your name?'"
+
+«Tu dibînî, bi rêya jinan, min hinek ji zimên hîn bûbû. ‹Nûsa! Û yê te?› ‹Aleksîs. Ez ji te pir hez dikim, Nûsa.› Wê bi baldarî li min nihêrî, wek ku tu li hespekî dinihêrî berî ku tu wî bikirî.» ||| "You see, through women, I'd picked up a bit of the language. 'Noussa! And yours?' 'Alexis. I like you very much, Noussa.' She looked me over carefully, like you look at a horse before buying it."
+
+«‹Tu jî ne giyayekî hişk î,› got. ‹Diranên te saxlem in, simbêlekî te yê mezin heye, pişteke fireh, milên bihêz. Ez ji te hez dikim.›» ||| "'You're no weed yourself,' she said. 'You've got sound teeth, a big moustache, a broad back, strong arms. I like you.'"
+«Me tişt zêde negot, ne hewce bû. Em di kêliyekê de li hev hatin. Ez ê wê êvarê bi cilên xwe yên geş herim mala wê.» ||| "We didn't say much else, it wasn't necessary. We came to an understanding in a jiffy. I was to go to her place that evening in my glad rags."
+«‹Kepenekekî te yê bi kurk heye?› Nûsa ji min pirsî. ‹Erê, lê di vê germê de....› ‹Ne girîng e. Bîne, ew ê xweş xuya bibe.›» ||| "'Have you got a fur-lined cloak?' Noussa asked me. 'Yes, but in this heat....' 'Never mind. Bring it, it'll look smart.'"
+
+«Vêca wê êvarê, min xwe wek zavayekî xemiland, kepenekê xwe avêt ser milê xwe, gopalek jî yê bi serê zîvîn ê min hebû hilda, û ez çûm.» ||| "That evening, then, I rigged myself out like a bridegroom, I put my cloak over my arm, I also took a silver-knobbed cane I had, and off I went."
+«Xaniyekî mezin ê gundî bû bi avahiyên alî, çêlek, mengene, du agir di hewşê de û qazan li ser agiran. ‹Çi li vir dikele?› min pirsî. ‹Şîreya zebeşan.›» ||| "It was a big country house with out-buildings, cows, presses, two fires in the yard and cauldrons on the fires. 'What's boiling here?' I asked. 'Watermelon must.'"
+«‹Û li vir?› ‹Şîreya qawinan.› ‹Çi welat!› min ji xwe re got. ‹Tu vê dibihîzî? Şîreya qawin û zebeşan! Ev Welatê Soz e! Bi xatirê te, xizanî! Sax bî, Zorba, tu ketî ser lingên xwe. Wek mişkekî di kîloyek penîr de!›» ||| "'And here?' 'Melon must.' 'What a country!' I said to myself. 'D'you hear that? Must of melons and watermelons! This is the Promised Land! Goodbye poverty! Here's to you, Zorba, you've fallen on your feet. Like a mouse in a pound of cheese!'"
+
+«Ez bi derenceyê hilkişiyam. Derenceyeke darîn a mezin ku diqîrçî. Li ser textê derbasbûnê dê û bavê Nûsa bûn.» ||| "I went up the staircase. An enormous wooden staircase which creaked. On the landing were Noussa's father and mother."
+«Wan cureyekî şalvarên kesk û pîştên sor ên bi rîşiyên mezin li xwe kiribûn — bi rastî pir dewlemend bûn. Van rûyên meymûnî destên xwe vekirin û te di nav hembêz û maçan de pêçan. Ez di nav telûka de şil bûm.» ||| "They were wearing a sort of green breeches and red waistbands with big tassels -- they were pretty well off, in fact. These monkey-faces opened their arms and enveloped you in huggings and kissings. I was soaked in slobber."
+«Ew bi lez bi lez bi min re peyivîn; min pir fêm nekir, lê ev çi girîng bû? Ji rûyên wan diyar bû, ew ne xerabiyê ji min re dixwazin.» ||| "They spoke to me at top speed; I didn't understand much, but what did that matter? It was obvious, by their expressions, they wished me no ill."
+
+«Ez ketim odeyê û min çi dît? Mase di bin xwarin û vexwarinê de dinaliyan, wek keştiyên mezin ên bayî. Her kes rawestabû — xizm, jin, mêr, û li pêş Nûsa bû, xemilandî, bi kincên êvarê, sînga wê xuya, wek peykerê pêşa keştiyê.» ||| "I went into the room and what did I see? Tables groaning under food and drink, like great sailing ships. Everybody was standing -- relations, women, men, and in front was Noussa, made-up, in evening dress, with her bosom showing, like a ship's figure head."
+
+«Ciwanî û bedewiyeke wê ya çavbir hebû. Wê destmaleke sor li ser porê xwe kiribû, û li ser dilê wê çakûç û qirik bi neqş hatibûn dirûtin.» ||| "She had dazzling youth and beauty. She was wearing a red kerchief over her hair, and over her heart was an embroidered hammer and sickle."
+«‹Zorba, ey gunehkarê du-car-boyaxkirî,› min bin guhê xwe ji xwe re got, ‹ma ev goştê te ye? Ma ev laşê ku tu yê îşev di hembêza xwe de bigirî ye? Xwedê dê û bavê te bibexşîne ku tu anîn vê dinyayê!›» ||| "'Zorba, you double-dyed sinner, you,' I muttered to myself, 'is that your meat? Is that the body you're going to hold in your arms tonight? God forgive your father and mother who brought you into this world!'"
+
+«Em hemû bi dil û can xwe avêtin ser xwarinê, jin jî wek mêran. Me çepilî û qurtand, me wek berazan xwar û wek masiyan vexwar.» ||| "We all threw ourselves on the food with a will, the women as well as the men. We guzzled and swilled, we ate like pigs and drank like fish."
+«‹Keşîş li ku ye?› min ji bavê Nûsa pirsî, yê ku li kêleka min rûniştibû û laşê wî ji ber ewqas xwarinê dûman dikir. ‹Keşîşê ku me pîroz bike li ku ye?›» ||| "'What about the priest?' I asked Noussa's father, who was sitting beside me and whose body was steaming through eating so much. 'Where's the priest to bless us?'"
+«‹Keşîş tune,› wî bi tûkguvaştî got, ‹keşîş tune. Ol afyona girseyan e.›» ||| "'There's no priest,' he spluttered, 'there's no priest. Religion is opium for the masses.'"
+
+##PG 55
+«Li ser wê ew rabû, sînga xwe pif kir, pîşta xwe ya sor şuştî vekir û destê xwe ji bo bêdengiyê rakir. Qedehek heta serî tije di dest de bû û rasterast li çavên min dinihêrî.» ||| "On that he rose, puffed out his breast, loosened his red sash and raised his arm for silence. He was holding a glass filled to the brim and looking me straight in the eye."
+«Paşê dest bi axaftin û axaftinê kir; ji min re gotarekê dikir. Çi digot? Xwedê dizane! Ez ji rawestanê westiyabûm. Wekî din, bi vê demê ez piçekî serxweş bûbûm. Ez rûniştim û çonga xwe li çonga Nûsa danî. Ew li milê min ê rastê bû.» ||| "Then he began to talk and talk; he was making a speech to me. What was he saying? God knows! I was tired of standing. Besides, by this time I was a bit pissed. I sat down and pressed my knee against Noussa's. She was on my right."
+
+«Kalemêr qet dev ji axaftinê bernedida, xwêdan jê dirijiya. Loma hemû lê civiyan û ew hembêz kirin ku ew ji axaftinê raweste. Sekinî. Nûsa îşaret bi min kir. ‹Niha divê tu bipeyivî!›» ||| "The old boy just wouldn't stop talking, the sweat was pouring off him. So they all rushed round him and hugged him to make him stop talking. He stopped. Noussa signed to me. 'Now you must speak!'"
+
+«Vêca ez jî di dora xwe de rabûm û gotarek kir, nîvî bi Rûsî, nîvî bi Yûnanî. Min çi got? Bila ez bimirim eger ez bizanibim.» ||| "So I got up in my turn and made a speech, half in Russian, half in Greek. What did I say? I'm damned if I know."
+«Ez tenê bîr tînim ku di dawiyê de min dest bi hin stranên eşqiyayan ên Kleftan kir. Bê serî û bê binî, min dest bi qêrînê kir:» ||| "I only remember that at the end I launched on some Klepht brigand songs. Without rhyme or reason, I began to bellow:"
+
+##VERSE
+Ji çiyan Kleftan dadiketin,<br>her yek diz û talanker!<br>Hesp ji wan re nehatin dîtin,<br>lê Nûsa hat dîtin! ||| From the hills the Klephts came down, / Each a rustler! / Of horses found they none, / But they found Noussa!
+
+«Tu dibînî, axa, min stran li gor rewşê guhert.» ||| "You see, boss, I changed the song to fit the circumstances."
+
+##VERSE
+Ew diçin, ew diçin...<br>(Ew diçin, dayê!)<br>Ax! Nûsa min!<br>Ax! Nûsa min!<br>Vye! ||| Away they go, away they go... / (Away they go, mother!) / Ah! My Noussa! / Ah! My Noussa! / Vye!
+
+«Û, dema min qêriya ‹Vye!›, min xwe avêt ser Nûsa û ew maç kir.» ||| "And, as I bellowed 'Vye!' I threw myself on Noussa and kissed her."
+
+«Ev tam tişta ku divê bûya. Wek ku min îşareta ku li bendê bûn dabe, û ew, bi rastî, tenê li bendê wê bûn, çend zilamên gewre yên bi rîhên sor bezîn û çira vemirandin.» ||| "That was just what was wanted. As if I had given the signal they were waiting for, and they were, in fact, only waiting for that, several great fellows with red beards rushed and put out the lights."
+
+«Jin, ew mahîn, dest bi qîjînê kirin, diqîriyan ku ditirsin. Lê hema di cî de, di tariyê de, kiniyan: ‹Hî-hî-hî!› Wan ji gunhkirinê hez dikir û dikeniyan.» ||| "The women, the jades, started yelping, screaming they were afraid. But almost at once, in the darkness, they giggled: 'Hee-hee-hee!' They liked being tickled and laughed."
+
+«Çi qewimî, axa, tenê Xwedê dizane. Lê ez nafikirim ku Wî jî zanibû, ji ber ku eger Wî zanibûya, Wê dê birûskek bişanda ku wan bişewitanda.» ||| "What happened, boss, God alone knows. But I don't think He knew either, because if He had known, He would have sent a thunderbolt to burn them up."
+«Ew li wir hemû tevlihev bûbûn, mêr û jin, li ser erdê digindirîn. Min dest pê kir li Nûsa bigerim, lê ez li ku derê wê bibînim? Min yeke din dît û karê xwe bi wê re kir.» ||| "There they were all mixed up, men and women, rolling on the ground. I started to search for Noussa, but where could I find her? I found another and did the job with her."
+
+«Bi berbangê ez rabûm ku bi jina xwe re herim. Hîn tarî bû, min baş nedidît. Min lingek girt, kişand. Na, ne yê Nûsa bû.» ||| "At daybreak I rose to leave with my woman. It was still dark, I couldn't see clearly. I caught hold of a foot, I pulled it. No, it wasn't Noussa's."
+«Min lingekî din girt — na! Min yê sêyem kişand — na! Min yê çaran, yê pêncan digirim, û di dawiyê de, piştî bê hesab tengasiyê, min lingê Nûsa dît, kişand, û ew ji du-sê şeytanên gewre yên ku li ser keçika belengaz dirêjbûyî derxist, û ez wê hişyar kirim. ‹Nûsa,› min got, ‹em herin!›» ||| "I caught hold of another foot -- no! I pulled a third -- no! I catch hold of a fourth, a fifth, and in the end, after no end of trouble, I found Noussa's foot, pulled it, and extricated her from two or three great devils who were sprawling over the poor girl, and I woke her up. 'Noussa,' I said, 'Let's go!'"
+
+«‹Kepenekê xwe yê kurk ji bîr neke!› bersiv da. ‹Em herin!› Û em çûn.» ||| "'Don't forget your fur cape!' she replied. 'Let's go!' And we left."
+
+«Vêca?» min dîsa pirsî, dema dît ku Zorba bêdeng ma. ||| "Well?" I asked again, seeing that Zorba remained silent.
+
+«Tu dîsa bi ‹vêca›yên xwe dest pê dikî,» Zorba got, ji van pirsan bêsebir. ||| "There you go again with your 'wells,'" said Zorba, impatient at these questions.
+Axîn kişand. ||| He sighed.
+
+«Ez şeş meh pê re jiyam. Ji wê rojê ve — Xwedê şahidê min be! — ne hewce ye ku ez ji tiştekî bitirsim. Ji tiştekî, ez dibêjim.» ||| "I lived six months with her. Since that day -- God be my witness! -- I need fear nothing. Nothing, I say."
+«Ji tiştekî, ji bilî tiştekî: ku şeytan, an Xwedê, wan şeş mehan ji bîra min jê bibe. Tu fêm dikî? ‹Ez fêm dikim,› divê tu bibêjî.» ||| "Nothing, except one thing: that the devil, or God, wipe out those six months from my memory. D'you understand? 'I understand,' you ought to say."
+
+##PG 56
+Zorba çavên xwe girtin. Pir bandordar xuya bû. Cara yekem bû ku min ew wisa bi tundî di bin destê bîranîneke kevn de digirtî didît. ||| Zorba closed his eyes. He appeared very moved. It was the first time I had seen him so strongly gripped by a memory of long ago.
+
+«Vêca tu ewqas ji wê Nûsa hez dikir?» min çend kêlî şûnde pirsî. ||| "Did you love that Noussa so much, then?" I asked a few moments later.
+
+Zorba çavên xwe vekirin. ||| Zorba opened his eyes.
+
+«Tu ciwan î, axa,» got, «tu hîn ciwan î, tu nikarî fêm bikî! Gava serê te wek yê min sipî bibe, em ê dîsa li ser vê — vî karê herheyî — bipeyivin.» ||| "You're young, boss," he said, "you're still young, you can't understand! When you've gone white on top like me, we'll talk again about this -- this everlasting business."
+
+«Kîjan karê herheyî?» ||| "What everlasting business?"
+
+«Wele, jin, helbet! Çend caran divê ez ji te re bibêjim, jin karekî herheyî ye. Niha, tu wek dîkekî ciwan î yê ku mirîşkan di kêliyekê de digire û paşê sînga xwe pif dike, derdikeve serê kelaxweliyê û dest bi qîqîn û pesnê xwe dike.» ||| "Why, women, of course! How many times must I tell you, woman is an everlasting business. Just now, you're like a young cock who covers the hens in two shakes of a lamb's tail and then puffs out his breast, gets on top of the dung hill and starts to crow and brag."
+«Ew li mirîşkan nanihêre, ew li şeqên wan dinihêre! Vêca, ew çi dizane li ser evînê? Bila şeytan wî bibe!» ||| "He doesn't look at the hens, he looks at their combs! Well, what can he know of love? The devil take him!"
+
+Bi tinazî tif kir erdê. Paşê serê xwe zivirand, nedixwest li min binêre. ||| He spat on the ground in scorn. Then he turned his head away, he did not wish to look at me.
+
+«Vêca, Zorba,» min dîsa pirsî, «Nûsa çi bû?» ||| "Well, Zorba," I asked again, "what about Noussa?"
+
+Zorba bersiv da, li dûr li ser behrê dinihêrî: ||| Zorba replied, gazing into the distance over the sea:
+
+«Gava êvarekê ez hatim malê, min ew li tu derê nedît. Çûbû.» ||| "When I came home one evening, I couldn't find her anywhere. She'd gone."
+«Leşkerekî bedew nû gihîştibû gund û ew pê re reviyabû. Her tişt xelas bûbû! Ez ji te re dibêjim, dilê min bi du perçeyan bû.» ||| "A handsome soldier had just arrived in the village and she'd run off with him. It was all over! I tell you, my heart split in two."
+«Lê wî dînê dîsa zû xwe bi hev ve zeliqand. Te divê dîtibe ew kelekên bi perçeyên sor, zer û reş, ên ku bi benê stûr hatine dirûtin, ên ku heta di bahozên herî tund de jî qet naqetin.» ||| "But the knave soon stuck itself together again. You must have seen those sails with red, yellow and black patches, sewn with thick twine, which never tear even in the roughest storms."
+«Vêca, dilê min wisa ye. Bê hesab qul, û bê hesab pîne: êdî ne hewce ye ku ji tiştekî bitirse!» ||| "Well, that's what my heart's like. Umpteen holes, and umpteen patches: it need fear nothing more!"
+
+«Û te ji Nûsa kîneke negirt, Zorba?» ||| "And didn't you bear Noussa any grudge, Zorba?"
+
+«Çima? Tu çi dixwazî bibêje, jin tiştekî cuda ye, axa... tiştekî cuda. Ew ne mirov e! Çima jê kînê bigirim?» ||| "Why? You can say what you like, woman is something different, boss... something different. She's not human! Why bear her any grudge?"
+«Jin tiştekî ne-têgihîştî ye, û hemû qanûnên dewlet û olê ew bi temamî şaş fêm kirine. Divê ew wisa li hember jinekê tevnegerin. Ew pir hişk in, axa, pir bêedalet in.» ||| "Woman's something incomprehensible, and all the laws of state and religion have got her all wrong. They shouldn't act like that towards a woman. They're too harsh, boss, too unjust."
+«Eger min carî diviya qanûnan derxim, ez ê heman qanûnan ji bo mêr û jinan dernexim. Deh, sed, hezar emir ji bo mêr. Mêr di dawiyê de mêr e; ew dikare li ber bisekine.» ||| "If I ever had to make laws, I shouldn't make the same laws for men and for women. Ten, a hundred, a thousand commandments for man. Man is a man, after all; he can stand up to it."
+«Lê ne yek qanûn ji bo jinê. Ji ber ku — çend caran divê ez vê ji te re bibêjim, axa? — jin afirîdeyek e bê hêz.» ||| "But not a single law for woman. Because -- how many times do I have to tell you this, boss? -- woman is a creature with no strength."
+«Em li ser Nûsa vexwin, axa! Û li ser jinê!... Û bila Xwedê ji me mêran re hişê zêdetir bide!» ||| "Let's drink to Noussa, boss! And to woman!... And may God give us men more sense!"
+
+Vexwar, destê xwe rakir û bi hêz daxist, mîna ku bivirekî bi kar tîne. ||| He drank, raised his arm and brought it down with force, as if he were using an axe.
+
+«An divê Ew ji me mêran re hişê zêdetir bide,» got, «an jî emeliyatekê li ser me bike. Wekî din, bawer bike, em xelas in.» ||| "He must either give us men more sense," he said, "or else perform an operation on us. Otherwise, believe me, we're finished."
+"""
+
 CH10 = r"""
 ##PG 72
 ##FIRST
@@ -7945,7 +8198,7 @@ def build_article(num, data):
     out.append('</article>')
     return "\n".join(out)
 
-ARTICLE = build_article(1, CH01) + "\n" + build_article(2, CH02) + "\n" + build_article(3, CH3) + "\n" + build_article(6, CH06) + "\n" + build_article(8, CH8) + "\n" + build_article(10, CH10) + "\n" + build_article(11, CH11) + "\n" + build_article(12, CH12) + "\n" + build_article(13, CH13) + "\n" + build_article(14, CH14) + "\n" + build_article(15, CH15) + "\n" + build_article(16, CH16) + "\n" + build_article(17, CH17) + "\n" + build_article(18, CH18) + "\n" + build_article(19, CH19) + "\n" + build_article(20, CH20) + "\n" + build_article(21, CH21) + "\n" + build_article(22, CH22) + "\n" + build_article(23, CH23) + "\n" + build_article(24, CH24) + "\n" + build_article(25, CH25) + "\n" + build_article(26, CH26)
+ARTICLE = build_article(1, CH01) + "\n" + build_article(2, CH02) + "\n" + build_article(3, CH3) + "\n" + build_article(6, CH06) + "\n" + build_article(7, CH07) + "\n" + build_article(8, CH8) + "\n" + build_article(10, CH10) + "\n" + build_article(11, CH11) + "\n" + build_article(12, CH12) + "\n" + build_article(13, CH13) + "\n" + build_article(14, CH14) + "\n" + build_article(15, CH15) + "\n" + build_article(16, CH16) + "\n" + build_article(17, CH17) + "\n" + build_article(18, CH18) + "\n" + build_article(19, CH19) + "\n" + build_article(20, CH20) + "\n" + build_article(21, CH21) + "\n" + build_article(22, CH22) + "\n" + build_article(23, CH23) + "\n" + build_article(24, CH24) + "\n" + build_article(25, CH25) + "\n" + build_article(26, CH26)
 
 HTML_DOC = r"""<!DOCTYPE html>
 <html lang="ku">
