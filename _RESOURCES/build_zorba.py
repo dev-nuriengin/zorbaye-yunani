@@ -952,6 +952,293 @@ Ji Bûda birevim, bi peyvan xwe ji hemû xemên xwe yên metafizîkî rizgar bik
 Min ji xwe re got: «Dibe ku hîn ne pir dereng e.» ||| I said to myself: "Perhaps it is not yet too late."
 """
 
+CH5 = r"""
+##PG 35
+##FIRST
+«Apê Anagnostî, kalik, silavan li te dike û dipirse ka tu hez dikî ku bêyî mala wî ji bo xwarinekê. ||| "UNCLE Anagnosti, the grandfather, greets you and asks if you would care to come to his house for a meal.
+Îro axteker dê bê gund da ku berazan axte bike. ||| The gelder will be coming to the village today to castrate the pigs.
+Ev bûyerek e, û ‹perçe› xwarineke pir bi tam in. ||| It's an occasion, and the 'parts' are a real delicacy.
+Kîrya Marûlya, jina kalê, dê wan bi taybetî ji bo te çêbike. ||| Kyria Maroulia, the gaffer's wife, will cook them specially for you.
+Herwiha îro rojbûna neviyê wan Mînas e, û tê bikaribî jê re tebrîkan bixwazî.» ||| It's also their grandson Minas's birthday today, and you'll be able to wish him many happy returns."
+
+Ketina mala gundiyekî Kretî kêfxweşiyeke mezin e. ||| It is a great pleasure to enter a Cretan peasant's home.
+Her tiştê li dora te bavkalî ye: ocax, çiraya rûnê, cerikên ji ax ên li ber dîwêr rêzkirî, çend kursî, maseyek û, li milê çepê dema tu dikevî hundir, di qulekê de di dîwêr de, cerikeke ava sayî. ||| Everything about you is patriarchal: the hearth, the oil lamp, the earthenware jars lining the wall, a few chairs, a table and, on the left as you enter, in a hole in the wall, a pitcher of fresh water.
+Ji kêranan ve werîsên bîhan, hinaran û nebatên bîhnxweş daleqandî ne: meryemok, pûng, îsotên sor, rozmarî û cetir. ||| From the beams hang strings of quinces, pomegranates and aromatic plants: sage, mint, red peppers, rosemary and savory.
+##PG 36
+Li serê dûr ê odeyê derenceyek an çend pêpelûkên darîn ber bi sekoya bilindkirî ve diçin, cihê ku textekî sêpêyî heye û, li jorê wî, îkonên pîroz bi çirayên xwe. ||| At the far end of the room a ladder or a few wooden steps lead up to the raised platform, where there is a trestle bed and, above it, the holy icons with their lamps.
+Mal vala xuya dike, lê her tiştê pêwîst tê de heye, ewqas hindik in bi rastî hewcedariyên rastîn ên mirov. ||| The house appears empty, but it contains everything needful, so few in reality are the true necessities of man.
+
+Rojeke biriqdar bû, ku roja payîzê pir nerm kiribû. ||| It was a magnificent day, rendered very mild by the autumn sun.
+
+Em li pêşberî malê li baxçeyê gundî yê biçûk rûniştin, di bin dareke zeytûnê ya bi ber barkirî. ||| We sat in front of the house in the little peasant garden, under an olive tree laden with fruit.
+Di navbera pelên zîvîn de behr ji dûr ve diyar bû ku dibiriqî, bi tevahî aram û bêdeng. ||| Between the silvery leaves the sea could be seen gleaming in the distance, perfectly calm and still.
+Ewrên buharî bê navber li pêşberî rojê derbas dibûn û erd carna xemgîn, carna şa dikirin, wek ku ew bêhna xwe distîne. ||| Vaporous clouds were continually passing in front of the sun and making the earth appear now sad, now gay, as if it were breathing.
+
+Li serê baxçeyê piçûk, di hewşekê de, berazê axtekirî bi êş diqîriya û me ker dikir. ||| At the end of the tiny garden, in an enclosure, the castrated pig was squealing with pain and deafening us.
+Bêhna xwarina Kîrya Marûlya ya li ser komirên ocaxê digihîşt pozên me. ||| The smell of Kyria Maroulia's cooking on the embers in the hearth reached our nostrils.
+
+Sohbeta me bi babetên herheyî ve sînorkirî bû: dexlê genim, rez, baran. ||| Our conversation was confined to the everlasting topics: the corn crops, the vines, the rain.
+Em mecbûr bûn biqîrin çimkî kalê pîr giran-guh bû. ||| We were obliged to shout because the old gaffer was hard of hearing.
+Wî digot ku «guhekî wî yê serbilind» heye. ||| He said he had "a proud ear."
+Jiyana vî Kretiyê pîr sade û aram bûbû, wek ya dareke di geliyekî parastî de. ||| This old Cretan's life had been straightforward and peaceful, like that of a tree in a sheltered ravine.
+Ew hatibû dinyayê, mezin bûbû û zewicîbû. ||| He had been born, had grown up and had married.
+Zarokên wî hebûn û dem dîtibû ku neviyên xwe bibîne. ||| He had had children and had had time to see his grandchildren.
+Çend ji wan miribûn, lê yên din dijiyan: berdewamiya malbatê piştrast bû. ||| Several had died, but others were living: the continuation of the family was assured.
+
+Vî Kretiyê pîr dikarî rojên kevn, desthilatdariya tirkan, gotinên bavê xwe, û kerametên ku di wan rojan de diqewimîn bîne bîra xwe, çimkî jin ji Xwedê ditirsiyan û bawerî hebûn. ||| This old Cretan could recall the old days, Turkish rule, the sayings of his father, the miracles which happened in those days because the women-folk feared God and had faith.
+
+«Va ye, li min binêre, apê Anagnostiyê pîr ê ku bi te re dipeyive! Bûyîna min bi xwe keramet bû. Erê, bi giyanê xwe, keramet! ||| "Why, look at me here, old uncle Anagnosti who's speaking to you! My own birth was a miracle. Aye, upon my soul, a miracle!
+Û çaxê ez ji te re bibêjim ka çawa qewimî, tê ecêbmayî bimînî. ‹Xwedê rehmê li me bike,› tê bibêjî, û biçî keşîşxaneya Meryema Pîroz û mûmekê jê re bişewitînî.» ||| And when I tell you how it happened, you'll be amazed. 'The Lord have mercy on us,' you'll say, and go to the monastery of the Virgin Mary and burn a candle to her."
+
+Wî xaç li xwe kir û, bi dengekî nerm û rewişeke nazik, dest bi vegotina çîroka xwe kir. ||| He crossed himself and, in a soft voice and gentle manner, began to tell his tale.
+
+«Wê demê, vêca, jineke tirk a dewlemend li gundê me dijiya -- bila giyanê wê lanetî be! ||| "In those days, then, a rich Turkish woman lived in our village -- damn her soul!
+Rojekê ji rojan wê belengazê bi zaro ket û dema wê ya welidandinê hat. ||| One fine day the wretch became big with child and the time came for her to give birth.
+Ew li ser textê sêpêyî dirêj kirin û ew sê roj û sê şevan li wir ma, wek mozikekê dinaliya. ||| They laid her on the trestle bed and she stayed there bellowing like a heifer for three days and nights.
+Lê zarok nedihat. ||| But the child wouldn't come.
+Vêca hevaleke wê -- bila giyanê wê jî lanetî be! -- şîretek lê kir. ||| So a friend of hers -- damn her soul, too! -- gave her some advice.
+‹Tzafer Hanim, divê tu Meryema Dayik gazî bikî ji bo alîkariyê!› ||| 'Tzafer Hanum, you should call Mother Mary for help!'
+Tirk wisa gazî Meryemê dikin. Hêza wê mezin be! ||| That's how the Turks call the Virgin. Great be her power!
+‹Ji bo çi?› ew Tzafera qehbik dinaliya. ‹Gazî wê bikim? Ezê çêtir bimirim!› ||| 'What for?' that Tzafer bitch bellowed. 'Call her? I'd sooner die!'
+Lê êşên wê tûjtir bûn. ||| But her pains became more acute.
+Rojek û şeveke din derbas bû. ||| Another day and night went by.
+Ew hîn jî dinaliya, û hîn jî nedikarî zarokê bîne. ||| She was still bellowing, and still she couldn't deliver the child.
+Çi dikarî bihata kirin? ||| What could be done?
+Ew êdî nedikarî li êşan tab bike. ||| She couldn't bear the pains any longer.
+Vêca ew dest pê kir bi hemû hêza xwe biqîre: ‹Meryema Dayik! Meryema Dayik!› ||| So she started to shout for all she was worth: 'Mother Mary! Mother Mary!'
+Lê fêde nekir, êş nedisekinîn û zarok nedihat. ||| But it was no use, the pains wouldn't stop and the child wouldn't come.
+Û hevala wê got: ‹Dibe ku ew tirkî fêm nake!› ||| And her friend said: 'Perhaps she can't understand Turkish!'
+Vêca wê qehbikê qêriya: ‹Meryema Romiyan! Meryema Romiyan!› (Romî: navê ku misilman li xiristiyanan dikin). ||| So that bitch yelled: 'Virgin of the Roumis! Virgin of the Roumis!'
+Bila Romî lanetî bin! Êş zêde bûn. ||| Roumis be damned! The pains increased.
+‹Tu wê bi awayê rast gazî nakî,› got hevalê. ‹Tu wê bi awayê rast gazî nakî, û ji ber vê yekê ew nayê.› ||| 'You're not calling her the proper way,' said the friend. 'You're not calling her the proper way, and that's why she won't come.'
+Vêca wê qehbika kafir, dema ku metirsiya xwe dît, qêriya heta ku kezeba xwe biteqîne: ‹Meryema Pîroz!› ||| So that heathen bitch, seeing her peril, cries out fit to burst her lungs: 'Holy Virgin!'
+Û yekser zarok ji malzaroka wê derket wek marmasiyek ji heriyê.» ||| And straight away the child slipped out of her womb like an eel out of the mud."
+
+##PG 37
+«Ew yek rojeke yekşemê qewimî, û yekşema din diya min ket êşan. ||| "That happened one Sunday, and the next Sunday my mother had her pains.
+Wê jî ew kişand, belengaz. ||| She went through it, too, the poor wretch.
+Diya min a reben bi rastî pir dikişand, û wê qêriya: ‹Meryema Pîroz! Meryema Pîroz!› ||| She was really going through it, my poor mother was, and she screamed: 'Holy Virgin! Holy Virgin!'
+Lê ew newelidand. ||| But she wasn't delivered.
+Bavê min li ser erdê li nava hewşê rûniştî bû. ||| My father was sitting on the ground in the middle of the yard.
+Ji ber êşên wê ne dikarî bixwe û ne jî vexwe. ||| He couldn't eat or drink because of her sufferings.
+Ew qet ji Meryema Pîroz razî nebû. ||| He wasn't at all pleased with the Holy Virgin.
+Tu dibînî, cara dawî dema ku wê Tzafera qehbik gazî kiribû, Meryemê situyê xwe şikandibû ku bê û wê welidîne. ||| You see, the last time when that Tzafer bitch had called her, the Virgin had broken her neck to come and deliver her.
+Lê niha... Çaxê roja çaran hat, bavê min êdî nedikarî xwe bigire. ||| But now... When the fourth day came, my father couldn't contain himself any longer.
+Bê kêliyekê dudilî, melhêbê xwe digire û diçe keşîşxaneya Meryema Şehîd. Bila hewara me bigihîje! ||| Without a moment's hesitation he takes his pitchfork and goes to the monastery of the Martyred Virgin. May she succor us!
+Ew digihîje wir, dikeve dêrê bê ku xaçê jî li xwe bike, ewqas hêrsa wî mezin bû, deriyê li pişt xwe digire û çikil dike, û rasterast ber bi îkonê ve dimeşe. ||| He gets there, goes in the church without even crossing himself, so great was his rage, he shuts and bolts the door behind him, and marches straight up to the icon.
+‹Binêre vir, Meryema Pîroz,› ew diqîre, ‹va ye jina min, Krînyo -- tu wê nas dikî, ne wisa -- divê nas bikî, ew her şemî ji te re rûn tîne, û çirayên te vêdixe -- va ye jina min sê roj û sê şevan dikişîne û gazî te dike. ||| 'Look here, Holy Virgin,' he shouts, 'here's my wife, Krinio -- you know her, don't you -- you ought to, she brings you oil every Saturday, and she lights your lamps -- here's my wife been having her pains for three days and nights and she's been calling you.
+Tu wê nabihîzî? Divê tu ker bî heke nabihîzî! ||| Can't you hear her? You must be deaf if you can't!
+Helbet heke ew Tzafereke qehbik bûya, yek ji wan qehbên tirkan, te dê biçûya û situyê xwe ji bo wê bişikanda. ||| Of course if she were some Tzafer bitch, one of those Turkish sluts, you'd go and break your neck for her.
+Lê jina min, Krînyo, ew tenê xiristiyanek e, loma tu bûyî ker û nikarî wê bibihîzî! ||| But my wife, Krinio, she's only a Christian, so you've become deaf and can't hear her!
+Tu dizanî, heke tu ne Meryema Pîroz bûyayî, ez ê dersekê bi destikê vê melhêbê fêrî te bikira!› ||| You know, if you weren't the Holy Virgin, I'd teach you a lesson with the handle of this pitchfork here!'
+
+«Û, bê gotineke din, bê ku heta serê xwe jî li ber wê bitewîne, pişta xwe dayê û dixwest derkeve. ||| "And, without more ado, without so much as bowing his head to her, he turned his back on her and was about to leave.
+Lê, Xwedê mezin e, hema wê gavê îkonê dengekî bilind ê xirecirî kir wek ku biqelişe. ||| But, great is the Lord, just then the icon made a loud grating noise as if it were splitting.
+Bila ez ji te re bibêjim heke tu hîn nizanî, îkon dema ku kerametan dikin dengekî wisa derdixin. ||| Let me tell you if you don't know it already, icons make a noise like that when they're doing miracles.
+Bavê min yekser fêm kir. ||| My father understood at once.
+Ew dîsa zivirî, çû ser çokan û xaç li xwe kir. ||| He wheeled round again, knelt down and crossed himself.
+‹Min li hember te guneh kir, Meryema Pîroz,› wî qêriya. ‹Min gelek tiştên ku ne diviyan got, lê bila em jê bibihûrin!›» ||| 'I've sinned against you, Holy Virgin,' he cried. 'I've said a lot of things I shouldn't, but let's forget it!'"
+
+«Ew hema vegeriya gund ku mizgîna xweş bihîst. ||| "He had hardly got back to the village when he heard the good news."
+
+«‹Jiyana dirêj jê re, Kostandî. Jina te kurek aniye!› Ev ez bûm, Anagnostiyê pîr li vir. ||| "'Long life to him, Kostandi. Your wife has given birth to a son!' It was me, old Anagnosti here.
+Lê ez bi guhekî lewaz hatim dinyayê. ||| But I was born with a weak ear.
+Tu dibînî, bavê min kufir kiribû, jê re gotibû Meryem ker e.» ||| You see, my father had blasphemed, he'd called the Virgin deaf.
+
+«‹Ohh, wisa ye, ne wisa?› divê Meryemê gotibe. ‹Baş e, tu li bende, ezê kurê te ker bikim, ev ê fêrî te bike ku kufir nekî!›» ||| "'Oh, that's how it is, is it?' the Virgin must have said. 'Well, just you wait, I'll make your son deaf, that'll teach you to blaspheme!'"
+
+Û apê Anagnostî xaç li xwe kir. ||| And uncle Anagnosti crossed himself.
+
+«Lê ev ne tiştek e,» wî got. «Şikir ji Xwedê re! Wê dikarî min kor an ehmaq bikira, an kûz, an heta -- Xwedayê Mezin me biparêze! -- wê dikarî min keçek bikira. Ev qet ne tiştek e, ez li ber pîroziya wê serî datînim!» ||| "But that's nothing," he said. "God be praised! She might have made me blind or an idiot, or hunchbacked, or even -- God Almighty preserve us! -- she might have made me a girl. This is just nothing at all, I bow to her holiness!"
+
+Wî qedeh tije kirin. ||| He filled the glasses.
+
+«Bila ew her alîkariya me bike!» wî got, qedeha xwe bilind dikir. ||| "Long may she help us!" he said, raising his glass.
+
+«Li ser saxiya te, apê Anagnostî. Hêvî dikim tu sed salî bijî û nevî-neviyên xwe bibînî!» ||| "To your health, uncle Anagnosti. I hope you live to a hundred and see your great-great-grandchildren!"
+
+Kalê şeraba xwe bi carekê serjê kir û simbêlên xwe paqij kirin. ||| The old man tossed off his wine in one go and wiped his moustache.
+
+«Na, kurê min,» wî got. «Ev pir zêde ye ku mirov bixwaze. Min neviyên xwe dîtine. Ew bes e. Divê mirov pir zêde nexwaze. Saeta min hatiye. Ez pîr im, hevalno, qutê min vala ne, ez nikarim -- her çiqas bixwazim jî -- ez nikarim tovê zarokên din biçînim. Vêca ez ê bi jiyanê çi bikim?» ||| "No, my son," he said. "That's too much to ask. I've seen my grandchildren. That's enough. Mustn't ask too much. My hour has come. I am old, my friends, my loins are empty, I can't -- much as I'd like to -- I can't sow the seed for any more children. So what'd I be doing with life?"
+
+Wî dîsa qedeh tije kirin, ji ber pêştûra xwe çend gûz û hêjîrên ziwa yên di pelên defneyê de pêçayî derxistin û bi me re parve kirin. ||| He filled the glasses again, pulled out from his waistband some walnuts and dried figs wrapped in laurel leaves and shared them with us.
+
+##PG 38
+«Min her tiştê ku hebû da zarokên xwe,» wî got. «Em bûne belengaz, erê, belengaz, lê ez gilî nakim. Xwedê her tiştê pêwîst heye!» ||| "I have given everything I had to my children," he said. "We've become poverty-stricken, yes, poverty-stricken, but I don't complain. God has all that is needful!"
+
+«Dibe ku Xwedê her tiştê pêwîst hebe, apê Anagnostî,» Zorba di guhê kalê de qêriya. «Dibe ku Xwedê hebe, lê ne em. Çikûsê pîr tiştekî nade me!» ||| "God may have all that's needful, uncle Anagnosti," Zorba shouted in the old man's ear. "God may have, but not us. The old skinflint gives us nothing!"
+
+Lê gundiyê pîr eniya xwe tirş kir. ||| But the old villager frowned.
+
+«Wisa nebêje!» wî bi tundî serzeniş kir. «Wî sûcdar neke! Belengaz hesabê xwe li me jî dike, tu dizanî!» ||| "Don't say that!" he chided severely. "Don't upbraid him! The poor fellow counts on us, too, you know!"
+
+Di vê kêliyê de pîrika Anagnostî bêdeng û bi stûxwarî ket hundir, xwarina navdar li ser sêniyeke ji ax hilgirtî, û herwiha cêrekî mezin ê tije şerab. ||| At this moment grandmother Anagnosti entered silently and submissively carrying the celebrated delicacy on an earthenware dish, and also a large jug full of wine.
+Wê ew danîn ser maseyê û li ser piyan ma, destên xwe girêdayî û çavên xwe daxistî. ||| She set them on the table and remained standing with hands clasped and lowered eyes.
+
+Min hinekî kerixîn hîs kir ku divê vê pêşxwarinê tam bikim, lê, ji aliyê din ve, wêrekiya min tunebû ku red bikim. ||| I felt some repugnance at having to taste this hors d'oeuvre, but, on the other hand, I did not have the courage to refuse.
+Zorba ji quncika çavê xwe li min dinihêrî û ji tengasiya min kêf werdigirt. ||| Zorba was watching me out of the corner of his eye and enjoying my discomfiture.
+
+«Ev xwarina herî bi tam e ku tu dikarî bixwazî, axa,» wî piştrast kir. «Xwe nazik neke.» ||| "It's the most tasty dish you could wish for, boss," he affirmed. "Don't be squeamish."
+
+Anagnostiyê pîr hinekî keniya. ||| Old Anagnosti gave a little laugh.
+
+«Ew rastî ye, bi rastî jî, tu wan biceribîne û bibîne. Ew di dev de dihelin! ||| "That's the truth, indeed it is, you try them and see. They melt in the mouth!
+Çaxê Mîr George -- bila saet jê re pîroz be! -- serdana keşîşxaneya me ya li wir li çiyan kir, keşîşan ji bo rûmeta wî şahiyeke şahane amade kir, û wan goşt da her kesî ji bilî mîr, yê ku tasek şorbe jê re hat dayîn. ||| When Prince George -- may the hour be blessed for him! -- visited our monastery up there in the mountains, the monks prepared a royal feast in his honor, and they served meat to every one save to the prince, who was given a plateful of soup.
+Mîr kevçiyê xwe hilda û dest pê kir şorba xwe tev bide. ‹Ev çi ne? Fasûlî?› wî bi ecêbmayî pirsî. ‹Fasûliyên sipî ne, ne wisa?› ||| The prince took his spoon and began to stir his soup. 'What are these? Beans?' he asked in surprise. 'White haricot beans, are they?'
+‹Wan biceribîne, Hêja,› got serkeşîşê pîr. ‹Wan biceribîne û em ê paşê li ser wan biaxivin.› ||| 'Try them, Your Highness,' said the old abbot. 'Try them and we'll talk about them afterwards.'
+Mîr kevçiyek, du, sê hilda, tasa xwe vala kir û lêvên xwe alast. ‹Ev xwarina ecêb çi ye?› wî got, ‹Çi fasûliyên bi tam! Ew wek mejî xweş in!› ||| The prince took a spoonful, two, three, he emptied his plate and licked his lips. 'What is this wonderful dish?' he said, 'What tasty beans! They're as nice as brains!'
+‹Ew ne fasûlî ne, Hêja,› bersiv da serkeşîş, dikeniya. ‹Ew ne fasûlî ne! Me hemû dîkên dor û berê axte kirin!›» ||| 'They're no beans, your Highness,' replied the abbot, laughing. 'They're no beans! We've had all the cocks of the neighborhood castrated!'"
+
+Bi qêrîna kenê, kalê çetela xwe kir perçeyekî din. ||| Roaring with laughter, the old man stuck his fork into another morsel.
+
+«Xwarineke ku li mîran tê!» wî got. «Devê xwe veke.» ||| "A dish fit for princes!" he said. "Open your mouth."
+
+Min devê xwe vekir û wî perçe avêt hundir. ||| I opened my mouth and he popped in the morsel.
+
+Wî dîsa qedeh tije kirin û me li ser saxiya neviyê wî vexwar. ||| He filled the glasses again and we drank to the health of his grandson.
+Çavên Anagnostiyê pîr dibiriqîn. ||| Old Anagnosti's eyes shone.
+
+«Tu çi dixwazî ku neviyê te bibe, apê Anagnostî?» min pirsî. «Ji me re bêje, da ku em bixwazin.» ||| "What would you like your grandson to be, uncle Anagnosti?" I asked. "Tell us, so that we can wish."
+
+«Ez çi bixwazim, kurê min? Baş e, ku ew riya rast bigire; ku bibe mirovekî baş, serê malbatekê; ku ew jî bizewice û zarok û nevî hebin. Û bila yek ji zarokên wî wek min be, da ku kalan bibêjin: ‹Va, ma ew naşibe Anagnostiyê pîr -- Xwedê giyanê wî pîroz bike! -- ew mirovekî baş bû!›» ||| "What could I wish, my son? Well, that he takes the right road; that he becomes a good man, head of a family; that he, too, gets married and has children and grandchildren. And may one of his children be like me, so that old folk exclaim: 'I say, doesn't he look like old Anagnosti -- God sanctify his soul! -- he was a good man!'"
+
+«Marûlya!» wî gazî kir, bê ku li jina xwe binêre. «Marûlya, şeraba zêdetir, cêr dîsa tije bike!» ||| "Maroulia!" he called, without looking at his wife. "Maroulia, more wine, fill up the jug again!"
+
+Hema wê gavê deriyê biçûk ê hewşê li ber palpêkeke bihêz a berazî vebû û beraz bi qûrînî bezî nav baxçeyî. ||| Just then the wicket gate to the enclosure yielded to a powerful thrust from the pig and the pig rushed grunting into the garden.
+
+«Êş didê, heywanê reben,» Zorba bi dilovanî got. ||| "It hurts him, poor beast," Zorba said pityingly.
+
+«Helbet êş didê!» Kretiyê pîr got, dikeniya. «Heke wan ev bi te bikira, ma êş nedida te?» ||| "Of course it hurts him!" the old Cretan said, laughing. "Supposing they did that to you, wouldn't it hurt you?"
+
+##PG 39
+Zorba li ser kursiya xwe bêhntengî kir. ||| Zorba fidgeted on his chair.
+
+«Bila zimanê te bê birîn, te stûnê ker ê pîr!» Zorba bi tirs di binê devê xwe de got. ||| "May your tongue be cut out, you old deaf post!" Zorba muttered in horror.
+
+Beraz li pêşberî me bazda û bi hêrs li me nihêrî. ||| The pig ran about in front of us and looked at us furiously.
+
+«Ez bawer dikim ew dizane ku em wan dixwin!» got apê Anagnostî, yê ku bi dilopa şeraba ku vexwaribû kêfxweş bûbû. ||| "I do believe he knows we're eating them!" said uncle Anagnosti, who had been put in high spirits by the drop of wine he had drunk.
+
+Lê em, wek goştxwaran, bi aramî û bi dilxweşî berdewam xwarina bi tam dixwarin û şeraba sor vedixwarin, dema ku di navbera çiqilên zîvîn ên dara zeytûnê re ber bi behrê ve dinihêrîn, ya ku rojava ew pembe kiribû. ||| But we, like cannibals, went on quietly and contentedly eating the delicacy and drinking the red wine, as we gazed between the silvery branches of the olive tree towards the sea, which the sunset had turned pink.
+
+Bi êvarê em ji mala kalê derketin. ||| At dusk we left the old man's house.
+Zorba, yê ku niha ew jî kêfxweş bûbû, dixwest biaxive. ||| Zorba, who was now also in high spirits, wanted to talk.
+
+«Em pêr çi digotin, axa? Tu digotî ku tu dixwazî çavên gel vekî. Baş e, tu here û çavên apê Anagnostiyê pîr jê re veke! Te dît ka jina wî çawa diviya li ber wî tevbigere, li benda emrên wî, wek kûçikekî ku li benda parîkî ye. ||| "What were we saying the day before yesterday, boss? You were saying you wanted to open the people's eyes. All right, you just go and open old uncle Anagnosti's eyes for him! You saw how his wife had to behave before him, waiting for his orders, like a dog begging.
+
+Niha tu here û fêrî wan bike ku jin mafên wan ên wekhev bi mêran re hene, û ku ev hovîtî ye ku mirov perçeyek ji berazî bixwe dema ku beraz hîn xav e û li pêşberî te dinale, û ku ev dînîtiyeke sade ye ku mirov spasiya Xwedê bike çimkî her tiştê wî heye dema ku tu ji birçîna dimirî! ||| Just go now and teach them that women have equal rights with men, and that it's cruel to eat a piece of the pig while the pig's still raw and groaning in front of you, and that it's simple lunacy to give thanks to God because he's got everything while you're starving to death!
+Wê belengazê Anagnostî dê ji hemû vê şîrovekirina te ya pûç çi qezenc bike? ||| What good'll that poor devil Anagnosti get out of all your explanatory humbug?
+Te dê tenê gelek tengasî jê re çêkira.» ||| You'd only cause him a lot of bother."
+
+«Û dayika Anagnostî ya pîr dê jê çi qezenc bike? Agir dê bikeve nav êzingan: pevçûnên malbatê dê dest pê bikin, mirîşk dê bixwaze bibe dîk, cot dê tenê bi hev re şer bikin û perên xwe bifirînin...! Bila gel bi halê xwe bin, axa; çavên wan veneke. Û heke te vekira jî, ew dê çi bibînin? Belengaziya xwe! Bila çavên wan girtî bimînin, axa, û bila ew berdewam xewnan bibînin!» ||| "And what'd old mother Anagnosti get out of it? The fat would be in the fire: family rows would start, the hen would want to be cock, the couple would just have a good set-to and make their feathers fly...! Let people be, boss; don't open their eyes. And supposing you did, what'd they see? Their misery! Leave their eyes closed, boss, and let them go on dreaming!"
+
+Ew kêliyekê bêdeng ma û serê xwe xurand. Ew difikirî. ||| He was silent a moment and scratched his head. He was thinking.
+
+«Ji bilî,» wî di dawiyê de got, «ji bilî...» ||| "Unless," he said at last, "unless..."
+
+«Ji bilî çi? Bêje!» ||| "Unless what? Let's have it!"
+
+«Ji bilî ku çaxê ew çavên xwe vekin tu bikaribî cîhaneke çêtir ji wê tariya ku ew niha tê de digerin nîşanî wan bidî.... Tu dikarî?» ||| "Unless when they open their eyes you can show them a better world than the darkness in which they're gallivanting at present.... Can you?"
+
+Min nizanibû. Ez bi temamî haydar bûm ji ya ku dê were hilweşandin. ||| I did not know. I was fully aware of what would be destroyed.
+
+Min nizanibû çi dê ji wêranan were avakirin. ||| I did not know what would be built out of the ruins.
+Min fikirî: tu kes nikare wê bi tu asteke piştrastiyê zanibe. ||| No one can know that with any degree of certainty, I thought.
+Cîhana kevn berbiçav e, hişk e, em tê de dijîn û her kêlî pê re têdikoşin -- ew heye. ||| The old world is tangible, solid, we live in it and are struggling with it every moment -- it exists.
+Cîhana pêşerojê hîn nehatiye dinyayê, ew direvok e, herikbar e, ji ronahiya ku xewn jê têne hûnandin çêbûye; ew ewrek e ku bayên tund lê dixin -- evîn, nefret, xeyal, şens, Xwedê.... ||| The world of the future is not yet born, it is elusive, fluid, made of the light from which dreams are woven; it is a cloud buffeted by violent winds -- love, hate, imagination, luck, God....
+
+Pêxemberê herî mezin ê li ser rûyê erdê nikare ji mirovan re ji şîarekê pê ve tiştekî bide, û çiqas şîar nezelaltir be, ewqas pêxember mezintir e. ||| The greatest prophet on earth can give men no more than a watchword, and the vaguer the watchword the greater the prophet.
+
+Zorba bi bişirîneke tinazî li min nihêrî ku ez aciz kirim. ||| Zorba looked at me with a mocking smile which vexed me.
+
+«Ez dikarim cîhaneke çêtir nîşanî wan bidim!» min bersiv da. ||| "I can show them a better world!" I replied.
+
+«Tu dikarî? Baş e, em bibihîzin!» ||| "Can you? Well, let's hear about it!"
+
+«Ez nikarim wê rave bikim; tu yê fêm nekî.» ||| "I can't explain it; you wouldn't understand."
+
+«Ev tê wê wateyê ku tu yek nînî ku nîşan bidî!» Zorba lê vegerand, serê xwe dihejand. «Min wek sadediltekî nebîne, axa. Heke kesekî ji te re gotibe ku ez şêt im, ew şaş in. Dibe ku xwendina min ne ji apê Anagnostiyê pîr zêdetir be, lê ez qet ne ewqas ehmaq im! Baş e, heke ez nikarim fêm bikim, tu ji wî belengazî û jina wî ya stûr çi hêvî dikî? ||| "That means you haven't got one to show!" Zorba rejoined, shaking his head. "Don't take me for a simpleton, boss. If anyone's told you I'm a moon-calf, they're wrong. I may have no more education than old uncle Anagnosti, but I'm nowhere near so stupid! Well, if I can't understand, what d'you expect of that poor fellow and his blockheaded mate?
+
+##PG 40
+Û hemû Anagnostiyên din ên dinyayê çi? Ma tenê tariya zêdetir heye ku tu nîşanî wan bidî? ||| And what about all the other Anagnostides in the world? Have you only got more darkness to show them?
+Wan heta niha xwe baş bi rê ve biriye; zarokên wan hene, û heta nevî jî. Xwedê wan ker an kor dike, û ew dibêjin: ‹Şikir ji Xwedê re!› Ew di belengaziya xwe de xwe wek li malê hîs dikin. Vêca bila ew bi halê xwe bin û tiştekî nebêjin.» ||| They've managed pretty well up to now; they have children, and even grandchildren. God makes them deaf or blind, and they say: 'God be praised!' They feel at home in their misery. So let them be and say nothing."
+
+Ez bêdeng bûm. Em ji baxçeyê jinebiyê re derbas dibûn. ||| I was silent. We were passing the widow's garden.
+Zorba kêliyekê sekinî û axîn kişand, lê tiştekî negot. ||| Zorba stopped a moment and sighed, but said nothing.
+Divê ku baranek lêdabû. ||| A shower must have fallen.
+
+Bêhneke teze ya axê di hewayê de hebû. Stêrkên yekem xuya bûn. ||| There was a fresh, earthy smell in the air. The first stars appeared.
+
+Heyva nû dibiriqî, ew rengekî zer-kesk ê nazik bû. Ezman ji şîrîniyê dirijiya. ||| The new moon was shining, it was a tender shade of greenish yellow. The sky was overflowing with sweetness.
+
+Min fikirî: ev mirov neçûye dibistanê, û mejiyê wî nehatiye xerakirin. ||| That man has not been to school, I thought, and his brains have not been perverted.
+Wî her cûre serpêhatî dîtine; hişê wî vekirî ye û dilê wî mezintir bûye, bê ku wî gramek ji wêrekiya xwe ya seretayî winda kiribe. ||| He has had all manner of experiences; his mind is open and his heart has grown bigger, without his losing one ounce of his primitive boldness.
+Hemû pirsgirêkên ku em ewqas tevlihev an neçareser dibînin, ew wan wek bi şûrê dibire, wek Îskenderê Mezin ku girêka Gordiyon dibirî. ||| All the problems which we find so complicated or insoluble he cuts through as if with a sword, like Alexander the Great cutting the Gordian knot.
+Zehmet e ku ew armanca xwe ji dest bide, çimkî her du lingên wî bi giraniya tevahiya laşê wî bi hişkî li ser erdê çikilandî ne. ||| It is difficult for him to miss his aim, because his two feet are held firmly planted on the ground by the weight of his whole body.
+Hovên Afrîkayê marî diperizin çimkî tevahiya laşê wî bi erdê dikeve û loma divê ew hemû sirên erdê zanibe. ||| African savages worship the serpent because its whole body touches the ground and it must, therefore, know all the earth's secrets.
+Ew wan bi zikê xwe, bi dûvê xwe, bi serê xwe dizane. ||| It knows them with its belly, with its tail, with its head.
+Ew her tim bi Dayikê re di têkiliyê de ye an pê re tevlihev e. ||| It is always in contact or mingled with the Mother.
+Heman tişt ji bo Zorba rast e. ||| The same is true of Zorba.
+Em mirovên xwenda tenê çûkên hewa yên servala ne. ||| We educated people are just empty-headed birds of the air.
+
+Stêrk li ezmanan zêde dibûn, û ew hemû hişk, dirinde, bi tinaz û bê rehm li hember mirov bûn. ||| The stars were multiplying in the heavens, and they were all hard, fierce, scornful and pitiless towards man.
+
+Em êdî nepeyivîn. Em her du bi tirs li ezman dinihêrîn. ||| We no longer spoke. We were both gazing with terror at the sky.
+
+Her saniye stêrkên nû li rojhilatê vêdiketin û şewatê belav dikirin. ||| Every second new stars lit up in the east and spread the conflagration.
+
+Em gihîştin koxika xwe. Daxwaza min a herî biçûk jî tunebû ku bixwim, û ez li ser kevirekî li ber behrê rûniştim. ||| We arrived at our hut. I had not the slightest desire to eat, and sat on a rock by the sea.
+Zorba agir pê xist, xwar, nêzîk bû ku li tenişta min rûne, lê fikra xwe guhert û li ser doşeka xwe dirêj bû û ket xewê. ||| Zorba lit the fire, ate, was about to come to sit beside me, but changed his mind and lay on his mattress and fell asleep.
+
+Behr bi tevahî aram bû. ||| The sea was dead calm.
+Di bin rîza stêrkên dikevin de erd jî bêliv û bêdeng radiza. ||| Beneath the volley of shooting stars the earth also lay motionless and silent.
+Ne kûçikek direwiya, ne teyrekî şevê diqîriya. ||| No dog barked, no nightbird shrieked.
+Ew bêdengiyeke dizî, talûke û tevahî bû, ji hezaran qêrînên ewqas dûr an ji wisa kûrahiyên nava me pêkhatî ku me nikarîbû wan bibihîze. ||| It was a stealthy, dangerous, total silence, composed of thousands of cries so distant or from such depths within us that we could not hear them.
+Min tenê dikarî lêdana xwîna xwe di şeqamên xwe de û di damarên situyê xwe de fêm bikim. ||| I could only discern the pulsing of my blood in my temples and in the veins of my neck.
+
+Strana piling! min fikirî, û ricifîm. ||| The song of the tiger! I thought, and shuddered.
+
+Li Hindistanê, çaxê şev dikeve, stranek xemgîn û yekreng bi dengekî nizm tê gotin, stranek hêdî û hov, wek bawişka dûr a heywanekî nêçîrvan -- strana piling. ||| In India, when night falls, a sad, monotonous song is sung in a low voice, a slow, wild song, like the distant yawn of a beast of prey -- the song of the tiger.
+Dilê mirov diperpite û li deriyekî digere dema ku ew bi hêviyeke gergerî disekine. ||| Man's heart flutters and seeks an outlet as he waits in tense expectation.
+
+Dema ku min li ser vê strana tirsnak difikirî, valahiya di singê min de hêdî hêdî tije bû. ||| As I thought of this fearful song, the void in my breast was gradually filled.
+Guhên min vejiyan, bêdengî bû qêrîn. ||| My ears came to life, the silence became a shout.
+Wek ku giyan bi xwe ji vê stranê pêkhatî be û ji laş direviya da ku guhdarî bike. ||| It was as if the soul itself were composed out of this song and were escaping from the body to listen.
+
+Ez xwar bûm, kefa destê xwe bi ava behrê tije kir, eniya xwe û şeqamên xwe şil kirin. Min xwe teze hîs kir. ||| I stooped, filled my palm with sea water, moistened my brow and temples. I felt refreshed.
+Di kûrahiya hebûna min de, qêrîn deng vedidan, bi tehdîd, tevlihev, bêsebir -- piling di hundirê min de bû û ew dinerand. ||| In the depths of my being, cries were echoing, threateningly, confused, impatient -- the tiger was within me and he was roaring.
+
+Ji nişkê ve min deng zelal bihîst. Ew dengê Bûda bû. ||| All at once I heard the voice clearly. It was the voice of Buddha.
+
+Ez dest pê kir bi lez li ber kêleka avê meşiyam, wek ku bixwazim birevim. ||| I started walking rapidly along the water's edge, as if I wished to escape.
+Ji hinek demê ve, çaxê bi şev bi tena serê xwe bûm û bêdengî serdest bû, min dengê wî dibihîst -- di destpêkê de xemgîn û gilîdar, wek mersiyeyekê; paşê, hêrs dibû, serzeniş dikir û emrane dibû. ||| For some time now, when alone at night and silence reigned, I had been hearing his voice -- at first sorrowful and plaintive, like a dirge; then, becoming angry, scolding and imperative.
+
+##PG 41
+Ew di singê min de wek zarokekî leht dixist dema ku dem hatibe ku ew malzarokê biterke. ||| It kicked within my breast like a child when the time has come for it to leave the womb.
+
+Divê ku nîvê şevê bûbe. Ewrên reş li ezmên kom bûbûn, dilopên mezin ên baranê li ser destên min diketin. Lê min guh nedayê. ||| It must have been midnight. Black clouds had gathered in the sky, large drops of rain fell onto my hands. But I paid no heed.
+Ez di hewayeke şewatî de noq bûbûm; min dikarî pêtek hîs bikim ku ji her du şeqamên min difiriya. ||| I was plunged into a burning atmosphere; I could feel a flame flickering from both my temples.
+
+Min fikirî, bi ricifînê: dem hatiye. Çerxa Bûdayî min dibe; dem hatiye ku ez xwe ji vî barê kerametî rizgar bikim. ||| The time has come, I thought, with a shudder. The Buddhist wheel is bearing me away; the time has come for me to free myself from this miraculous burden.
+
+Ez bi lez vegeriyam koxikê û çira vêxist. ||| I returned swiftly to the hut and lit the lamp.
+Çaxê ronahî li ser Zorba ket, pilkên çavên wî hejiyan, çavên xwe vekirin û li min nihêrî ku ez li ser kaxezê xwar bûm û dinivîsîm. ||| When the light fell on Zorba, his eyelids twitched, he opened his eyes and watched me bending over the paper and writing.
+Wî tiştekî gurand ku min negirt, ji nişkê ve ber bi dîwêr ve zivirî û dîsa ket xeweke kûr. ||| He growled something which I did not catch, turned brusquely towards the wall and fell fast asleep once more.
+
+Min bi lez dinivîsî, ez di lezê de bûm. ||| I wrote quickly, I was in a hurry.
+Bûda bi temamî di hundirê min de amade bû û min dikarî bibînim ku ji mejiyê min derdiket wek şirîteke şîn a bi sembolan nixumandî. ||| Buddha was completely ready within me and I could see it issuing from my brain like a blue ribbon covered with symbols.
+Ew bi lez derdiket, û min bi bêhêvîtî hewl dida ku pê re bigihîjim. ||| It was coming forth rapidly, and I tried desperately to keep up with it.
+Min dinivîsî; her tişt bûbû sade, pir sade. ||| I wrote; everything had become simple, very simple.
+Ez nedinivîsîm, ez kopî dikirim. ||| I was not writing, I was copying.
+Cîhaneke tevahî li ber min xuya dibû, ji dilovanî, devjêberdan û hewayê pêkhatî: koşkên Bûda, jinên di heremê de, erebeya zêrîn, sê hevdîtinên qederê -- bi pîremêr re, bi nexweş re, bi mirinê re; rev, jiyana zahidî, rizgarî, ragihandina xilasiyê. ||| A whole world was appearing before me, composed of compassion, renunciation and air: Buddha's mansions, the women in the harem, the golden coach, the three fateful encounters -- with the old man, with the sick man, with death; the flight, the ascetic life, the deliverance, the proclaiming of salvation.
+Erd bi kulîlkên zer dadigirtî bû; parsek û padîşah kincên zefranî li xwe dikirin; kevir, dar û goşt sivîktir dibûn. ||| The earth was covered with yellow flowers; beggars and kings donned saffron robes; the stones, the trees and the flesh became lighter.
+Giyan bûn buhar, buhar bû ruh, û ruh bû tunetî.... ||| Souls became vapor, the vapor became spirit, and the spirit became nothing....
+Tiliyên min dest pê kirin biêşin, lê min nedixwest, min nedikarî rawestim. ||| My fingers were beginning to ache, but I would not, I could not stop.
+Dîtin bi lez derbas dibû û winda dibû; diviya ez pê re bigihîjim. ||| The vision was passing swiftly and vanishing; I had to keep up with it.
+
+Sibehê Zorba ez razayî dîtim, serê min li ser destnivîsê. ||| In the morning Zorba found me asleep, with my head on the manuscript.
+"""
+
 CH10 = r"""
 ##PG 72
 ##FIRST
@@ -7902,7 +8189,7 @@ def build_article(num, data):
     out.append('</article>')
     return "\n".join(out)
 
-ARTICLE = build_article(1, CH01) + "\n" + build_article(3, CH3) + "\n" + build_article(4, CH4) + "\n" + build_article(6, CH06) + "\n" + build_article(8, CH8) + "\n" + build_article(10, CH10) + "\n" + build_article(11, CH11) + "\n" + build_article(12, CH12) + "\n" + build_article(13, CH13) + "\n" + build_article(14, CH14) + "\n" + build_article(15, CH15) + "\n" + build_article(16, CH16) + "\n" + build_article(17, CH17) + "\n" + build_article(18, CH18) + "\n" + build_article(19, CH19) + "\n" + build_article(20, CH20) + "\n" + build_article(21, CH21) + "\n" + build_article(22, CH22) + "\n" + build_article(23, CH23) + "\n" + build_article(24, CH24) + "\n" + build_article(25, CH25) + "\n" + build_article(26, CH26)
+ARTICLE = build_article(1, CH01) + "\n" + build_article(3, CH3) + "\n" + build_article(4, CH4) + "\n" + build_article(5, CH5) + "\n" + build_article(6, CH06) + "\n" + build_article(8, CH8) + "\n" + build_article(10, CH10) + "\n" + build_article(11, CH11) + "\n" + build_article(12, CH12) + "\n" + build_article(13, CH13) + "\n" + build_article(14, CH14) + "\n" + build_article(15, CH15) + "\n" + build_article(16, CH16) + "\n" + build_article(17, CH17) + "\n" + build_article(18, CH18) + "\n" + build_article(19, CH19) + "\n" + build_article(20, CH20) + "\n" + build_article(21, CH21) + "\n" + build_article(22, CH22) + "\n" + build_article(23, CH23) + "\n" + build_article(24, CH24) + "\n" + build_article(25, CH25) + "\n" + build_article(26, CH26)
 
 HTML_DOC = r"""<!DOCTYPE html>
 <html lang="ku">
