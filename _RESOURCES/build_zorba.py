@@ -6395,6 +6395,1017 @@ Loma jinebî ji te lava dike ku, eger tu carekê di gundê me re derbas bibî, q
 """
 
 
+CH3 = r"""
+##PG 19
+##FIRST
+Otêla Madam Hortansê ji rêzeke kozikên kevn ên serşokê yên bi hev ve girêdayî pêk dihat. ||| Dame Hortense's hotel consisted of a row of old bathing-huts joined together.
+Ya pêşîn dikan bû ku tu lê dikarî şîrînî, cixare, fistiq, fitîlên lempeyê, alfabe, find û bixûr bikirî. ||| The first was the shop where you could buy sweets, cigarettes, peanuts, lamp-wicks, alphabets, candles and benjamin.
+Çar kozikên li tenişt hev odeya razanê pêk dianîn. ||| Four adjoining huts formed the dormitory.
+Li pişt, di hewşê de, metbex, cihê şuştinê, kolana mirîşkan û qefesên kêvroşkan hebûn. ||| Behind, in the yard, were the kitchen, the washhouse, the henhouse and the rabbit hutches.
+Li dora wan hemûyan, di qûma nazik de bambûyên stûr û darên sebrê hatibûn çandin. ||| Thick bamboos and prickly pears were planted in the fine sand all round.
+Hemû der bêhna behrê, pîsî û mîzê dida. ||| The whole place smelled of the sea, excrement and urine.
+Lê car caran Madam Hortans derbas dibû û bêhna hewayê diguherî — wek ku yekî tasa berberek li bin pozê te vala kiribe. ||| But, from time to time, Dame Hortense passed by and the air changed its odor -- as if someone had emptied a hairdresser's bowl under your nose.
+
+Hema ku nivîn amade bûn, em vekişiyan û heta sibehê bê navber raketin. ||| As soon as the beds were ready we retired and slept without a break till the morning.
+Ez xewna ku min dît nayê bîra min, lê ez sivik û bi qasî ku min nû xwe avêtibe behrê û derketibe rabûm. ||| I do not remember the dream I had, but I rose lightly and as fit as if I had come fresh from a dip in the sea.
+
+Roja Yekşemê bû, dê karker roja Duşemê ji gundên cîran bihatana û li kanê dest bi kar bikira, loma îro wextê min hebû ku li dora wan peravan, ên ku çarenûsê ez avêtibûm ser, geriyekê bidim. ||| It was Sunday, the workmen were to come on Monday from neighboring villages and begin work at the mine, so I had time this day to take a turn round the shores on which fate had cast me.
+
+Berbang hê bi zorê serî dida çaxê ku ez bi rê ketim. ||| Dawn was hardly peeping through when I started out.
+Ez ji ber bexçeyan derbas bûm, dûv qeraxa behrê ketim, bi lez bi ava, ax û hewaya wê derê re nasiyek danî, giyayên çolê çinîn, û kefa destên min bi bêhna zater, meryemî û pûngê tije bû. ||| I went past the gardens, followed the edge of the sea, hurriedly made my acquaintance with the water, earth and air of the spot, picked wild plants, and the palms of my hands became redolent with savory, sage and mint.
+##PG 20
+Ez hilkişiyam ser girekî û li dora xwe nêrî. ||| I climbed a hill and looked around.
+Welatekî hişk ê hêjîr û rezan. ||| An austere countryside of figs and vines.
+Di newalên bi sîwan de, baxên porteqalan, darên lîmon û ezgîlê; li nêzî peravê, bexçeyên sebzeyan. ||| In the sheltered hollows, orange groves, lemon and medlar trees; near the shore, kitchen gardens.
+Ber bi başûr, firehiyeke behrê, hê jî hêrs û biruwa, çawa ku ji Afrîkayê bi lez dihat da ku peravê Krîtê gez bike. ||| To the south, an expanse of sea, still angry and roaring as it came rushing from Africa to bite into the coast of Crete.
+Li nêzîk, giravokeke nizm û qûmî ya ku di bin tîrêjên pêşîn ên rojê de bi sorgulî dibiriqî. ||| Nearby a low, sandy islet flushing rosy pink under the first rays of the sun.
+
+Li gor min, ev welatê Krîtê dişibiya pexşaneke baş, bi hûrgilî rêzkirî, hişyar, ji xemilandina zêde rizgar, bihêz û bi sînor. ||| To my mind, this Cretan countryside resembled good prose, carefully ordered, sober, free from superfluous ornament, powerful and restrained.
+Wê her tiştê pêwîst bi herî kêm peyvan diyar dikir. ||| It expressed all that was necessary with the greatest economy.
+Tu sivikahî, ne jî sextekarî tê de tunebû. ||| It had no flippancy, nor artifice about it.
+Tiştê ku divê bigota, bi hişkahiyeke mêranî digot. ||| It said what it had to say with a manly austerity.
+Lê di navbera xêzên hişk de mirov dikarî hestyariyek û nazikiyeke nedîtî ferq bike; di newalên bi sîwan de darên lîmon û porteqalê hewa bîhndar dikirin, û ji firehiya behrê helbesteke bêdawî diherikî. ||| But between the severe lines one could discern an unexpected sensitiveness and tenderness; in the sheltered hollows the lemon and orange trees perfumed the air, and from the vastness of the sea emanated an inexhaustible poetry.
+
+«Krît,» min di bin lêv de got. «Krît...» û dilê min bi lez lê dixist. ||| "Crete," I murmured. "Crete..." and my heart beat fast.
+
+Ez ji girikê daketim qeraxa avê. ||| I came down from the little hill to the edge of the water.
+Keçên ku diqîriqîn xuya bûn, bi destmalên serê wek berfê spî, çîzmeyên zer ên dirêj, û dawên hildayî; ew diçûn ayîna keşîşxaneya li wir, ya ku li ber behrê bi spîtiyeke çavbirî dibiriqî. ||| Chattering girls appeared with fichus as white as snow, long yellow boots, and skirts tucked up; they were going to mass in the convent over there, gleaming a dazzling white by the sea.
+Ez sekinîm. ||| I stopped.
+Hema ku ew pê hesiyan, kenê keçan qetiya. ||| As soon as they noticed me, the girls' laughter ceased.
+
+Bi dîtina mirovekî biyanî, rûyê wan bû yê gumaneke hov. ||| At the sight of a strange man their expression became one of wild distrust.
+Hemû rawestana wan ji serî heta pêçî ji nişkê ve bû ya parastinê, tiliyên wan bi fikar bi kirasên xwe yên teng-dûgmekirî girtin. ||| Their whole bearing from head to foot was suddenly on the defensive, their fingers clutched nervously at their tightly buttoned blouses.
+Tirs di xwîna wan de bilind bû. ||| Fear surged in their blood.
+Bi sedsalan, korsanan ji nişkê ve êrîş dibirin ser hemû peravê Krîtê yê li hember Afrîkayê, mî, jin û zarok direvandin. ||| For centuries the Corsairs had made sudden incursions on to the whole of the Cretan coast facing Africa, ravishing ewes, women and children.
+Wan ew bi kembera xwe ya sor girê didan, davêtin binê keştiyên xwe û bi keştiyê dadiketin behrê da ku wan li Cezayîr, Îskenderiye û Beyrûtê bifroşin. ||| They bound them with their red belts, threw them into the bottoms of their ships and set sail to sell them in Algiers, Alexandria, Beirut.
+Bi sedsalan, avên dora van peravan, ên bi bisk û gulîyên reş xemilandî, bi şîn û giriyan deng vedan. ||| For centuries the waters round these shores, festooned with black tresses, have resounded with lamentations.
+Min li van keçên bitirs temaşe kir ku pêş ve dihatin, bi hev ve girtî wek ku bendeke neborbar pêk bînin. ||| I watched these frightened girls advance, clinging together as if to form an impassable barrier.
+Ev bertekeke xwerû bû, di demên berê de pêwîst û îro bê sedem ji nû ve dubarekirî. ||| It was an instinctive reaction, indispensable in earlier times and today repeated without reason.
+Pêwîstiyeke borî rîtma livên wan diyar dikir. ||| A bygone necessity dictated the rhythm of their movements.
+
+Çaxê keç li ber min derbas bûn, ez bê deng û bi bişirîn kişiyam kêlekê. ||| As the girls passed in front of me, I quietly stepped aside, smiling.
+
+Û hema, wek ku ji nişkê ve hîs kiribin ku metirsiya ji wê ditirsiyan bi sedsalan berê derbas bûye, û ku ew di serdema me ya ewlehiyê de hişyar bûne, rûyên wan ronî bûn, rêza şer a stûr belav bû û, hemû bi hev re, bi dengekî zelal û dilşad rojbaşî li min kirin. ||| And immediately, as if they suddenly felt that the danger they feared had passed centuries ago, and that they had awakened in our age of security, their faces lit up, the serried line of battle spread out and, all together, they bade me good day in clear and light-hearted tones.
+Di heman demê de zengilên dilxweş û henekoke yên keşîşxaneya dûr hewa bi dengên şahiyê tije kirin. ||| At the same time the merry, sportive bells of the distant convent filled the air with sounds of rejoicing.
+
+Roj hilatibû, ezman zelal bû. ||| The sun had risen, the sky was clear.
+Ez di nav zinaran de çemiyam, wek çivîkeke behrê li ser kêlekekê rûniştî, û li behrê fikirîm. ||| I crouched among the rocks, perched like a seagull on a ledge, and contemplated the sea.
+Laşê min xwe bihêz, taze û guhdar hîs dikir. ||| My body felt powerful, fresh and obedient.
+Û hişê min, li dûv pêlan, bi xwe bû pêlek, bê berxwedan, bin emrê rîtma behrê. ||| And my mind, following the waves, became itself a wave, unresisting, submissive to the rhythm of the sea.
+
+Hingê dilê min dest bi werimînê kir. ||| Then my heart began to swell.
+Dengên tarî, lavakar û fermanker di hundirê min de bilind bûn. ||| Obscure, pleading and imperious voices rose within me.
+Min dizanî kî gazî min dikir. ||| I knew who was calling to me.
+Gava ku ez bi qasî kêliyekê bi tenê dimam, ev hebûn diqîriya, di kelecaneke ji pêşhîsên tirsnak, coş û tirsên dîn de — li bendê ku ji aliyê min ve bê azadkirin. ||| Whenever I was alone for a moment, this being cried out, in an anguish of horrible presentiments, transports and mad fears -- waiting to be delivered by me.
+
+Min bi lez Dante, hevrêyê xwe yê rê, vekir, da ku nebihîzim û cinê tirsnak biqewirînim. ||| I hurriedly opened Dante, my travelling companion, in order not to hear and to exorcise the fearful demon.
+Min rûpel vedigerandin, li vir rêzek li wir rêzek, an sê-rêzekê dixwend, û tevahiya stranê didam bîra xwe. ||| I turned over the pages, reading a line here and there, or a tercet, and committing to memory the entire canto.
+##PG 21
+Ji wan rûpelên agirîn, nifirkirî bi qêrîn rabûn. ||| Out of those fiery pages the damned rose howling.
+Li nîvê zinaran, giyanên birîndar dixwestin hilkişin çiyayekî gir û asê. ||| Halfway up the rocks, wounded souls sought to scale a precipitous mountainside.
+Hê jor, giyanên pîroz di nav zeviyên zimrudî de digeriyan, wek pîrebizotên biriqdar. ||| Higher still, the souls of the blessed moved among the emerald fields, like brilliant fireflies.
+Ez ji herî jorîn heta herî jêrîn ê wê mala çarenûsê ya tirsnak geriyam; ez bi serbestî li dojeh, paqijgeh û bihiştê geriyam, wek ku di mala xwe de bim. ||| I wandered from the highest to the lowest regions of the terrible house of destiny; I went freely about hell, purgatory and paradise, as if in my own dwelling.
+Min êş kişand, min hêvî kir an xweşiya bihiştî tehm kir, wek ku ji aliyê wan rêzên helbestî yên bilind ve hatibûm rakirin. ||| I suffered, I awaited or tasted beatitude, carried away as I was by those superb verses.
+
+Ji nişkê ve min Dante girt û li ser behrê nêrî. ||| Suddenly I closed my Dante and looked out over the sea.
+Çivîkeke behrê, sîngê wê li ser avê, bi pêlan re hildikişiya û dadiket, xwe ji wan re berdida û kêfa berdana xwe distend. ||| A gull, its breast resting on the water, rose and fell with the waves, abandoning itself to them and enjoying the pleasures of abandonment.
+Xortekî, ji rojê şewitî û pêxwas, li qeraxa avê xuya bû, stranên evînê digotin. ||| A youth, sunburnt and barefoot, appeared at the water's edge singing love songs.
+Belkî wî êşa ku ew diyar dikirin fêm dikir, ji ber ku dengê wî dest bi xirîn kiribû, wek yê dîkekî. ||| Maybe he understood the pain they expressed, for his voice had begun to grow hoarse, like that of a cockerel.
+
+Bi sed salan e, rêzên Dante li welatê helbestvan tên gotin. ||| For hundreds of years, Dante's verses have been sung in the poet's country.
+Û çawa ku stranên evînê kur û keçan ji bo evînê amade dikin, wisa jî rêzên Florensî yên agirîn xortên Îtalî ji bo roja rizgariyê amade dikirin. ||| And just as love songs prepare boys and girls for love, so the ardent Florentine verses prepared Italian youths for the day of deliverance.
+Ji nifşî heta nifşê, hemûyan bi giyanê helbestvan re ragihandin danî û bi vî awayî koletiya xwe veguherand azadiyê. ||| From generation to generation, all communed with the soul of the poet and so transformed their slavery into freedom.
+
+Min li pişt xwe kenek bihîst û yekser ji bilindahiyên Danteyî ketim. ||| I heard a laugh behind me and at once fell from the Dantesque heights.
+Min li dora xwe nêrî û Zorba li pişt xwe dît, hemû rûyê wî ji ken qermiçî. ||| I looked round and saw Zorba behind me, his whole face creased with laughter.
+
+«Êê, axa, ev jî rengekî xweş ê dewamkirinê ye!» qîriya. ||| "Well, boss, this is a fine way of going on!" he cried.
+«Ev çend saet in ez li te digerim, lê min çawa bizaniya ka ez ê li ku te bibînim?» ||| "Here I've been looking for you for hours, but how could I know where to get hold of you?"
+
+Çaxê dît ku ez bêdeng mam, berdewam kir: ||| Seeing I remained silent, he continued:
+
+«Nîvro çû, mirîşk pijiya; belengaz dê belav bibe perçe perçe, tu dizanî!» ||| "It's gone midday, the hen is cooked; the poor thing'll be dropping to bits, you know!"
+
+«Erê, dizanim, lê ez birçî nînim.» ||| "Yes, I know, but I'm not hungry."
+
+«Ne birçî!» Zorba qîriya, li ranên xwe xist. ||| "Not hungry!" Zorba exclaimed, slapping his thighs.
+«Lê te ji sibehê ve loqmeyek jî nexwariye. Laş jî giyanek heye, dilovaniyê pê bike. Tiştekî bide xwarinê, axa, tiştekî bidê; ew heywanê me yê barkêş e, tu dizanî. Eger tu wî têr nekî, ew ê te di nîvê rê de bê alîkar bihêle.» ||| "But you've not had a bite since morning. The body's got a soul, too, have pity on it. Give it something to eat, boss, give it something; it's our beast of burden, you know. If you don't feed it, it'll leave you stranded in the middle o' the road."
+
+Ev gelek sal bûn ku min kêfên goşt piçûk didîtin, û, eger gengaz bûya, min ê bi dizî bixwara, wek ku karekî şermê dikim. ||| I had despised the pleasures of the flesh for years, and, if possible, I would have eaten secretly, as if committing a shameful act.
+Lê da ku Zorba nezirzire, min got: ||| But so that Zorba would not grumble I said:
+
+«Baş e, ez têm.» ||| "All right, I'm coming."
+
+Em ber bi gund ve bi rê ketin. ||| We started off in the direction of the village.
+Saetên di nav zinaran de derbas bûbûn çawa ku wext di navbera evîndaran de derbas dibe, wek birûskê. ||| The hours amongst the rocks had passed as time passes between lovers, like lightning.
+
+«Tu li ser lînyîtê difikirî?» Zorba bi hinekî dudilî pirsî. ||| "Were you thinking of the lignite?" Zorba asked with some hesitation.
+
+«Tu hêvî dikî ez li ser çi din bifikirim?» min bi ken bersiv da. ||| "And what else d'you expect me to be thinking about?" I replied, laughing.
+«Sibê em ê dest bi kar bikin. Diviyabû min hin hesab bikira.» ||| "Tomorrow we'll start work. I had to make some calculations."
+
+«Encama hesaban çi ye?» pirsî, dema ku bi baldarî rê diçû. ||| "What's the result of the calculations?" he asked, as he made his way carefully.
+
+«Piştî sê mehan divê em rojê deh ton lînyît derxin da ku mesrefan vegirin.» ||| "After three months we must extract ten tons of lignite a day to cover expenses."
+
+Zorba dîsa li min nêrî, vê carê bi fikar. Piştî hineke got: ||| Zorba looked at me again, this time anxiously. A little later he said:
+
+«Û bo çi diyê divê tu dakevî behrê da ku hesaban bikî? Bibore, axa, ji ber vê pirsê, lê ez fêm nakim. Çaxê divê ez bi hejmaran re gulaş bigirim, ez hîs dikim ku ez dixwazim xwe bavêjim qulekê di erdê de, da ku tu tiştî nebînim. Eger ez çavên xwe rakim û behrê bibînim, an darekê, an jinekê — tewra eger ew pîr be jî — bila lanetê li min be eger hemû hesab û hejmar neçin dojehê. ||| "And why the devil d'you have to go down to the sea to make calculations? Pardon me, boss, for asking this question, but I don't understand. When I have to wrestle with figures, I feel I'd like to stuff myself into a hole in the ground, so I can't see anything. If I raise my eyes and see the sea, or a tree, or a woman -- even if she's an old 'un -- damme if all the sums and figures don't go to blazes.
+Bask çêdikin û divê ez li dûv wan bigerim....» ||| They grow wings and I have to chase 'em...."
+
+«Lê ev sûcê te ye, Zorba,» min got da ku pê tinazê bikim. «Tu xwe baş nadî ser.» ||| "But that's your fault, Zorba," I said to tease him. "You don't concentrate."
+##PG 22
+«Belkî tu rast dibêjî, axa. ||| "Maybe you're right, boss.
+Her tişt bi awayê ku tu lê dinêrî ve girêdayî ye. ||| It all depends on the way you look at it.
+Hin rewş hene ku tewra Silêmanê pîr ê şehreza jî.... ||| There are cases even wise old Solomon....
+Binêre, rojekê ez çûbûm gundekî biçûk. ||| Look, one day I had gone to a little village.
+Bapîrekî nod-salî mijûl bû ku dareke behîvan diçand. ||| An old grandfather of ninety was busy planting an almond tree.
+‹Çi, bapîro!› min bi dengekî bilind got. ‹Tu dareke behîvan diçînî?› ||| 'What, grandad!' I exclaimed. 'Planting an almond tree?'
+Û ew, çiqas ku xûz bû, zivirî û got: ||| And he, bent as he was, turned round and said:
+
+‹Kurê min, ez wisa didomînim wek ku ez ê tu carî nemirim.› ||| 'My son, I carry on as if I should never die.'
+Min bersiv da: ‹Û ez wisa didomînim wek ku ez ê her kêlî bimirim.› ||| I replied: 'And I carry on as if I was going to die any minute.'
+Kîjanê me rast bû, axa?» ||| Which of us was right, boss?"
+
+Bi serfirazî li min nêrî û got: ||| He looked at me triumphantly and said:
+
+«Li vir min tu girtî!» ||| "That's where I've got you!"
+
+Ez bêdeng mam. ||| I kept silent.
+Du rêyên bi heman awayî gir û wêrek dikarin bigihîjin heman lûtkeyê. ||| Two equally steep and bold paths may lead to the same peak.
+Ku mirov wisa tev bigere wek ku mirin tunebe, an ku mirov her kêlî li mirinê bifikire û tev bigere, belkî heman tişt e. ||| To act as if death did not exist, or to act thinking every minute of death, is perhaps the same thing.
+Lê çaxê Zorba ev pirs ji min kir, min nizanî. ||| But when Zorba asked me the question, I did not know.
+
+«Êê?» Zorba bi tinazî got. ||| "Well?" Zorba said mockingly.
+«Xem neke, axa, tu nikarî vê derxî serî. ||| "Don't worry, boss, you can't argue that out.
+Em li ser tiştekî din biaxivin. ||| Let's talk of something else.
+Niha ez li ser mirîşkê û pîlavê yê bi darçîn belavkirî difikirim. ||| Just now I'm thinking of the chicken and the pilaff sprinkled with cinnamon.
+Mêjiyê min wek pîlavê dûkêl jê radibe. ||| My brain's steaming like the pilaff.
+Pêşî em bixwin, pêşî em xwe giran bikin, paşê em ê bibînin. ||| Let's eat first, ballast up first, then we'll see.
+Her tişt di wextê xwe de. ||| Everything in good time.
+Niha li pêşberî me pîlav e; bila hişê me bibe pîlav. ||| In front of us now is the pilaff; let our minds become pilaff.
+Sibê lînyît dê li pêşberî me be; divê hişê me bibe lînyît! ||| Tomorrow the lignite will be in front of us; our minds must become lignite!
+Tu nîvçe-tedbîr tune, tu dizanî.» ||| No half-measures, you know."
+
+Em ketin gund. ||| We entered the village.
+Jin li ber deriyên xwe rûniştibûn û galegal dikirin. ||| The women were sitting in their doorways gossiping.
+Pîremêr, li ser gopalên xwe palpiştî, bêdeng bûn. ||| The old men, leaning on their sticks, were silent.
+
+Di bin dareke hinarê ya bi fêkî barkirî de, pîrejineke biçûk û qermiçî neviyê xwe ji spiyan paqij dikir. ||| Under a pomegranate tree laden with fruit a little, shrivelled old woman was delousing her grandson.
+
+Li ber qehwexaneyê, mirovekî kal ê bi rûyekî giran û baldar û pozekî qoçî rast sekinîbû. ||| In front of the café an old man with a grave, concentrated expression and an aquiline nose was standing erect.
+Ew xwedî hewayeke berbiçav bû. ||| He had a distinguished air.
+Ew Mavrandonî bû, rûspiyê gund ê ku kana lînyîtê bi kirê dabû me. ||| He was Mavrandoni, the village elder who had rented the lignite mine to us.
+Êvara borî li mala Madam Hortansê bang kiribû da ku me bibe mala xwe. ||| He had called the previous evening at Dame Hortense's to take us to his house.
+Wî got: ||| He said:
+
+«Şerm e ku hûn li otêla wê dimînin wek ku di gund de mêr tunebin.» ||| "It's a scandal for you to be staying at her hotel as if there were no men in the village."
+
+Ew giran bû, peyvên xwe bi baldarî dikişandin wek yekî ji gundiyên pêşeng. ||| He was grave, he weighed his words carefully as one of the leading villagers.
+Me red kiribû. ||| We had refused.
+Vê ew xeyîdandibû, lê wî israr nekiribû. ||| This had offended him, but he had not insisted.
+
+«Min erkê xwe pêk anî,» got dema ku diçû. «Hûn azad in.» ||| "I have done my duty," he said as he departed. "You are free."
+
+Piştî hineke wî du penîr, selikeke hinaran, qûtiyeke tirî û hêjîran, û şûşeyek mezin a raqî ji me re şand. ||| A little later he sent us two cheeses, a basket of pomegranates, a jar of raisins and figs, and a demijohn of raki.
+Xizmetkarê wî got, dema ku barê kerê xwe yê biçûk dadixist: ||| His servant said, as he unloaded his tiny ass:
+
+«Bi silavên Kaptan Mavrandonî. Tiştekî mezin nîne, wî got ku ez ji we re bibêjim, lê ji dil e.» ||| "With the compliments of Captain Mavrandoni. It's nothing much, he asked me to tell you, but it's meant well."
+
+Niha me bi devbeş û dilgermî silav li rûspiyê gund kir. ||| We now greeted the head of the village volubly and cordially.
+
+«Temenê we dirêj be!» got, destê xwe danî ser sîngê xwe. Paşê bêdeng ma. ||| "Long life to you!" he said, placing his hand on his breast. Then he fell silent.
+
+«Ew hez nake pir biaxive,» Zorba di bin lêv de got. «Ew kalemêrekî hişk e.» ||| "He doesn't like to talk much," Zorba murmured. "He's an old stick."
+
+«Ew serbilind e,» min got. «Ez jê hez dikim.» ||| "He's proud," I said. "I like him."
+
+Em digihîştin. ||| We were arriving.
+Bêvilên Zorba bi şahî dilerizîn. ||| Zorba's nostrils were quivering joyously.
+Hema ku Madam Hortansê em ji ber derî dîtin, qîjeyek kir û bezî hundirê metbexê. ||| As soon as Dame Hortense saw us from the threshold she uttered a cry and ran into the kitchen.
+
+Zorba mase danî hewşê di bin kemera rezê ya bê pel de. ||| Zorba put the table in the yard under the leafless vine-arbor.
+Wî perçeyên stûr ên nan jêkirin, şerab anî û mase amade kir. ||| He cut the thick slices of bread, brought the wine and set the table.
+Bi xerabî li min zivirî û bi tiliyê mase nîşan da. ||| He looked round at me wickedly and pointed to the table.
+Wî ji bo sê kesan amade kiribû! ||| He had set for three people!
+
+«Tu dibînî, axa?» bi kurtedeng got. ||| "D'you see, boss?" he whispered.
+
+«Erê, dibînim, te kalê fêlbaz!» min bersiv da. ||| "Yes, I see, you old rip!" I replied.
+##PG 23
+«Mirîşkên kal in ên ku şorbeya herî xweş didin,» got, lêvên xwe alast. «Ji min bawer bike.» ||| "It's the old birds who make the best stew," he said, licking his lips. "You take it from me."
+
+Bi çapikî dilivî, çavên wî dibiriqîn. ||| He moved nimbly, his eyes sparkling.
+Stranên evînê yên kevn di bin lêv de digotin. ||| He hummed old love songs.
+
+«Ev e awayê jiyanê, axa. ||| "That's the way to live, boss.
+Kêfa xwe bike û çûçik jî di ser de. ||| Have a good time and the bird into the bargain.
+Tu dibînî, ez niha tiştan wisa dikim wek ku ez ê kêliya bê bimirim. ||| You see, I'm doing things now as if I was going to die next minute.
+Û ez lez dikim, da ku ez nemirim berî ku ez bigihîjim çûçikê!» ||| And I'm making it snappy, so I don't kick the bucket before I've had the bird!"
+
+«Werin ser maseyê!» Madam Hortansê ferman da. ||| "To table!" Dame Hortense ordered.
+
+Wê quşxane hilda û li pêşberî me danî. ||| She lifted the pot and set it down in front of us.
+Lê devvekirî ma. ||| But she stood gaping.
+Wê her sê firaq dîtibûn. ||| She had seen the three plates.
+Ji kêfê sor bûyî, li Zorba nêrî û çavên xwe yên biçûk, tûj û şîn pirpitandin. ||| Crimson with pleasure, she looked at Zorba and blinked her sharp, little periwinkle-blue eyes.
+
+«Dilê wê bi tevahî germ bûye,» Zorba bi kurtedeng got. ||| "She's got hot pants, all," Zorba whispered.
+
+Paşê bi edebeke pir mezin, li jinikê zivirî û got: ||| Then with extreme politeness, he turned to the lady and said:
+
+«Periya xweşik a pêlan, em keştîşikestî ne û behrê em avêtine warê te. ||| "Beautiful nymph of the waves, we are shipwrecked and the sea has cast us in your realm.
+Rûmetê bide me, ya horiya min a behrê, ku tu di xwarina me de par bibî!» ||| Do us the honor, my siren, of sharing our meal!"
+
+Stranbêja kabareyê ya kal milên xwe fireh vekir û dîsa girt, wek ku bixwesta me herduyan hembêz bike. ||| The old cabaret singer opened her arms wide and closed them again as if she would have liked to embrace the two of us.
+Bi nazikî hejiya, xwe li Zorba, paşê li min da, û bi kenînek bezî odeya xwe. ||| She swayed gracefully, brushed against Zorba, then me, and ran, chuckling, to her room.
+Demek şûnde dîsa xuya bû, diçiçiland, delaliya xwe nîşan dida û bi kincên xwe yên herî baş li xwe kiribûn: kirasekî kevn ê qedîfeyê yê biriqdar, bi rêşteya zer a qusiyayî xemilandî. ||| Soon after she reappeared, twittering, flaunting her charms and dressed in her very best: an old shiny velvet dress, decorated with worn yellow braid.
+Bersînga wê bi mêvanperweriyê vekirî mabû û li ser wê gulekek çêkirî ya fireh-bişkivîl daçikandibû. ||| Her bodice remained hospitably open and on it she had pinned a full-blown artificial rose.
+Di destê xwe de qefesa tûtî digirt, ya ku li kemera rezê daliqand. ||| In her hand she held the parrot's cage which she hung in the vine-arbor.
+
+Me ew di navbera xwe de rûnişt, Zorba li milê wê yê rastê û ez li yê çepê. ||| We made her sit between us, with Zorba to her right and me to her left.
+
+Em her sê bi çavbirçîtî ketin xwarinê. ||| We all three set to ravenously.
+Demeke dirêj me peyvek negot. ||| For a long time we did not utter a word.
+Em heywan têr dikirin û tîbûna wî bi şerabê dişikandin. ||| We were feeding the beast and slaking its thirst with wine.
+
+Xwarin di demeke kurt de bû xwîn, dinya xweşiktir bû, jina li tenişta me her kêlî ciwantir dibû, qermiçokên rûyê wê winda dibûn. ||| The food was soon changed into blood, the world became more beautiful, the woman at our sides became younger every minute, the lines in her face were disappearing.
+Tûtî, li pêşberî me bi çakêtê xwe yê kesk û îşligê xwe yê zer daliqandî, ber bi pêş ve xwe da da ku li me temaşe bike. ||| The parrot, hanging in front of us in his green jacket and yellow waistcoat, leaned forward to watch us.
+Ew dişibiya hin merivekî biçûk ê ecêb ê di bin efsûnê de, an jî ruhê stranbêja kabareyê ya kal a ku kirasekî kesk-û-zer li xwe kiribû. ||| He looked like some odd little fellow under a spell, or else the spirit of the old cabaret singer wearing a green-and-yellow dress.
+Û li ser serê me, kemera rezê ji nişkê ve bi gûşiyên mezin ên tiriyên reş hate nixumandin. ||| And above our heads the vine-arbor was suddenly covered with large bunches of black grapes.
+
+Çavên Zorba digeriyan, wî milên xwe vekirin wek ku bixwesta hemû dinyayê hembêz bike. ||| Zorba's eyes were rolling, he flung open his arms as if he wanted to embrace the whole world.
+
+«Çi diqewime, axa?» bi heyret qîriya. ||| "What's happening, boss?" he cried, in astonishment.
+«Em qedehek piçûk şerab vedixwin û dinya tevlihev dibe. ||| "We drink one little glass of wine and the world goes haywire.
+Ax, axa, jiyan tiştekî ecêb e. ||| Ah, boss, life's a rum thing.
+Bi şerefa te, ma ew tirî ne ku li ser serê me daliqandî ne, an ew milyaket in? ||| On your honor, are those grapes hanging there above our heads, or are they angels?
+Nizanim. ||| I don't know.
+An jî ew qet ne tiştek in, û tu tişt tune, ne mirîşk, ne horî, ne jî Krît! ||| Or else they're nothing at all, and nothing exists, neither chicken, nor siren, nor Crete!
+Biaxive, axa, biaxive, da ku ez bi tevahî ji serê xwe neçim!» ||| Speak, boss, speak, so I don't go right off my head!"
+
+Zorba dest pê dikir ku geş bibe. ||| Zorba was beginning to get lively.
+Mirîşk xilas kiribû û dest pê dikir ku bi çavbirçîtî li Madam Hortansê binêre. ||| He had finished with the chicken and was beginning to look at Dame Hortense gluttonously.
+Çavên wî wê direvandin; jê re ji jor heta jêr dinêrîn, dixilîqîn nav bersînga wê ya werimî wek ku destê xwe lê bidin. ||| His eyes were ravishing her; they looked her up and down, slipped into her swelling bosom as if they touched her.
+Çavên biçûk ên jinika me jî dibiriqîn; wê ji şerabê hez dikir û çend qedeh jê vala kiribûn. ||| Our lady's little eyes were shining too; she liked the wine and had emptied several glasses of it.
+Cinê fêlbaz ê di şerabê de ew vegerandibû rojên xweş ên kevn. ||| The mischievous demon in the wine had carried her back to the good old days.
+Ew careke din bû nerm, dilşad û vekirî. ||| She became once more tender, merry and expansive.
+Rabû û deriyê derve girt da ku gundî nikaribin wê bibînin — ‹barbar,› wek ku wê navê wan dikir. ||| She rose and bolted the outside door so that the villagers could not see her -- "the barbarians," as she called them.
+Cixareyek pêxist, û ji pozê xwe yê piçûk ê Fransî yê qoçhildayî dest pê kir ku xelekên dûkêl derxe. ||| She lit a cigarette, and from her little French retroussé nose began to issue wreaths of smoke.
+##PG 24
+Di wan deman de hemû deriyên hebûna jinekê vedibin. ||| At such times all the doors of a woman's being are opened.
+Nobedar xwe berdidin û peyveke dilovan bi qasî zêr an evînê bihêz e. ||| The sentinels relax and a kind word is as powerful as gold or love.
+Loma min qelûna xwe pêxist û peyva dilovan got. ||| So I lit my pipe and pronounced the kind word.
+
+«Madam Hortans, tu Sarah Bernhardt tînî bîra min... çaxê ew ciwan bû. ||| "Dame Hortense, you remind me of Sarah Bernhardt... when she was young.
+Min hêvî nedikir ku ez ê hewqas nazikî, hewqas spehîtî û edeb, hewqas bedewî, li vê dera hov bibînim. ||| I didn't expect to find such elegance, such grace and courtesy, such beauty, in this wild place.
+Kîjan Şekspîr bû ku tu li vir, di nav barbaran de şandî?» ||| What Shakespeare was it sent you here amongst the barbarians?"
+
+«Şekspîr?» pirsî, çavên xwe yên biçûk ên sîs fireh vekir. ||| "Shakespeare?" she queried, opening wide her pale little eyes.
+«Kîjan Şekspîr?» ||| "What Shakespeare?"
+
+Hişê wê bi lez vegeriya şanoyên ku ew lê çûbû. ||| Her mind flew back rapidly to the theaters she had been to.
+Di çavnîşkekê de, geriyek li kafe-konseran, kabareyan û meyxaneyan ji Parîsê heta Beyrûtê, û ji wir li dirêjahiya peravê Anatolyayê kir. ||| In the twinkling of an eye, she made a tour of the café-concerts, cabarets and taverns from Paris to Beirut, and from there along the coast of Anatolia.
+Ji nişkê ve hat bîra wê. ||| Suddenly she remembered.
+Li Îskenderiyeyê bû, şanoyeke mezin a bi şemdankan, kursiyên qedîfe, mêr û jin, pişt-tazî, bîhnxweşî, kulîlk. ||| It was in Alexandria, a great theater with chandeliers, plush seats, men and women, bare backs, perfumes, flowers.
+Ji nişkê ve perde rabû û mêrekî reş ê tirsnak xuya bû... ||| All at once the curtain rose and a fearful black man appeared...
+
+«Kîjan Şekspîr?» dîsa bi serbilindî pirsî, piştî ku bîr anîbû. ||| "What Shakespeare?" she asked again proudly, having remembered.
+«Ewê ku jê re Otello jî dibêjin?» ||| "The one they also call Othello?"
+
+«Heman e. Kîjan Şekspîr, ya min a sosina spî, tu avêtî van zinarên hov?» ||| "The same. What Shakespeare, my white lily, cast you on these savage rocks?"
+
+Wê li dora xwe nêrî. ||| She looked around her.
+Derî girtî bûn, tûtî di xew de bû, kêvroşk hev didan, em bi tena serê xwe bûn. ||| The doors were closed, the parrot was asleep, the rabbits were mating, we were alone.
+Dilê wê hat xwarê û dest pê kir ku dilê xwe ji me re veke. ||| She was touched and began to open her heart to us.
+Wek vekirina sindoqeke kevn bû, tije baharat, nameyên evînê yên zerbûyî û kincên kevnar. ||| It was like opening an old chest, full of spices, yellowed love-letters and ancient dresses.
+
+Wê bi awayekî xwe Yûnanî diaxivî, peyvan dikuşt û kîteyan tevlihev dikir. ||| She spoke Greek after a fashion, murdering the words and mixing up the syllables.
+Lê belê, me ew bi tevahî fêm dikir. ||| However, we understood her perfectly.
+Carinan me bi zehmeteke mezin kenê xwe digirt, carinan jî — me gelek vexwaribû — em diketin giriyê. ||| Sometimes we had great difficulty in suppressing our laughter, sometimes -- we had drunk a good deal -- we burst into tears.
+
+«Êê» — bi vî awayî horiya kal di hewşa xwe ya bîhnxweş de ji me re got — «êê, kesê ku hûn niha lê dinêrin tu carî ne stranbêja meyxaneyê bû, na, qet! ||| "Well" -- this is roughly what the old siren told us in her perfumed yard -- "well, the person you're looking at now was never a tavern-singer, oh, no!
+Ez hunermendeke navdar bûm û min cilên jêr ên hevirmiş ên bi tora rastîn li xwe dikirin. ||| I was a famous artist and wore silk underclothes with real lace.
+Lê evîn...» ||| But love..."
+
+Kûr axîn kişand û cixareyeke din ji ya Zorba pêxist. ||| She sighed deeply and lit another cigarette from Zorba's.
+
+«Min ji amîralekî hez dikir. ||| "I loved an admiral.
+Krît careke din di rewşa serhildanê de bû û donanmeyên hêzên mezin di benderê Sûdayê de lengerê avêtibûn. ||| Crete was once more in a state of revolution and the fleets of the great powers had anchored in the port of Suda.
+Çend roj şûnde ez jî li wir lengerê avêtim. ||| A few days later I also anchored there.
+Ax, çi şikuh! ||| Ah, what splendor!
+
+Diviyabû te her çar amîral bidîtana: yê Îngilîz, yê Fransî, yê Îtalî û yê Rûs. ||| You should have seen the four admirals: the English, the French, the Italian and the Russian.
+Hemû bi rêştên zêr, pêlavên çermê biriqdar û şewqeyên perdar. ||| All gold braid, patent-leather shoes and plumed hats.
+Wek dîkan. ||| Like cocks.
+Dîkên mezin, her yek ji heftê heta nod kîloyî giran. ||| Great cocks weighing from twelve to fifteen stone each.
+Û çi rih! ||| And what beards!
+Ew xelek-xelek, hevirmiş, reş, zer, gewr, sor bûn — û çiqas xweş bîhn dikirin! ||| They were curly, silky, dark, fair, grey, red -- and how nice they smelt!
+Her yekî bîhna xwe ya taybet hebû — bi vî awayî min dikarî di tariyê de wan ji hev cuda bikim. ||| Each one had his own particular perfume -- that's how I could distinguish between them in the dark.
+Îngilîstan bîhna odekolonyayê dida, Fransa ya binefşan, Rûsya ya miskê, û Îtalya, ax, Îtalya dîn dibû li patçûliyê. ||| England smelled of eau-de-Cologne, France of violets, Russia of musk, and Italy, ah, Italy doted on patchouli.
+Ya Xwedê, çi rih, çi rih! ||| My God, what beards, what beards!
+
+Gelek caran, çaxê em li ser keştiya fermandar civiyabûn, me li ser serhildanê diaxivî. ||| "Many times, when we were gathered on board the flagship, we talked about the revolution.
+Cilên wan ên fermî vekirî bûn û kirasê min ê hevirmiş bi çermê min ve dizeliqî, ji ber ku wan şampanya bi ser de dirijand. ||| Their uniforms were unclasped and my silk chemise was sticking to my skin, because they poured champagne over it.
+Havîn bû, tu dizanî. ||| It was summer, you know.
+Em li ser serhildanê diaxivîn, axaftineke cidî dikir, û min rihên wan digirtin û lava ji wan dikir ku Krîtiyên belengaz ên delal top nebarînin. ||| We were speaking about the revolution, having a serious conversation, and I caught hold of their beards and begged them not to bombard the poor dear Cretans.
+Me dikarî wan bi dûrbînê li ser zinarekî li nêzî Kaneayê bibîna. ||| We could see them through the binoculars on a rock near Canea.
+Ew gelek biçûk dixuyan, pir biçûk, wek mûriyên bi şalên şîn û çîzmeyên zer. ||| They looked tiny, quite tiny, like ants with blue breeches and yellow boots.
+Û ew diqîriyan û diqîriyan, û ala wan hebû.» ||| And they shouted and shouted, and they had a flag."
+
+Di bambûyên ku hewş dorpêç dikirin de tevgerek hebû. ||| There was a movement in the bamboos which surrounded the yard.
+Şerkera kal a jin sekinî, tirsiyayî. ||| The old female warrior stopped, terrified.
+Di navbera pelan de, çavên biçûk ên xerab dibiriqîn. ||| Between the leaves, wicked little eyes were gleaming.
+Zarokên gund hîs kiribûn ku em li ser kêfê ne û li me sîxûrî dikirin. ||| The village children had sensed we were junketing and were spying on us.
+##PG 25
+Stranbêja kabareyê hewl da ku rabe ser piyan, lê nikarî. ||| The cabaret singer tried to rise to her feet, but she could not.
+Wê pir xwaribû û vexwaribû, di nav xwêdanê de paş ve rûnişt. ||| She had eaten and drunk too much, she sat back in a sweat.
+Zorba kevirek hilda. ||| Zorba picked up a stone.
+Zarok bi qîjîn belav bûn. ||| The children scattered, screaming.
+
+«Berdewam bike, bedewa min! Berdewam bike, gencîneya min!» Zorba got, û kursiya xwe hê nêzîktirî wê kir. ||| "Go on, my beauty! Go on, my treasure!" Zorba said, and pushed his chair still closer to her.
+
+«Vêca min ji amîralê Îtalî re got — ez bi wî re nasîtir bûm — min rihê wî girt û jê re got: ‹Kanavaroyê min› — ew navê wî bû — ‹ji kerema xwe, Kanavaroyê min ê biçûk, bûm-bûm tune! Bûm-bûm tune!› ||| "So I said to the Italian admiral -- I was more familiar with him -- I seized his beard and said to him: 'My Canavaro' -- that was his name -- 'please, my little Canavaro, no boom-boom! No boom-boom!'
+
+Çend caran jina ku hûn li vir dibînin Krîtî ji mirinê rizgar kirine! ||| "How many times the woman you see here has saved the Cretans from death!
+Çend caran top amade û tijekirî bûn û min rihê amîral girt û nehişt ku ‹bûm-bûm› bike! ||| How many times the guns were ready loaded and I seized the admiral's beard and wouldn't let him 'boom-boom!'
+Lê min ji bo wê tu carî çi spasî girt? ||| But what thanks have I ever had for that?
+Binêre ka ez di warê nîşanan de çi distînim....» ||| Look what I get in the way of decorations...."
+
+Madam Hortans ji nankoriya mêran hêrs bû. ||| Dame Hortense was angry at the ingratitude of men.
+Wê bi kulmê xwe yê nerm û qermiçî li maseyê xist. ||| She struck the table with her soft and wrinkled fist.
+Zorba destên xwe yên jêhatî dirêjî ser çokên wê yên ji hev vebûyî kir û ew girtin, ji aliyê hestekî sextekirî ve hatî rakirin, û qîriya: ||| Zorba stretched out his practiced hands over her parted knees and seized them, carried away by a feigned emotion, and he cried:
+
+«Bûbûlîna min (lehenga behrê ya şerê serxwebûnê)! Ji bo dilovaniyê, bûm-bûm tune!» ||| "My Bouboulina! For pity's sake, no boom-boom!"
+
+«Destên xwe bikişîne!» jinika me ya delal got, dikeniya. ||| "Hands off!" our good lady said, chuckling.
+«Tu min bi kê dihesibînî?» ||| "Who d'you take me for?"
+Û nêrîneke nazdar lê kir. ||| And she gave him a languorous glance.
+
+«Li ezmên Xwedayek heye,» fasiqê fêlbaz got. ||| "There's a God in heaven," said the crafty debauchee.
+«Xwe aciz neke, Bûbûlîna min. ||| "Don't upset yourself, my Bouboulina.
+Em li vir in, dilîza min, netirse.» ||| We're here, sweetheart, don't be afraid."
+
+Horiya kal çavên xwe yên şîn-tirş ber bi ezmên rakir. ||| The old siren raised her acid-blue eyes to heaven.
+Tûtiyê xwe yê kesk ê di qefesê de razayî dît. ||| She saw her green parrot asleep in his cage.
+
+«Kanavaroyê min, Kanavaroyê min ê biçûk!» bi evînî kal-kal kir. ||| "My Canavaro, my little Canavaro!" she cooed amorously.
+
+Tûtî, dengê wê nas kir, çavên xwe vekir, mîlên qefesa xwe girt û bi dengê xirr ê mirovekî di avê de fetisî dest pê kir ku biqîre: «Kanavaro! Kanavaro!» ||| The parrot, recognizing her voice, opened his eyes, clutched hold of the bars of his cage and started to cry in the hoarse voice of a drowning man: "Canavaro! Canavaro!"
+
+«Amade!» Zorba qîriya, careke din destên xwe danî ser wan çokên kal ên ku ewqas xizmet dîtibûn, vê carê wek ku bixwesta wan bigire destê xwe. ||| "Present!" cried Zorba, once more applying his hands to those old knees which had seen so much service, this time as if he wanted to take possession of them.
+Stranbêja kabareyê ya kal di kursiya xwe de qulipî û dîsa lêvên xwe yên biçûk ên qermiçî vekir. ||| The old cabaret singer wriggled in her chair and again opened her little puckered lips.
+
+«Ez jî, bi mêranî şer kiriye, sîng bi sîng.... ||| "I, too, have struggled valiantly, breast to breast....
+Lê rojên xerab hatin. ||| But the bad days came.
+Krît hate azadkirin, donanmeyan ferman girtibûn ku biçin. ||| Crete was liberated, the fleets had orders to leave.
+‹Û ez ê çi bibim?› min got, her çar rih girtin. ||| 'And what is to become of me?' I said, seizing the four beards.
+‹Hûn ê min li ku bihêlin? ||| 'Where are you going to leave me?
+Ez fêrî mezinahiyê, şampanyayê û mirîşka biraştî bûme; ez fêrî wê bûme ku deryavanên biçûk ên spehî silavê li min bikin; ez ê çar caran bibim jinebî! ||| I have got used to grandeur, to champagne and roast chicken; I have got used to handsome little sailors saluting me; I shall be four times a widow!
+Ez ê çi bibim, mîr û amîralên min?› ||| What is going to become of me, my lords and admirals?'
+
+«Ax, ew tenê keniyan — mêr wisa ne! ||| "Oh, they just laughed -- that's men for you!
+Wan ez bi sterlînên Îngilîz û Îtalî, rûble û napolyonan barkir. ||| They loaded me with English and Italian pounds, roubles and napoleons.
+Min ew dixistin geravên xwe, bersînga xwe û pêlavên xwe. ||| I stuffed them in my stockings, in my bodice and in my shoes.
+Êvara dawî min ewqas giriya û hêsir barand ku amîralan li min rehmê anî. ||| On the last evening I wept and sobbed so much the Admirals took pity on me.
+Wan hemam bi şampanyayê tije kir, ez xistim nav wê — em wê hingê pir nêzî hev bûbûn — û wan şampanya ji hemamê bi rûmeta min vexwar. ||| They filled the bath with champagne, plunged me in it -- we were very familiar by then -- and they drank the champagne from the bath in my honor.
+Ew serxweş bûn û ronahî vemirandin....» ||| They got drunk and put out the light...."
+##PG 26
+«Sibehê, min dikarî hemû bîhnên wan li ser hev bîhn bikim: ya binefşê, odekolonya, misk û patçûlî. ||| "In the morning, I could smell all their perfumes on top of each other: the violet, the eau-de-Cologne, the musk and the patchouli.
+Her çar hêzên mezin — Îngilîstan, Fransa, Rûsya û Îtalya — min ew li vir, li vir li ser çokên xwe digirtin, û min bi wan re wisa dikir...» ||| The four great powers -- England, France, Russia and Italy -- I held them here, here on my knees, and I went like this with them..."
+
+Madam Hortansê milên xwe yên biçûk û qelew dirêj kirin û jor-jêr livandin, wek ku zarokekî li ser çokên xwe bihejîne. ||| Dame Hortense held out her plump little arms and moved them up and down, as if she were bouncing a baby on her lap.
+
+«Va, wisa! Wisa! ||| "There, like that! Like that!
+Berbangê wan dest pê kir ku topên xwe biteqînin. ||| At daybreak they began to fire off their guns.
+Ez bi şerefa xwe sond dixwim, wan topên xwe teqandin, û qeyikeke spî ya bi diwanzdeh bêrkêşan derket da ku min bibe û min deyne peravê.» ||| I swear to this on my honor, they fired off their guns, and a white boat with twelve oarsmen came out to fetch me and set me on shore."
+
+Destmala xwe ya biçûk derxist û dest bi giriyê kir, bê tesellî. ||| She took her little handkerchief out and began to weep, inconsolably.
+
+«Bûbûlîna min,» Zorba bi coş qîriya, «çavên xwe bigire... çavên xwe bigire, gencîneya min. ||| "My Bouboulina," Zorba cried rapturously, "shut your eyes... shut your eyes, my treasure.
+Ez Kanavaro me!» ||| I am Canavaro!"
+
+«Destên xwe bikişîne, min got!» jinika me ya delal bi nazikî bişirî. ||| "Hands off, I said!" our good lady simpered.
+«Tenê li xwe yê spehî binêre! ||| "Just look at your handsome self!
+Ka epûletên zêrîn, şewqeya sê-quncî, rihê bîhnxweş li ku ne? ||| Where are the golden epaulettes, the three-cornered hat, the perfumed beard?
+Ax, vêca!...» ||| Ah, well then!..."
+
+Destê Zorba bi nermî guvaşt û dîsa dest bi giriyê kir. ||| She squeezed Zorba's hand gently and started to weep again.
+
+Hewa sartir dibû. ||| It was becoming cooler.
+Em demekê bêdeng man. ||| We fell silent a while.
+Behr, li pişt bambûyan, axîn dikişand. ||| The sea, behind the bamboos, was sighing.
+Di dawiyê de bûbû nerm û aram. ||| It had at last become gentle and peaceful.
+Ba sekinîbû, roj diçû ku bêhna xwe veke. ||| The wind had fallen, the sun sank to rest.
+Du qijik li ser serê me derbas bûn û baskên wan fîk dikirin wek ku perçeyek hevirmiş were çirandin — kirasê hevirmiş ê stranbêjê. ||| Two crows passed over our heads and their wings whistled as if a piece of silk was being torn -- the silk chemise of the songstress.
+
+Ronahiya êvarê wek hilmijîna toza zêrîn bi ser hewşê de ket. ||| The evening light fell like a spray of golden dust over the yard.
+
+Lêvên Madam Hortansê yên xeyalî pê ket û di nesîmê êvarê de lerizîn wek ku bixwestana bifirin û agir bibin serê cîranên wê. ||| Dame Hortense's fanciful lips caught alight and quivered in the evening breeze as if they wanted to take flight and carry the fire to her neighbors' heads.
+Ronahiya zêrîn ket ser bersînga wê ya nîv-tazî, çokên wê yên ji hev vebûyî ku bi temenî qelew bûbûn, qermiçokên stûyê wê, pêlavên wê yên qediyayî. ||| The golden light fell on her half-bared bosom, her parted knees which had grown fat with age, the lines in her neck, her worn-out court shoes.
+
+Horiya me ya kal hejiya. ||| Our old siren shuddered.
+Çavên xwe yên biçûk, ên ku ji hêsir û şerabê sor bûbûn, nîv-girtî, pêşî li min, paşê li Zorba nêrî, yê ku lêvên wî ziwa bûbûn û yê ku ji bersînga wê efsûnbûyî bû. ||| Half-closing her little eyes, which were reddened by her tears and the wine, she looked first at me, then at Zorba, whose lips were parched, and who was fascinated by her bosom.
+Wê bi hewayeke pirsyarî li her yekî me nêrî, hewl dida bibîne ka kîjanê me Kanavaro bû. ||| She looked at each of us with a questioning air, trying to see which of us was Canavaro.
+
+«Bûbûlîna min,» Zorba bi dilşewatî kal-kal kir, dema ku çoka xwe li ya wê dida. ||| "My Bouboulina," Zorba cooed passionately, whilst pressing his knee against hers.
+«Xem neke, ne Xweda heye ne jî şeytan. ||| "Don't worry, there's no God and no devil.
+Serê xwe yê biçûk rake, rûyê xwe deyne ser destê xwe û stranekê ji me re bibêje. ||| Raise your little head, rest your cheek on your hand and give us a song.
+Bila mirin here dojehê!» ||| To hell with death!"
+
+Zorba di nav agir de bû. ||| Zorba was on fire.
+Bi destê xwe yê çepê simbêlên xwe badidan, û destê wî yê rastê li ser stranbêja serxweş digeriya. ||| With his left hand he twisted his moustache, and his right hand strayed over the intoxicated songstress.
+Peyvên wî bê nefes bûn, çavên wî xumar. ||| His words were breathless, his eyes languid.
+Bê guman ne ev jina kal a mûmyakirî û bê pîvan boyaxkirî bû ya ku ew li pêş xwe didît, lê hemû ‹cinsê jinê,› wek ku adeta wî bû ku jinan wisa bi nav bike. ||| It was certainly not this mummified and outrageously painted old woman he was seeing before him, but the entire "female species," as it was his custom to call women.
+Takekes winda dibû, taybetmendî dihatin jêbirin, çi ciwan çi pîr, çi bedew çi kirêt — ew tenê cudahiyên bê girîng bûn. ||| The individual disappeared, the features were obliterated, whether young or senile, beautiful or ugly -- those were mere unimportant variations.
+Li pişt her jinê rûyê hişk, pîroz û razdar ê Afrodîtê radibe. ||| Behind each woman rises the austere, sacred and mysterious face of Aphrodite.
+
+Ew ew rû bû ku Zorba didît û pê re diaxivî, û dixwest. ||| That was the face Zorba was seeing and talking to, and desiring.
+
+Madam Hortans tenê maskeyeke demborî û şefaf bû ku Zorba jê qetand da ku devê herheyî maç bike. ||| Dame Hortense was only an ephemeral and transparent mask which Zorba tore away to kiss the eternal mouth.
+
+«Stûyê xwe yê wek berfê spî rake, gencîneya min,» bi dengê xwe yê bêhnçikiyayî û lavakar dubare kir. ||| "Lift your snow-white neck, my treasure," he repeated in his gasping, pleading voice.
+«Stûyê xwe yê wek berfê spî rake û stranê ji me re bibêje!» ||| "Lift your snow-white neck and sing us the song!"
+##PG 27
+Stranbêja kal rûyê xwe danî ser destê xwe yê qelew, yê ku ji şuştina cilan bi tevahî qelişîbû; çavên wê bûn xumar. ||| The old songstress rested her cheek on her plump hand, which was all cracked with washing clothes; her eyes became languorous.
+Wê qîjeyeke hov û janbar kir, paşê dest bi strana xwe ya herî hezkirî kir, gelek caran dubare dikir dema ku bi çavên xumar û nîv-girtî li Zorba dinêrî — wê jixwe hilbijartina xwe kiribû. ||| She uttered a wild and woeful cry, then began her favorite song, repeating it many times as she gazed at Zorba with swooning, half-closed eyes -- she had already made her choice.
+
+##VERSE
+Au fil de mes jours<br>Pourquoi t'ai-je rencontré... ||| Au fil de mes jours / Pourquoi t'ai-je rencontré...
+
+Zorba rabû ser xwe, çû santûriya xwe anî, li ser erdê bi şêwaza tirkî rûnişt, sazê xwe ji pêçanê derxist, danî ser çokên xwe û destên xwe yên mezin dirêj kirin. ||| Zorba leapt up, went for his santuri, sat on the ground Turkish fashion, undraped his instrument, rested it on his lap and stretched his great hands.
+
+«Oh! Oh!» qêriya. «Kêrê hilde û gewriya min jêke, Bûbûlîna!» ||| "Oh! Oh!" he bellowed. "Take a knife and cut my throat, Bouboulina!"
+
+Çaxê şev dest pê kir ku dakeve, çaxê stêrka êvarê li ezmên geriya, û dengê dilrakêş ê santûrê bilind bû, ku armancên Zorba pal didan, Madam Hortans, ya ku bi mirîşk û birinc, behîvên biraştî û şerabê tije bû, bi giranî pal da ser milê Zorba û axîn kişand. ||| When night began to fall, when the evening star revolved in the sky, and the coaxing voice of the santuri rose, abetting Zorba's aims, Dame Hortense, stuffed with chicken and rice, grilled almonds and wine, reeled heavily onto Zorba's shoulder and sighed.
+
+Xwe bi nermî li kêlekên wî yên hestî-derketî da, bawişk kir û ji nû ve axîn kişand. ||| She rubbed herself gently against his bony sides, yawned and sighed afresh.
+
+Zorba îşaret bi min kir û dengê xwe nizm kir: ||| Zorba made a sign to me and lowered his voice:
+
+«Ew di kêfê de ye, axa,» bi kurtedeng got. «Bibe heval, û me bi tenê bihêle.» ||| "She's in the mood, boss," he whispered. "Be a pal, and leave us."
+"""
+
+
+CH8 = r"""
+##PG 56
+##FIRST
+Sibetir dîsa baran dibarî. ||| It was raining again the next day.
+Ezman bi nazikiyeke bêdawî bi erdê re tev bû. ||| The sky mingled with the earth in infinite tenderness.
+Oymayeke Hindî ya ji kevirê gewrê tarî hat bîra min. ||| I recalled a Hindu bas-relief in dark-grey stone.
+Mêr destên xwe li dora jinê alandibûn û bi wê re bi wisa nermî û razîbûnê re bûbû yek, ku mirov wisa hîs dikir — hêmanan li ser laşan xebitî bûn û hema hema ew xwaribûn — ku du kêzikên cotbûyî dibîne, ên ku baraneke hûrik dest pê kiribû li ser wan bibare û baskên wan şil bike. ||| The man had thrown his arms around the woman and was united to her with such gentleness and resignation that one had the impression -- the elements having worked over, and almost eaten into, the bodies -- of seeing two copulating insects over which fine rain had started to fall and dampen their wings.
+##PG 57
+Wisa bi hev ve gerokî, ew hêdî hêdî vedikişandin nav devê çavbirçî yê erdê. ||| Thus closely entwined, they were being slowly sucked back into the voracious maw of the earth.
+
+Ez li ber kozikê rûniştî bûm û li taribûna erdê û keskbûna behrê ya biriqok temaşe dikir. ||| I was sitting in front of the hut and watching the ground darken and the sea grow a phosphorescent green.
+Ji serî heta dawiya peravê tu canek nedixuya, ne keştiyek, ne çivîkek. ||| Not a soul was to be seen from one end of the beach to the other, not a sail, not a bird.
+Tenê bêhna erdê ji pencereyê dikete hundir. ||| Only the smell of the earth entered through the window.
+
+Ez rabûm û destê xwe wek parsekekî dirêjî baranê kir. ||| I rose and held out my hand to the rain like a beggar.
+Ji nişkê ve dilê min xwest bigirîm. ||| I suddenly felt like weeping.
+Kederek, ne ya min lê kûrtir û tarîtir, ji erdê şil radibû: ew panîka ku heywanekî aram ê diçêre hîs dike çaxê ku, ji nişkê ve, bê dîtina tiştekî, serê xwe radike û di hewaya dora xwe de bîhn dike ku ketiye xefikê û nikare bireve. ||| Some sorrow, not my own but deeper and more obscure, was rising from the damp earth: the panic which a peaceful grazing animal feels when, all at once, without seeing anything, it rears its head and scents in the air about it that it is trapped and cannot escape.
+
+Min xwest qêrînekê bikim, dizanibû ku ew ê hestên min sivik bike, lê min şerm kir. ||| I wanted to utter a cry, knowing that it would relieve my feelings, but I was ashamed to.
+
+Ewr her diket nizmtir û nizmtir. ||| The clouds were coming lower and lower.
+Min ji pencereyê nêrî; dilê min bi nermî lê dixist. ||| I looked through the window; my heart was gently palpitating.
+
+Wan saetên barana nerm dikarin çi kêfa şehwetî ya kederê di te de çêbikin! ||| What a voluptuous enjoyment of sorrow those hours of soft rain can produce in you!
+Hemû bîranînên tehl ên di kûrahiya hişê te de veşartî tên ser rûyê avê: cudabûn ji hevalan, bişirînên jinan ên ku çilmisîne, hêviyên ku wek perperokan baskên xwe winda kirine û ji wan tenê kurmek maye — û ew kurm hilkişiyabû ser pelê dilê min û wî dixwar. ||| All the bitter memories hidden in the depths of your mind come to the surface: separations from friends, women's smiles which have faded, hopes which have lost their wings like moths and of which only a grub remains -- and that grub had crawled on to the leaf of my heart and was eating it away.
+
+Wêneyê hevalê min ê li Kafkasyayê sirgûnkirî hêdî hêdî di nav baran û erdê şil de xuya bû. ||| The image of my friend exiled in the Caucasus slowly appeared through the rain and sodden earth.
+Min pênûsa xwe hilda, li ser kaxezê xwar bûm, û dest pê kir ku pê re biaxivim da ku tora hûrik a baranê biqetînim û bikaribim bîhna xwe bistînim. ||| I took my pen, bent over the paper, and began to speak to him in order to cut through the fine mesh of the rain and be able to breathe.
+
+Dostê min ê hêja, ||| My dear friend,
+
+Ez ji peravake tenê ya Krîtê ji te re dinivîsim, li wê derê ku çarenûs û ez li hev hatine ku divê ez çend mehan bimînim da ku bilîzim — da ku bilîzim ku ez sermayedarek im. ||| I am writing to you from a lonely shore in Crete where destiny and I have agreed I should stay several months to play -- to play at being a capitalist.
+Eger lîstika min biser bikeve, ez ê bibêjim ku ew ne lîstik bû, lê ku min biryareke mezin dabû û şêwaza jiyana xwe guhertibû. ||| If my game succeeds, I shall say it was not a game, but that I had made a great resolution and changed my mode of life.
+
+Tê bîra te ka çawa, çaxê tu çûyî, te ez kurmê pirtûkan bi nav kirim. ||| You remember how, when you left, you called me a bookworm.
+
+Ev ewqas ez aciz kirim ku min biryar da ku demekê — an her û her? — dev ji nivîsandina xwe ya li ser kaxezê berdim û xwe bavêjim jiyaneke kiryarî. ||| That so vexed me I decided to abandon my scribbling on paper for a time -- or forever? -- and to throw myself into a life of action.
+Min çiyayek ê ku lînyît tê de hebû bi kirê girt; min karker girtin û qazma û bel, lempeyên asetîlenê, selik û erebe anîn. ||| I rented a hillside containing lignite; I engaged workmen and took picks and shovels, acetylene lamps, baskets, trucks.
+Min galerî vekirin û ketim hundirê wan. ||| I opened up galleries and went into them.
+Tenê wisa, da ku te aciz bikim. ||| Just like that, to annoy you.
+Û bi kolandin û vekirina riyan di nav erdê de, kurmê pirtûkan bûye koremişk. ||| And by dint of digging and making passages in the earth, the bookworm has become a mole.
+Hêvî dikim tu vê veguherînê bipejirînî. ||| I hope you approve of the metamorphosis.
+
+Şahiyên min li vir mezin in, ji ber ku ew pir sade ne û ji hêmanên herheyî dijîn: hewaya paqij, roj, behr û nanê genim. ||| My joys here are great, because they are very simple and spring from the everlasting elements: the pure air, the sun, the sea and the wheaten loaf.
+Êvarê Sindbadê Deryavan ê awarte li ber min bi şêwaza tirkî diçemile û diaxive. ||| In the evening an extraordinary Sinbad the Sailor squats before me, Turkish fashion, and speaks.
+Ew diaxive û dinya mezintir dibe. ||| He speaks and the world grows bigger.
+Carinan, çaxê peyv êdî têrê nakin, radibe ser xwe û direqise. ||| Occasionally, when words no longer suffice, he leaps up and dances.
+Û çaxê reqs jî êdî têrê nake, santûriya xwe datîne ser çokên xwe û lê dixe. ||| And when dancing no longer suffices he places his santuri on his knees and plays.
+
+Carinan straneke hov lê dixe û tu hîs dikî ku tu dixeniqî ji ber ku tu ji nişkê ve fêm dikî ku jiyana te bêreng, belengaz û ne hêjayî mirov e. ||| Sometimes he plays a savage air and you feel you are choking because you realize all at once that your life is colorless, miserable and unworthy of man.
+Carinan straneke janbar lê dixe û tu hîs dikî ku jiyana te derbas dibe, wek qûmê di navbera tiliyên te re direve, û ku tu rizgarî tune. ||| Sometimes he plays a dolorous air and you feel your life passing, running away like sand between your fingers, and that there is no salvation.
+
+Dilê min di sînga min de wek mekoya tevnkêr diçe û tê. ||| My heart is going to and fro in my breast like a weaver's shuttle.
+##PG 58
+Ew van çend mehên ku ez li Krîtê derbas dikim ditêne, û — Xweda min biborîne — ez bawer dikim ku ez bextewar im. ||| It is weaving these few months which I am spending in Crete, and -- God forgive me -- I believe I am happy.
+
+Konfîçyûs dibêje: «Gelek kes bextewariyê ji mirov bilindtir digerin; hin jî ji wî nizmtir. Lê bextewarî bi qasî bejna mirov bilind e.» ||| Confucius says: "Many seek happiness higher than man; others beneath him. But happiness is the same height as man."
+Ev rast e. ||| That is true.
+Loma divê bextewarî hebe ku li gor bejna her mirovî be. ||| So there must be happiness to suit every man's stature.
+Wisa ye, şagirt û mamosteyê min ê hêja, bextewariya min a îro. ||| Such is, my dear pupil and master, my happiness of the day.
+Bi fikar ez wê dipîvim û dîsa dipîvim, da ku bibînim bejna min a vê kêliyê çi ye. ||| I anxiously measure it and measure it again, to see what my stature of the moment is.
+Ji ber ku, tu vê pir baş dizanî, bejna mirov ne her tim heman e. ||| For, you know this very well, man's stature is not always the same.
+
+Çawa giyanê mirov li gor avhewa, bêdengî, tenêtî, an hevaltiya ku tê de dijî diguhere! ||| How the soul of man is transformed according to the climate, the silence, the solitude, or the company in which it lives!
+
+Ji rewşa min a tenê ve, mirov ji min re ne wek mûriyan, lê berevajî, wek cinawirên pir mezin xuya dibin — dînozor, pterodaktîl ên ku di hewayeke ji asîda karbonîk û nebatên stûr ên rizî tijekirî de dijîn, ya ku jê afirandin pêk tê. ||| Seen from my solitary state, men appear to me not like ants but, on the contrary, like enormous monsters -- dinosaurs, pterodactyls living in an atmosphere saturated with carbonic acid and thick decaying vegetation from which creation is formed.
+Daristanek bêfêm û pûç. ||| An incomprehensible, absurd jungle.
+Têgînên «netewe» û «nijad» ên ku tu jê hez dikî, têgînên «ser-netewe» û «mirovahî» yên ku ez xapandim, li vir di bin bêhna her-bihêz a wêrankirinê de heman nirxê digirin. ||| The notions of "nation" and "race" of which you are fond, the notions of a "super-nation" and "humanity" which seduced me, here acquire the same value under the all-powerful breath of destruction.
+Em hîs dikin ku em hatine ser rûyê erdê da ku çend kîteyan bibêjin û carinan tewra ne kîte jî, tenê dengên bêwate: Ah!, erê! — û piştî wê em tên hilweşandin. ||| We feel that we have risen to the surface to utter a few syllables and sometimes not even syllables, mere inarticulate sounds: an Ah!, a yes! -- after which we are destroyed.
+Û tewra ramanên herî bilind jî, eger werin perçekirin, tên dîtin ku ne tiştek in ji bilî bûkên bi kepekê tijekirî, û di kepekê de zembereqeke hesinî tê dîtin. ||| And even the most elevated ideas, if they are dissected, are seen to be no more than puppets stuffed with bran, and hidden in the bran an iron spring is found.
+
+Tu min têra xwe baş nas dikî ku fêm bikî ku ev ramanên hovane, ne ku min bidin reviyan, berevajî, agirdankên neçar in ji bo agirê min ê hundirîn. ||| You know me well enough to realize that these cruel meditations, far from making me flee, are, on the contrary, indispensable tinder for my inner flame.
+Ji ber ku, wek mamosteyê min, Bûda, dibêje: «Min dîtiye.» ||| Because, as my master, Buddha, says: "I have seen."
+Û ji ber ku min dîtiye û, di çavnîşkekê de, ez bi berhemînerê nedîtî yê dilşad û seyr re li hev hatime, ez ji niha pê ve dikarim para xwe ya li ser rûyê erdê heta dawiyê bilîzim, ango bi hevgirtî û bê bêhêvîtî. ||| And as I have seen and, in the twinkling of an eye, have got on good terms with the jovial and whimsical, invisible producer, I can henceforward play my own part on earth to the end, that is to say coherently and without discouragement.
+Ji ber ku, çaxê min dît, min di wî karê ku ez li ser dika Xwedê tê de dilîzim de jî beşdarî kir. ||| For, having seen, I have also collaborated in the work in which I am acting on God's stage.
+
+Bi vî awayî ye ku, çaxê ez dika gerdûnî dinihêrim, ez dikarim te li wir bibînim, di wan kelehên efsanewî yên Kafkasyayê de, ku tu jî rola xwe dilîzî; ez dikarim te bibînim ku tu şer dikî da ku hezaran giyanên ji nijada me yên ku di xetereya mirinê de ne rizgar bikî. ||| This is how it is that, scanning the universal stage, I can see you over there, in those legendary fastnesses of the Caucasus, also playing out your role; I can see you fighting to save thousands of souls of our race who are in danger of death.
+Promêteyekî derewîn ê ku divê, lê belê, êşên pir rastîn bikişîne dema ku ew li dijî hêzên tarî yên birçîbûn, sermayê, nexweşî û mirinê şer dike. ||| A pseudo-Prometheus who must, however, suffer very real tortures while he combats the dark forces of hunger, cold, sickness and death.
+Lê, ji ber ku tu serbilind î, divê tu carinan kêfxweş bibî ku hêzên tarî yên wêrankirinê ewqas pirhejmar û neserkeftî ne: ji ber ku bi vî awayî armanca te ku tu hema hema bê hêvî bijî leheng-tir dibe û giyanê te mezinahiyeke trajîktir bi dest dixe. ||| But, being proud, you must sometimes rejoice that the dark forces of destruction are so numerous and invincible: for thus your aim to live almost without hope becomes more heroic and your soul acquires a more tragic greatness.
+
+Bê guman divê tu jiyana ku tu dijî bextewar bihesibînî. ||| You certainly must consider the life you lead a happy one.
+Û ji ber ku tu wê wisa dihesibînî, ew wisa ye. ||| And since you consider it such, such it is.
+Te jî bextewariya xwe li gor bejna xwe birî; û bejna te niha — pesnê Xwedê — ji ya min mezintir e. ||| You have also cut your happiness according to your stature; and your stature now -- God be praised -- is greater than mine.
+Mamosteyê baş ji vê xelatekê mezintir naxwaze: ku şagirtekî ku jê derbas dibe perwerde bike. ||| The good master desires no greater recompense than this: to form a pupil who surpasses him.
+
+Ji bo min, ez gelek caran ji bîr dikim, ez xwe biçûk dixînim, ez rêya xwe winda dikim, baweriya min mozaîkeke bêbaweriyê ye. ||| As for me, I often forget, I disparage myself, I lose my way, my faith is a mosaic of unbelief.
+Carinan ez hîs dikim ku ez dixwazim bazarekê bikim: ku kêliyeke kurt bijîm û mayîna jiyana xwe di berdêlê de bidim. ||| Sometimes I feel I should like to make a bargain: to live one brief minute and give the rest of my life in exchange.
+
+Lê tu bi hêz sikanê digirî û tu tu carî ji bîr nakî, tewra di kêliyên herî şîrîn ên vê jiyanê de jî, ku te berê xwe daye kîjan mebestê. ||| But you keep a firm hold on the helm and you never forget, even in the sweetest moments of this life, towards which destination you have set your course.
+
+Tê bîra te roja ku me herduyan li ser rêya xwe ya ber bi Yûnanistanê Îtalya bihurand? ||| Do you remember the day we both crossed Italy on our way to Greece?
+Me biryar dabû ku em ber bi herêma Pontusê ve biçin, ya ku wê hingê di xetereyê de bû. ||| We had decided to make for the Pontus region, which was then in danger.
+Em bi lez li bajarokekî ji trênê peya bûn — tenê saetek wextê me hebû ku em xwe bigihînin trêna din. ||| We hastily alighted from the train in a little town -- we had just one hour to catch the other train.
+Em ketin baxçeyekî mezin ê daristanî li nêzî qereqolê. ||| We went into a large wooded garden near the station.
+##PG 59
+Darên pelfireh hebûn, mûz şîn dibûn, bambûyên bi rengên metalî yên tarî, û mêş li ser çiqlekî bikulîlk diwizîn, çiqlê ku ji dîtina mijîna wan dilerizî. ||| There were broad-leaved trees, bananas growing, bamboos of dark metallic colors, bees were swarming over a flowering branch which trembled to see them suck.
+
+Em di nav kêfeke bêdeng de, wek di xewnekê de, meşiyan. ||| We strolled on in mute ecstasy, as if in a dream.
+Ji nişkê ve, li zivirîna rêya kulîlkan, du keç xuya bûn, ku dimeşiyan û pirtûkek dixwendin. ||| Suddenly, at a turn of the flower walk, two girls appeared, reading a book as they went along.
+Êdî nayê bîra min ka ew xweşik bûn an asayî. ||| I no longer remember whether they were pretty or plain.
+Tenê tê bîra min ku yek zerî bû, ya din esmer, û herdu kirasên biharê li xwe kiribûn. ||| I remember only that one was fair, the other dark, and both were wearing spring blouses.
+
+Û bi wê wêrekiya ku mirov di xewnan de heye, em nêzî wan bûn û te got: «Pirtûka ku hûn dixwînin çi dibe bila bibe, em ê li ser wê bi we re biaxivin.» ||| And with the boldness one has in dreams, we approached them and you said: "Whatever the book may be you are reading, we'll discuss it with you."
+Ew Gorkî dixwendin. ||| They were reading Gorki.
+Paşê, bi lez, ji ber ku wextê me hindik bû, me li ser jiyanê, xizaniyê, serhildana hişê, evînê axivî.... ||| Then, going posthaste, for we had little time, we talked of life, of poverty, of the revolt of the mind, of love....
+
+Ez ê tu carî kêf û kedera xwe ji bîr nekim. ||| I shall never forget our delight and our sorrow.
+Em û van her du keçên nenas jixwe hevalên kevn, evîndarên kevn bûn; em ji bo giyan û laşên wan berpirsiyar bûbûn, û me lez dikir, ji ber ku çend deqîqe şûnde em ê wan her û her bihêlin. ||| We and these two unknown girls were already old friends, old lovers; we had become responsible for their souls and bodies, and we made haste, for a few minutes later we were going to leave them forever.
+Di hewaya bilerz de me dikarî bêhna kêfa dîn û mirinê bigirta. ||| In the vibrant air we could smell ravishment and death.
+
+Trên hat û fîk kir. ||| The train arrived and whistled.
+Em şiyar bûn, wek ku ji xewnekê hişyar dibin. ||| We started, as if awaking from a dream.
+Me destên hev guvaştin. ||| We shook hands.
+Ez ê çawa careke din girtina çikûs û bêhêvî ya destên me, deh tiliyên ku nedixwestin ji hev cuda bibin, ji bîr bikim. ||| How can I ever forget the tight and desperate grip of our hands, the ten fingers which did not wish to separate.
+Yek ji keçan pir sîs bû, ya din dikeniya û dilerizî. ||| One of the girls was very pale, the other was laughing and trembling.
+
+Û min wê gavê ji te re got, tê bîra min: «Yûnanistan, Welatê Me, Erk çi tê wateya wan? Rastî li vir e!» ||| And I said to you then, I remember: "What do Greece, Our Country, Duty mean? The truth is here!"
+Û te bersiv da: «Yûnanistan, Welatê Me, Erk tu wate nînin. Û dîsa jî, ji bo wê tunebûnê em bi dilxwazî xwe davêjin hembêza wêranbûnê.» ||| And you replied: "Greece, Our Country, Duty mean nothing. And yet, for that nothing we willingly court destruction."
+
+Lê çima ez vê ji te re dinivîsim? ||| But why am I writing this to you?
+Da ku ez bidim te dîtin ku min tu kêlî ji wan kêliyên ku me bi hev re jiyan ji bîr nekirine. ||| To let you see that I have forgotten none of the moments we have lived together.
+Û her wiha da ku derfetek hebe ku ez wê tiştê ku, ji ber adeta me ya baş (an xerab) a kontrolkirina hestên xwe, ez tu carî nikarim ji te re eşkere bikim çaxê em bi hev re ne, diyar bikim. ||| And also to have an opportunity of expressing what, because of our good (or bad) habit of curbing our feelings, I can never reveal to you when we are together.
+
+Niha ku tu êdî li ber min nînî û nikarî rûyê min bibînî, û niha ku xetereya ku ez nerm an bêmane xuya bibim tune, ez dikarim ji te re bibêjim ku ez ji te pir kûr hez dikim. ||| Now that you are no longer before me and cannot see my face, and now that I run no risk of appearing soft or ridiculous, I can tell you I love you very deeply.
+
+Min nameya xwe qedand. ||| I had finished my letter.
+Min bi hevalê xwe re axivîbû, û min xwe sivik hîs kir. ||| I had conversed with my friend, and I felt relieved.
+Min gazî Zorba kir. ||| I called Zorba.
+Di bin zinarekî de çemilî, da ku şil nebe, ew nimûneya xeta xwe ya têlerê diceriband. ||| Crouching beneath a rock, so as not to get wet, he was trying out his model line.
+
+«Were, Zorba,» min qîriya. «Rabe û em herin gerekê li gund.» ||| "Come along, Zorba," I cried. "Get up and let's go for a stroll to the village."
+
+«Tu di kêfa xwe de yî, axa. Baran dibare. Tu nikarî bi tenê herî?» ||| "You're in a good humor, boss. It's raining. Can't you go alone?"
+
+«Ez naxwazim kêfa xwe winda bikim. Eger em bi hev re biçin, dê xetereya wê tune be. Were.» ||| "I don't want to lose my good humor. If we go together, there'll be no danger of that. Come along."
+
+Keniya. ||| He laughed.
+
+«Ez kêfxweş im ku hewcedariya te bi min heye,» got. «Vêca, were em herin.» ||| "I'm glad you need me," he said. "Come on, then."
+
+Wî çakêtê hirî yê Krîtî yê biçûk ê bi kumikê niçik ê ku min dabûyê li xwe kir û, di nav heriyê de pijiqandin, em ber bi rê ve çûn. ||| He put on the little woolly Cretan coat with a pointed hood which I had given him and, splashing through the mud, we made for the road.
+
+Baran dibarî. ||| It was raining.
+Lûtkeyên çiyê veşartî bûn. ||| The mountain peaks were hidden.
+Tu bayek tunebû. ||| There was not a breath of wind.
+Kevirok dibiriqîn. ||| The pebbles gleamed.
+Girê lînyîtê di nav mij de fetisî bû. ||| The lignite hill was smothered by the mist.
+Wisa bû ku rûyê jinê yê girî bi kederê pêçabe, wek ku ew di bin baranê de ji xwe çûbe. ||| It was as if the woman's face of the hill were shrouded in sorrow, as if she had fainted beneath the rain.
+
+«Dilê mirov diêşe çaxê baran dibare,» Zorba got. «Divê tu xerabiyê li wî nekî, axa. Belengaz jî giyanek heye.» ||| "A man's heart suffers when it rains," Zorba said. "You mustn't bear it any ill will, boss. The poor wretch has a soul, too."
+##PG 60
+Li ber perçînekî çemiya û nêrgizên çolê yên biçûk ên pêşîn çinîn. ||| He stooped by a hedge and picked the first little wild narcissi.
+Demeke dirêj lê nêrî, wek ku têra xwe nikare wan bibîne, wek ku cara pêşîn nêrgizan dibîne. ||| He looked at them a long while, as if he could not see enough of them, as if he were seeing narcissi for the first time.
+Çavên xwe girt û bîhn kirin, axîn kişand, paşê ew dan min. ||| He closed his eyes and smelled them, sighed, then gave them to me.
+
+«Xwezî me bizaniya, axa, ka kevir û baran û kulîlk çi dibêjin. ||| "If only we knew, boss, what the stones and rain and flowers say.
+Belkî ew gazî dikin — gazî me dikin — û em wan nabihîzin. ||| Maybe they call -- call us -- and we don't hear them.
+Kengî dê guhên mirovan vebin, axa? ||| When will people's ears open, boss?
+Kengî dê çavên me vebin ku bibînin? ||| When shall we have our eyes open to see?
+Kengî dê em milên xwe vekin da ku her tiştî hembêz bikin — kevir, baran, kulîlk, û mirovan? ||| When shall we open our arms to embrace everything -- stones, rain, flowers, and men?
+Tu li ser wê çi difikirî, axa? Û pirtûkên te li ser wê çi dibêjin?» ||| What d'you think about that, boss? And what do your books have to say about it?"
+
+«Bila şeytan wan bibe!» min got, gotina Zorba ya herî hezkirî bi kar anî. «Bila şeytan wan bibe! Ev e tiştê ku ew dibêjin, û ne tiştekî din!» ||| "The devil take them!" I said, using Zorba's favorite expression. "The devil take them! That's what they say, and nothing else!"
+
+Zorba ez ji milê xwe girtim. ||| Zorba took me by the arm.
+
+«Ez ê fikreke xwe ji te re bibêjim, axa, lê divê tu hêrs nebî. ||| "I'm going to tell you of an idea of mine, boss, but you mustn't be angry.
+Hemû pirtûkên xwe bike komekê û agir berde wan! ||| Make a heap of all your books and set light to them!
+Piştî wê, kî dizane, tu ne ehmeq î, tu cûreyê rast î... dibe ku em tiştekî ji te çêbikin!» ||| After that, who knows, you're no fool, you're the right sort... we might make something of you!"
+
+«Ew rast dibêje!» min ji xwe re qîriya. «Ew rast dibêje, lê ez nikarim.» ||| "He is right!" I exclaimed to myself. "He is right, but I can't."
+
+Zorba dudilî ma û fikirî. Paşê got: ||| Zorba hesitated and reflected. Then he said:
+
+«Tiştek heye ku ez dikarim bibînim....» ||| "There's one thing I can see...."
+
+«Çi? Bêje!» ||| "What? Out with it!"
+
+«Nizanim, lê difikirim, wisa, ez dikarim wê bibînim. ||| "I don't know, but I think, just like that, I can see it.
+Lê eger ez hewl bidim ku ji te re bibêjim, ez ê wê tevlihev bikim. ||| But if I try to tell you, I'll make a hash of it.
+Rojekê, çaxê ez di forma xwe ya baş de bim, ez ê wê ji te re bireqisim.» ||| One day, when I'm in good form, I'll dance it for you."
+
+Baran dest pê kir ku hêjtir bibare. ||| It started to rain harder.
+Em gihîştin gund. ||| We came to the village.
+Keçikên biçûk pez ji çêrê vedigerandin; cotkaran ga ji nîr vekiribûn û dev ji zeviya nîv-ajotî berdidan; jin li dû zarokên xwe di kolanên teng de dibezîn. ||| Little girls were bringing the sheep back from grazing; the ploughmen had unyoked the oxen and were abandoning the half-ploughed field; the women were running after their children in the narrow streets.
+Panîkeke dilşad di gund de derketibû çaxê ku rijbaran dest pê kir. ||| A cheerful panic had broken out in the village when the shower started.
+
+Jinan qîjeyên tûj dikirin û çavên wan dikeniyan; ji rihên hişk û simbêlên badayî yên mêran dilopên mezin ên baranê daliqîn. ||| Women uttered shrill cries and their eyes were laughing; from the men's stiff beards and curled-up moustaches hung large drops of rain.
+Bêhnek tûj ji erdê, keviran û giyê radibû. ||| A pungent smell rose from the earth, the stones and the grass.
+
+Em wek mişkên fetisî xwe avêtin hundirê Qehwexane-û-Qesabxaneya «Edeb». ||| We dived into The Modesty Café-and-Butcher's-Shop like drowned rats.
+Tije bû. ||| It was crowded.
+Hin mêr lîstika belotê dilîstin, hinên din bi dengên xwe yên herî bilind nîqaş dikirin wek ku ji ser çiyan gazî hev dikin. ||| Some men were playing a game of belote, others arguing at the top of their voices as if they were calling to each other across the mountains.
+Li dora maseyeke biçûk a li dawiyê, rûspiyên gund qanûn datanîn: apê Anagnostî bi kirasê xwe yê spî yê bi mil-firehî; Mavrandonî, hişk û bêdeng, nargîleya xwe dikişand, çavên wî li erdê mixkirî; mamosteyê zer, navsalî û hinekî bi heybet ku li ser gopalê xwe yê stûr palpiştî bû û bi bişirîneke bilindbînî guhdarî dikir li dêwekî pirçî yê ku nû ji Kandiyayê vegeriyabû û ecêbên wî bajarê mezin vedigot. ||| Round a little table at the far end the village elders were laying down the law: uncle Anagnosti with his broad-sleeved white shirt; Mavrandoni, severe and silent, smoking his hookah, with his eyes riveted on the floor; the gaunt, middle-aged and rather imposing schoolmaster leaning on his thick stick and listening with a condescending smile to a hairy giant who had just returned from Candia and was describing the marvels of that great town.
+Xwediyê qehwexaneyê, li pişt tezgehê sekinî, guhdarî dikir û dikeniya dema ku çavê xwe li cizweyên ku li ser sobê li rêzê sekinîbûn digirt. ||| The café proprietor, standing behind the counter, was listening and laughing as he kept an eye on the coffeepots which stood in a row on the stove.
+
+Hema ku em dîtin, apê Anagnostî rabû ser xwe. ||| As soon as he saw us, uncle Anagnosti got up.
+
+«Werin tevî me bibin, welatiyno,» got. «Sfakianonîkolî ji me re behsa her tiştê ku li Kandiyayê dît û bihîst dike. Ew pir henekçî ye. Werin!» ||| "Do come and join us, countrymen," he said. "Sfakianonikoli is telling us about all he saw and heard in Candia. He's very funny. Do come!"
+
+Li xwediyê qehwexaneyê zivirî. ||| He turned to the café proprietor.
+
+«Du raqî, Manolakî!» got. ||| "Two rakis, Manolaki!" he said.
+
+Em rûniştin. ||| We sat down.
+Şivanê hov, dît ku biyanî hene, xwe vekişand nav qalikê xwe û bêdeng ma. ||| The wild shepherd, seeing strangers present, withdrew into his shell and was silent.
+##PG 61
+«Êê, serokê Nîkolî, ma tu jî neçûyî şanoyê?» mamoste got, da ku wî bide axaftin. «Te li ser wê çi fikirî?» ||| "Well, chief Nikoli, didn't you go to the theater, too?" the schoolmaster said, to make him talk. "What did you think of it?"
+
+Sfakianonîkolî destê xwe yê mezin dirêj kir, qedeha şeraba xwe girt, ew daqurtand û cesaret girt. ||| Sfakianonikoli stretched out his great hand, seized his glass of wine, gulped it down and plucked up courage.
+
+«Neçûm şanoyê?» qîriya. «Helbet ez çûm! ||| "Not go to the theater?" he shouted. "Of course I did!
+Hemûyan timî behsa Kotopûlî dikir, ev Kotopûlî û ew Kotopûlî. ||| They all kept talking about Kotopouli this and Kotopouli that.
+Vêca êvarekê min xaç li xwe kir û got: ‹Baş e, çima ez neçim û bi çavên xwe nebînim? Ev Kotopûlî (lîstikvaneke navdar; ‹pûlî› bi Yûnanî tê wateya mirîşkê) ji wan re çi ye ku ewqas qîrîn û hawar li dora wê dikin?›» ||| So one evening I crossed myself and said: 'All right, why don't I go and see for myself? What the devil is she for them to make all this fuss about Kotopouli?'"
+
+«Vêca te çi dît, lawo?» apê Anagnostî pirsî. «Ew çi bû? Ji bo Xwedê, ji me re bêje.» ||| "So what did you see, young fellow?" uncle Anagnosti asked. "What was it? Tell us, for God's sake."
+
+«Wele, bi giyanê xwe, ne pir tişt. ||| "Well, upon my soul, not much of anything.
+Tu wan hemûyan dibihîzî ku behsa vê ‹şanoyê› dikin, û tu ji xwe re difikirî, ‹Niha ez ê tiştekî bibînim.› ||| You hear 'em all talking about this 'theater,' and you think to yourself, 'Now I'm going to see something.'
+Lê, ez ji te re dibêjim, tu pereyê xwe pûç dikî. ||| But, I tell you, you're wasting your money.
+Cihek heye wek meyxaneyeke mezin, lê gilover, wek bênderê, tije kursî û ronahî û mirov. ||| There's a great tavern of a place, but round, like a threshing floor, all full of chairs and lights and people.
+Min nizanibû ez li ku me û ronahiyan çavên min ji ber çûn û min nedikarî bibînim. ||| I didn't know where I was and the lights dazzled me and I couldn't see.
+‹Şeytan,› min ji xwe re got, ‹niha dê efsûnê li min bikin; ez ê herim.› ||| 'The devil,' I said to myself, 'they'll be casting a spell on me next; I'll be off.'
+Lê hema wê gavê keçek, bi qasî çûçikekê çeleng, ez ji destê xwe girtim. ||| But just then a girl, as frisky as a wagtail, gets hold of me by the hand.
+‹Hey! Tu min dibî ku derê?› min qîriya, lê wê tenê ez kişandim û di dawiyê de zivirî û ji min re got ku ez rûnim. ||| 'Hi! Where are you taking me?' I called out, but she just pulls me along and at last she turns round and tells me to sit down.
+Vêca ez rûniştim. ||| So I sat down.
+
+«Tu bifikire. Tenê mirov li pêşberî min û li pişt û li herdu aliyan, û heta banî. ||| "Just think of it. Nothing but people in front of me and behind and both sides, and right up to the ceiling.
+‹Ez ê bifetisim,› min ji xwe re got, ‹ez ê biteqim. Qet hewa tune.› ||| 'I'm going to stifle,' I told myself, 'I'll bust. There's no air at all.'
+Paşê ez li cîranê xwe zivirîm û jê pirsî, ‹Tu dikarî ji min re bibêjî, heval, ev ‹permadonna› (têkçûna ‹prima donna›yê) ji ku derê derdikevin?›» ||| Then I turn to my neighbor and ask him, 'Can you tell me, friend, where do these permadonnas come out from?'"
+
+«‹Çima, ji hundir wir,› wî ji min re got, bi tiliyê perde nîşan da. ||| "'Why, from inside there,' he tells me, pointing to the curtain.
+Û ew jî rast bû, ji ber ku tişta pêş zengilek lê dixe, û perde vedibe û ev Kotopûlî, wek ku dibêjin, li pêşberî te li ser dikê heye. ||| And he was right, too, for the next thing a bell rings, and the curtain opens and there's this Kotopouli as they say, up in front of you on the stage.
+Lê ji min nepirse çima jê re mirîşk dibêjin: ew jinek e, helbet, bi hemû perçeyên xwe ve. ||| But don't ask me why they call her a chicken: she's a woman, all right, with all the bits and pieces.
+Vêca ew tenê dizivire û boçika xwe jor-jêr dihejîne, û çaxê têra wan ji wê bû, dest bi çepikan dikin û ew bi lez direve.» ||| So she just turns around and wags her tail up and down, and when they've had enough of that, they start clapping their hands and she scuttles off."
+
+Gundî bi ken hejiyan. ||| The villagers rocked with laughter.
+Sfakianonîkolî aciz bû û şermok xuya bû. ||| Sfakianonikoli was annoyed and looked shamefaced.
+Li deriyê zivirî. ||| He turned to the door.
+
+«Li wê baranê binêre çawa dibare,» got, da ku mijarê biguherîne. ||| "Look at that rain coming down," he said, to change the subject.
+
+Çavên her kesî li dû yên wî çûn. ||| Everyone's eyes followed his.
+Hema wê kêliyê jinek bi bez derbas bû, bi gelek por li ser milên wê daliqandî û dawên xwe yên reş heta çokan hildayî. ||| At that very moment a woman ran by, with a mass of hair hanging over her shoulders and holding her black skirts up to her knees.
+Bejneke wê ya baş û gilover hebû, cilên wê pê ve dizeliqîn, laşekî hişk û dilkêş eşkere dikirin. ||| She had a good, round figure, her clothes clung to her, revealing a firm, alluring body.
+
+Ez veciniqîm. Ew çi heywanê nêçîrê ye? min fikirî. ||| I started. What beast of prey is that? I thought.
+Ew ji min re çeleng û metirsîdar xuya bû, xwarvana mêran. ||| She appeared to me lithe and dangerous, a devourer of men.
+
+Jinikê serê xwe kêliyekê zivirand û nêrîneke bilez û berbiçav avêt nav qehwexaneyê. ||| The woman turned her head for an instant and gave a rapid, dazzling look into the café.
+##PG 62
+«Meryema Pîroz!» mirmir kir xortekî xam ê bi rihekî nerm û pirçik, ê ku li nêzî pencereyê rûniştî bû. ||| "Holy Virgin!" muttered a callow youth with a soft, downy beard, who was sitting near the window.
+
+«Nifir li wê delalê be!» Manolakas, polîsê gund, qîriya. «Nifir li te be; tu mêrekî dişewitînî û paşê dihêlî ku ew bisoje!» ||| "A curse on that vamp!" roared Manolakas, the village constable. "A curse on you; you set a man on fire and then let him burn!"
+
+Xortê li ber pencereyê dest pê kir ku di bin lêv de bistirê, pêşî bi nermî û bi dudilî. ||| The youth by the window began to hum, at first softly and hesitatingly.
+Hêdî hêdî dengê wî xir bû: ||| Gradually his voice became hoarse:
+
+##VERSE
+Balgehê jinebiyê bêhneke bîhnxweş a bîyê dide!<br>Min jî ew bêhn nas kiriye û ji hingê ve qet xew li min nehatiye! ||| The widow's pillow has a fragrant smell of quince! I too have known that scent and never have slept since!
+
+«Devê xwe bigire!» Mavrandonî qîriya, lûleya nargîleya xwe hejand. ||| "Shut up!" Mavrandoni shouted, brandishing his hookah tube.
+
+Xort bêdeng ma. ||| The young man kept quiet.
+Pîremêrekî ber bi Manolakas, polîs, ve çemiya. ||| An old man leaned over Manolakas, the constable.
+
+«Niha apê te hêrs dibe,» bi kurtedeng got. «Eger ew careke bikeve destê wî, ew ê belengazê perçe perçe bike. Bila Xweda rehmê li wê bike!» ||| "Now your uncle's getting angry," he whispered. "If she ever falls into his hands he'd hack the poor wretch to pieces. May God have mercy on her!"
+
+«Ax, Androulioyê kal,» Manolakas got, «ez bawer dikim ku tu jî li dû dawên jinebiyê digerî. ||| "Ah, old Androulio," said Manolakas, "I do believe you are trailing after the widow's skirts, too.
+Û tu xizmetkarê dêrê! Ma şerm nakî?» ||| And you a verger! Aren't you ashamed?"
+
+«Guhdariya min bike. Bila Xweda rehmê li wê bike! Belkî te bal nedaye ka çi cûre zarok di van demên dawî de li gund tên dinyayê?» ||| "Listen to me. God have mercy on her! Maybe you haven't noticed the kind of children who are born in the village of late?"
+
+«Pîroz be jinebî, ez dibêjim! ||| "Blessed be the widow, I say!
+Ew, wek ku tu dikarî bibêjî, evîndara hemû gund e: tu ronahiyê vedimirînî û tu xeyal dikî ku ne jina te ye ya ku tu di hembêza xwe de digirî, lê jinebî ye. ||| She's, as you might say, the mistress of the whole village: you put out the light and you imagine it's not the wife you take in your arms, but the widow.
+Û, bizane, ji ber vê ye ku gundê me van rojan zarokên wisa xweşik tîne dinyayê!» ||| And, mark you, that's why our village brings into the world such fine children nowadays!"
+
+Piştî kêliyeke bêdengiyê, Androulioyê kal mirmir kir: ||| After a moment's silence, old Androulio murmured:
+
+«Bextê wan ranên ku wê hembêz dikin xweş be! Ax, hevalê min, xwezî ez bîst-salî bûma, wek Pavliyê ciwan, kurê Mavrandonî!» ||| "Good luck to the thighs that embrace her! Ah, my friend, if only I were twenty, like young Pavli, Mavrandoni's boy!"
+
+«Niha em ê bibînin ku ew vedigere malê!» yekî got, dikeniya. ||| "Now we'll see her double back home!" someone said, laughing.
+
+Hemûyan ber bi deriyê ve zivirîn. Baran bi hêrs dibarî. ||| They all turned towards the door. The rain was pelting down.
+
+Av li ser keviran dixulxulî. ||| The water was gurgling over the stones.
+Carcaran birûsk li ezmên dibiriqî. ||| Now and then lightning flashed across the sky.
+Zorba ji derbasbûna jinebiyê ve bê nefes bû. ||| Zorba was breathless since the passing of the widow.
+Êdî nikaribû xwe bigire, û li min axîn kişand: ||| He could not contain himself any longer, and he sighed to me:
+
+«Baran disekine, axa,» got. «Em herin!» ||| "The rain's stopping, boss," he said. "Let's go!"
+
+Lawikekî ciwan, pêxwas, perîşan û bi çavên mezin ên hov xuya li ber derî bû. ||| A young boy, barefoot, dishevelled and with great wild-looking eyes appeared at the door.
+Ev tam wisa bû ku wênekêşên îkonan Yûhennayê Nixumandî nîşan didin — bi çavên ku ji birçîbûn û duayê pir mezin bûyî. ||| That was just how the icon painters portray St. John the Baptist -- with eyes enormously enlarged by hunger and prayer.
+
+«Silav, Mîmîko!» çend kesan qîriyan, dikeniyan. ||| "Hello, Mimiko!" several shouted, laughing.
+
+Her gundekî sefîhê xwe heye, û eger yek tunebe, ew yekî çêdikin da ku dem derbas bikin. ||| Every village has its simpleton, and if one does not exist they invent one to pass the time.
+Mîmîko sefîhê vî gundî bû. ||| Mimiko was the simpleton of this village.
+
+«Heval,» Mîmîko bi dengê xwe yê jinanî peltek got. «Heval, jinebî Sûrmelîna mîya xwe winda kiriye. Xelatek, kûpek şerab, ji bo her kesê ku wê bibîne!» ||| "Friends," Mimiko stuttered in his effeminate voice. "Friends, the widow Sourmelina has lost her ewe. A reward of a gallon of wine for whoever finds it!"
+
+«Derkeve!» Mavrandonî yê kal qîriya. «Derkeve!» ||| "Get out!" shouted old Mavrandoni. "Get out!"
+
+Tirsiyayî, Mîmîko xwe li quncikekî li nêzî derî gulover kir. ||| Terrified, Mimiko curled up in a corner near the door.
+
+«Rûne, Mîmîko, hinekî raqî vexwe, da ku tu serma nexî!» apê Anagnostî got, dilê wî pê şewitî. «Dê çi bi serê gundê me bê eger ehmeqê me tunebûya?» ||| "Sit down, Mimiko, have a drink of raki, so you don't catch cold!" uncle Anagnosti said, feeling sorry for him. "What'd become of our village if we had no idiot?"
+
+Xortekî lawaz û zeîf, bi çavên şîn ên avî, li ber derî xuya bû. ||| A weedy-looking young man, with watery blue eyes, appeared on the threshold.
+Bê nefes bû û porê wî, ê ku li ber eniya wî pelaxtî bû, av jê diçilkî. ||| He was out of breath and his hair, which was flattened on his forehead, was dripping with water.
+
+«Silav, Pavli!» Manolakas qîriya. «Silav, pismam! Rûne.» ||| "Hello, Pavli!" Manolakas shouted. "Hello, cousin! Take a seat."
+
+Mavrandonî li kurê xwe zivirî û rû tirş kir. ||| Mavrandoni looked round at his son and frowned.
+##PG 63
+«Ma ev kurê min e?» ji xwe re mirmir kir. «Ew qicikê biçûk! Ew kê diçe diyê? Dilê min dixwaze ez wî ji pîçika stûyê wî hilgirim û wek heştpêyekî ciwan li erdê bidim!» ||| "Is that my son?" he muttered to himself. "That little pipsqueak! Who the devil does he take after? I'd like to pick him up by the scruff of his neck and thump him on the ground like a young octopus!"
+
+Zorba wek pisîkekê li ser keviran germ bû. ||| Zorba was like a cat on hot bricks.
+Jinebiyê hestên wî dabûn şewatê, êdî nikaribû li nav van çar dîwaran bisekine. ||| The widow had inflamed his senses, he could no longer stand being within these four walls.
+
+«Em herin, axa, em herin,» her saniye bi kurtedeng digot. «Em ê li vir biteqin!» ||| "Let's go, boss, let's go," he whispered every second. "We'll burst in here!"
+
+Ji wî re wisa dixuya ku ewr belav bûne û roj derketiye. ||| It looked to him as if the clouds had dispersed and the sun come out.
+
+Li xwediyê qehwexaneyê zivirî: ||| He turned to the café proprietor:
+
+«Ew jinebî kî ye?» pirsî, xwe wek ne-girîng nîşan da. ||| "Who is that widow?" he asked, feigning indifference.
+
+«Mehîneke nijadê,» Kondomanolio bersiv da. ||| "A brood mare," Kondomanolio replied.
+
+Tiliyên xwe danî ser lêvên xwe û nêrîneke watedar li Mavrandonî kir, ê ku careke din çavên xwe li erdê mixkiribûn. ||| He put his fingers to his lips and gave a meaning glance at Mavrandoni, who had once more riveted his eyes on the floor.
+
+«Mehîn,» dubare kir. «Bila em behsa wê nekin, da ku em nehên nifirkirin!» ||| "A mare," he repeated. "Don't let's speak of her, lest we be damned!"
+
+Mavrandonî rabû û lûleya cixarê li dora stûyê nargîleya xwe pêça. ||| Mavrandoni rose and wound the smoking-tube round the neck of his nargileh.
+
+«Bibore,» got. «Ez diçim malê. Pavli, li dû min were!» ||| "Excuse me," he said. "I'm going home. Pavli, follow me!"
+
+Kurê xwe bir. ||| He led his son away.
+Li ber me derbas bûn û yekser di nav baranê de winda bûn. ||| They passed in front of us and immediately disappeared in the rain.
+Manolakas jî rabû û li dû wan çû. ||| Manolakas also rose and followed them.
+
+Kondomanolio li kursiya Mavrandonî bi cih bû. ||| Kondomanolio settled in Mavrandoni's chair.
+
+«Mavrandonî yê kal ê belengaz!» got, bi dengekî ewqas nizm ku ji maseyên cîran nedihat bihîstin. ||| "Poor old Mavrandoni!" he said, in a voice so low it could not be heard from the neighboring tables.
+«Ew ê ji hêrsê bimire. Bextreşiyeke mezin e ya ku li mala wî ketiye. ||| "He'll die of rage. It's a great misfortune which has struck his house.
+Hema duho min bi xwe, bi guhên xwe, Pavli bihîst ku ji bavê xwe re digot: ‹Eger ew nebe jina min, ez ê xwe bikujim!› ||| Only yesterday I heard Pavli myself, with my own ears, saying to his father: 'If she won't be my wife, I'll kill myself!'
+Lê ew jinik naxwaze ku tu têkiliya wê bi wî re hebe. ||| But that jade doesn't want to have anything to do with him.
+Ew jê re dibêje ku here û pozê xwe paqij bike.» ||| She tells him to run along and wipe his nose."
+
+«Em herin,» Zorba dubare kir. ||| "Let's go," Zorba repeated.
+Bi her peyva ku li ser jinebiyê dihat gotin, ew bêhtir dihat heyecan. ||| At every word said about the widow he became more excited.
+
+Dîk dest pê kirin ku bibang bidin; baran êdî ne ewqas giran bû. ||| The cocks began to crow; the rain was not quite so heavy.
+
+«Vêca, were em herin,» min got, rabûm. ||| "Come on, then," I said, rising.
+
+Mîmîko ji quncikê xwe firqas bû û li dû me xilmaş derket. ||| Mimiko leapt from his corner and slipped out after us.
+
+Kevirok dibiriqîn; derî ku av jê diherikî reş xuya dikirin; pîrejinên biçûk bi selikan derdiketin da ku li şeytanokan bigerin. ||| The pebbles were gleaming; the doors running with water looked black; the little old women were coming out with baskets to look for snails.
+
+Mîmîko nêzî min bû û destê xwe li milê min da. ||| Mimiko came up to me and touched my arm.
+
+«Cixareyek, axa,» got. «Ew ê di evînê de bextê te yê baş bîne.» ||| "A cigarette, master," he said. "It'll bring you good luck in love."
+
+Min cixare dayê. Destekî zirav ê ji rojê şewitî dirêj kir. ||| I gave him the cigarette. He held out a skinny, sunburnt hand.
+
+«Agir jî bide min!» ||| "Give me a light, too!"
+
+Min agir dayê; dûkêl kişand nav cigerên xwe û, bi çavên nîv-girtî, ew ji bêvilên xwe derxist. ||| I gave him a light; he drew the smoke in to his lungs and, with eyes half-closed, blew it out through his nostrils.
+
+«Wek paşayekî bextewar!» mirmir kir. ||| "As happy as a pasha!" he murmured.
+
+«Tu diçî ku derê?» ||| "Where are you going?"
+
+«Baxçeyê jinebiyê. Wê got ku ew ê hinekî xwarinê bide min eger ez xebera mîya wê belav bikim.» ||| "To the widow's garden. She said she'd give me some food if I spread the news about her ewe."
+
+Em bi lez meşiyan. ||| We walked quickly.
+Di ewran de kelîn hebûn. ||| There were rifts in the clouds.
+Hemû gund nû şuştî û bişirî bû. ||| The whole village was freshly washed and smiling.
+
+«Tu ji jinebiyê hez dikî, Mîmîko?» Zorba bi axînekê pirsî. ||| "Do you like the widow, Mimiko?" Zorba asked, with a sigh.
+
+Mîmîko kenî. ||| Mimiko chuckled.
+
+«Heval, çima divê ez jê hez nekim? Û ma ez jî ne ji kanalekê derketime, wek her kesî?» ||| "Friend, why shouldn't I like her? And haven't I come out of a sewer, like everyone else?"
+##PG 64
+«Ji kanalekê?» min got, ecêbmayî. «Mebesta te çi ye, Mîmîko?» ||| "Of a sewer?" I said, astounded. "What d'you mean, Mimiko?"
+
+«Wele, ji hundirê dayikekê.» ||| "Well, from a mother's innards."
+
+Ez şaş mam. Tenê Şekspîrekî di kêliyên xwe yên herî afirîner de, min fikirî, dikarîbû gotineke bi vî rengî yê realîzma giran bibîne da ku raza tarî û nefretker a jidayikbûnê nîşan bide. ||| I was amazed. Only a Shakespeare in his most creative moments, I thought, could have found an expression of such crude realism to portray the dark and repugnant mystery of birth.
+
+Min li Mîmîko nêrî. Çavên wî mezin û keyfxweş bûn û hinekî çiv bûn. ||| I looked at Mimiko. His eyes were large and ecstatic and they had a slight squint.
+
+«Tu rojên xwe çawa derbas dikî, Mîmîko?» ||| "How do you spend your days, Mimiko?"
+
+«Tu çawa difikirî? Ez wek axayekî dijîm! ||| "How d'you think? I live like a lord!
+Sibehê ez şiyar dibim, parçeyekî nan dixwim. ||| I wake in the morning, I eat a crust.
+Paşê ez ji bo mirovan karên hûr dikim, li her derê, her tiştî, ez peyamberiyê dikim, zibil dikişînim, ziblê hespan kom dikim, û darê masîgirtinê yê min heye. ||| Then I do odd jobs for people, anywhere, anything, I run errands, cart manure, collect horse-dung, and I've got a fishing rod.
+Ez bi meta xwe re dijîm, dayika Lenio, şînkera pîşeyî. ||| I live with my aunt, mother Lenio, the professional mourner.
+Tu helbet wê nas dikî, her kes nas dike. ||| You're bound to know her, everybody does.
+Wêneyê wê jî hatiye girtin. ||| She's even been photographed.
+Êvarê ez vedigerim malê, tasek şorbe û dilopek şerab vedixwim, eger hebe. ||| In the evening I go back home, drink a bowl of soup and a drop of wine, if there is any.
+Eger tunebe, ez têra xwe ji ava Xwedê vedixwim da ku zikê min wek dehol biwerime. ||| If there isn't, I drink enough of God's water to make my belly swell like a drum.
+Paşê, şev baş!» ||| Then, good night!"
+
+«Û ma tu nazewicî, Mîmîko?» ||| "And won't you get married, Mimiko?"
+
+«Çi, ez? Ez ne dîn im! ||| "What, me? I'm not a loony!
+Tu niha çi dipirsî, heval? Ku ez xwe bixim bin barê derdeserî? ||| Whatever are you asking now, friend? That I should saddle myself with trouble?
+Jinekê hewceyî pêlavan e! Ez ê ji ku derê bibînim? Binêre, ez pêxwas digerim! ||| A woman needs shoes! Where'd I find any? Look, I go barefoot!"
+
+«Ma çîzmeyên te tune?» ||| "Haven't you any boots?"
+
+«Tu min bi kê dihesibînî? Helbet hene! ||| "What d'you take me for? Of course I have!
+Mêrek par mir û meta min Lenio ew ji lingên wî kişandin. ||| A man died last year and my aunt Lenio pulled them off his feet.
+Ez wan di Cejna Paskalyayê de û çaxê ez diçim dêrê û li keşîş dinihêrim li xwe dikim. ||| I wear them at Easter and when I go to church and stare at the priest.
+Paşê ez wan ji xwe derdixim, li dora stûyê xwe daliqînim, û têm malê.» ||| Then I pull them off, hang them round my neck, and come home."
+
+«Tu ji hemûyan herî zêde ji çi hez dikî, Mîmîko?» ||| "What do you like best of all, Mimiko?"
+
+«Pêşî, nan. Ax, ez çiqas jê hez dikim! ||| "First, bread. Ah, how I like that!
+Hemû qerç û germ, nemaze eger nanê genim be. ||| All crisp and hot, 'specially if it's wheat bread.
+Paşê, şerab. Paşê, xew.» ||| Then, wine. Then, sleep."
+
+«Jin çi?» ||| "What about women?"
+
+«Fff! Bixwe, vexwe, û rakeve, ez dibêjim. Mayî hemû tenê derdeserî ye!» ||| "Fff! Eat, drink, and go to bed, I say. All the rest's just trouble!"
+
+«Û jinebî?» ||| "And the widow?"
+
+«Oh, wê ji şeytan re bihêle, ez ji te re dibêjim, eger tu zanibî çi ji bo te baş e! Ji pişt min derkeve, Şeytan!» ||| "Oh, leave her to the devil, I tell you, if you know what's good for you! Get thee behind me, Satan!"
+
+Sê caran tif kir û xaç li xwe kir. ||| He spat three times and crossed himself.
+
+«Tu dikarî bixwînî?» ||| "Can you read?"
+
+«Niha, binêre, ez ne ewqas ehmeq im! ||| "Now, look here, I'm not such a fool!
+Çaxê ez biçûk bûm ez kişandim dibistanê, lê ez bextewar bûm. ||| When I was little I was dragged to school, but I was lucky.
+Ez bi tîfosê ketim û bûm ehmeq. Bi vî awayî min karî ji wê xilas bibim!» ||| I caught typhus and became an idiot. That's how I managed to get out of that!"
+
+Zorba ji pirsên min têr bûbû. ||| Zorba had had enough of my questionings.
+Nikaribû li tu tiştî bifikire ji bilî jinebiyê. ||| He could not think of anything save the widow.
+
+«Axa...» got, ez ji milê xwe girtim. ||| "Boss..." he said, taking me by the arm.
+Paşê li Mîmîko zivirî û ferman dayê ku pêşiyê bimeşe. «Tiştek heye ku divê em behsa wê bikin. ||| Then he turned to Mimiko and ordered him to walk on ahead. "We've got something to talk about.
+
+«Axa,» got, «li vir e ku ez pişta xwe bi te germ dikim. ||| "Boss," he said, "this is where I count on you.
+Niha, cinsê nêr şermezar neke! ||| Now, don't dishonor the male species!
+Xweda-şeytan vê pariya bijartî ji te re dişîne. ||| The god-devil sends you this choice morsel.
+Diranên te hene. Baş e, wan têxe nav. ||| You've got teeth. All right, get 'em into it.
+Milê xwe dirêj bike û wê bigire! ||| Stretch out your arm and take her!
+Afirîner ji bo çi dest dane me? Ji bo girtina tiştan! Vêca, wan bigire! ||| What did the Creator give us hands for? To take things! So, take 'em!
+Min di emrê xwe de gelek jin dîtine. Lê wê jinebiya lanetî dike ku zengilxane bilerizin!» ||| I've seen loads of women in my time. But that damned widow makes the steeples rock!"
+
+«Ez tu derdeseriyê naxwazim!» min bi hêrs bersiv da. ||| "I don't want any trouble!" I replied angrily.
+##PG 65
+Ez aciz bûm ji ber ku di binî dilê xwe de min jî ew laşê her-bihêz xwestibû, ê ku wek heywanekî hov ê di germê de li ber min derbas bûbû, misk diweşand. ||| I was irritated because in my heart of hearts I also had desired that all-powerful body which had passed by me like a wild animal in heat, distilling musk.
+
+«Tu tu derdeseriyê naxwazî!» Zorba bi şaşmayînê qîriya. «Vêca, ji kerema xwe, tu çi dixwazî?» ||| "You don't want any trouble!" Zorba exclaimed in stupefaction. "And pray, what do you want, then?"
+
+Min bersiv neda. ||| I did not answer.
+
+«Jiyan derdeserî ye,» Zorba berdewam kir. «Mirin, na. ||| "Life is trouble," Zorba continued. "Death, no.
+Jiyîn — tu dizanî ew tê çi wateyê? Ku tu kembera xwe vekî û li derdeseriyê bigerî!» ||| To live -- do you know what that means? To undo your belt and look for trouble!"
+
+Min hê tu tişt negot. ||| I still said nothing.
+Min dizanibû ku Zorba rast e, min dizanibû, lê min newêrî. ||| I knew Zorba was right, I knew it, but I did not dare.
+Jiyana min ketibû ser rêya çewt, û têkiliya min bi mirovan re niha bûbû tenê xwe-bi-xwe-axaftin. ||| My life had got on the wrong track, and my contact with men had become now a mere soliloquy.
+Ez ewqas nizm ketibûm ku, eger min bûya ku ez di navbera evîndarbûna bi jinekê re û xwendina pirtûkeke li ser evînê de hilbijêrim, min ê pirtûk hilbijarta. ||| I had fallen so low that, if I had had to choose between falling in love with a woman and reading a book about love, I should have chosen the book.
+
+«Hesab neke, axa,» Zorba berdewam kir. «Dev ji hejmarên xwe berde, terazûya lanetî bişkîne, dikana xwe ya baqaliyê bigire, ez ji te re dibêjim. ||| "Don't calculate, boss," Zorba continued. "Leave your figures alone, smash the blasted scales, shut up your grocer's shop, I tell you.
+Niha ew dem e ku tu yan giyanê xwe rizgar dikî yan winda dikî. ||| Now's the time you're going to save or to lose your soul.
+Guhdarî bike, axa, destmalek hilde, du an sê lîreyan tê de girê bide, bila ji zêr bin, ji ber ku yên kaxezî naçirûsin; û wan bi Mîmîko ji jinebiyê re bişîne. ||| Listen, boss, take a handkerchief, tie two or three pounds in it, make them gold ones, because the paper ones don't dazzle; and send them to the widow by Mimiko.
+Fêrî wî bike ka divê çi bibêje: ‹Axayê kanê silavên xwe yên herî baş û vê destmala biçûk ji te re dişîne. ||| Teach him what he is to say: 'The master of the mine sends you his best wishes and this little handkerchief.
+Got ku ew tenê tiştekî biçûk e, lê evîna wî mezin e. ||| It's only a small thing, he said, but his love is big.
+Wî her wiha got, ku divê tu li ser mîyê xem nekî; eger winda bûye, xema xwe neke, ez li vir im, netirse! ||| He said, too, you weren't to worry about the ewe; if it's lost, don't bother, I'm here, don't be afraid!
+Ew dibêje ku te dît ku tu li ber qehwexaneyê derbas bûyî û ew nexweş ketiye û tenê tu dikarî wî saxbikî!› ||| He says he saw you going by the café and he's fallen sick and only you can cure him!'
+
+«Va ye! Paşê heman êvarê tu li derî dixî. ||| "There now! Then the same evening you knock on the door.
+Divê tu hesin germ be lê bixî. ||| Must beat the iron while it's hot.
+Tu rêya xwe winda kiriye, tu jê re dibêjî. ||| You've lost your way, you tell her.
+Tarî ye, ma ew ê fenerekê deyne te. ||| It's dark, will she lend you a lantern.
+An na tu ji nişkê ve serê te giran bûye û tu qedehek av dixwazî. ||| Or else you've suddenly come over dizzy and would like a glass of water.
+An, hê baştir, tu mîyeke din dikirî û dibî jê re: ‹Binêre, xanima min,› tu dibêjî, ‹va ye mîya ku te winda kir. Ez bûm yê ku ew ji te re dît!› ||| Or, better still, you buy another ewe and take it to her: 'Look, my lady,' you say, 'here's the ewe you lost. It was I who found it for you!'
+Û jinebî — guhdariya vê bike, axa — jinebî xelatê dide te û tu dikevî nav... ||| And the widow -- listen to this, boss -- the widow gives you the reward and you enter into...
+Xwedayê Mezin, xwezî min karîbûya li pişt te li mehîna te siwar bibûma — ez ji te re dibêjim, axa, tu yê bi hesp bikevî Bihiştê. ||| God Almighty, if only I could ride your mare behind you -- I tell you, boss, you'll enter into Paradise on horseback.
+Eger tu li bihişteke din ji wê pê ve digerî, hevalê min ê belengaz, tu tune! ||| If you're looking for any other paradise than that, my poor fellow, there is none!
+Guh nede tiştê ku keşîş ji te re dibêjin, tu ya din tune!» ||| Don't listen to what the priests tell you, there's no other!"
+
+Divê em nêzî baxçeyê jinebiyê bûbûn, ji ber ku Mîmîko axîn kişand û bi dengê xwe yê peltek dest pê kir ku kedera xwe bistirê: ||| We must have been approaching the widow's garden, for Mimiko sighed and began in his stammering voice to sing his sorrow:
+
+##VERSE
+Şerab ji şahbelûtê re, hingiv ji gûzê re!<br>Keçek ji lawik re, û lawikek ji keçê re! ||| Wine for the chestnut, honey for the walnut! A lass for the lad, and a lad for the lass!
+
+Zorba li ser çîpên xwe yên dirêj gav avêt, bêvilên wî dilerizîn. ||| Zorba stepped out on his long shanks, his nostrils quivering.
+Ji nişkê ve sekinî, bîhneke dirêj kişand hundir. ||| He stopped abruptly, drew in a long breath.
+Rasterast li çavên min zell bû: ||| He stared me straight in the eyes:
+
+«Êê?...» got. Û bi fikar li bendê ma. ||| "Well?..." he said. And he waited anxiously.
+
+«Bes e!» min bi hişkî bersiv da. Û min lez li gava xwe kir. ||| "That'll do!" I replied harshly. And I quickened my pace.
+
+Zorba serê xwe hejand û tiştek mirmir kir ku min negirt. ||| Zorba shook his head and growled something I did not catch.
+
+Çaxê em gihîştin kozikê, ew li ser lingên xwe yên xaçkirî rûnişt, santûriyê danî ser çokên xwe û serê xwe daxist, di ramaneke kûr de winda. ||| When we reached the hut, he sat on crossed legs, placed the santuri on his knees and lowered his head, lost in deep meditation.
+
+Wisa bû ku ew, bi serê xwe li ser sînga xwe, li stranên bêhejmar guhdarî dike û hewl dide ku yekê hilbijêre, ya herî bedew û herî bêhêvî ji hemûyan. ||| It was as if he were listening, with his head on his chest, to innumerable songs and trying to choose one, the most beautiful and most despairing of all.
+Di dawiyê de wî hilbijartina xwe kir û straneke dil-perçiqîner da destpêkirin. ||| He at last made his choice and started a heart-rending air.
+Carcaran bi qulpê çavê xwe li min dixist. ||| From time to time he eyed me slantwise.
+Min hîs dikir ku tiştê ku nikaribû an newêrî bi peyvan ji min re bibêje, bi santûriyê digot. ||| I felt that what he could not or dare not tell me in words he was saying with the santuri.
+##PG 66
+Ku ez jiyana xwe pûç dikim, ku jinebî û ez du kêzik bûn ên ku tenê saniyeyekê di bin rojê de dijîn, paşê ji bo hemû ebediyetê dimirin. ||| That I was wasting my life, that the widow and I were two insects who live but a second beneath the sun, then die for all eternity.
+Tu carî êdî! Tu carî êdî! ||| Never more! Never more!
+
+Zorba firqas bû. ||| Zorba leapt up.
+Ji nişkê ve fêm kiribû ku xwe bê fêde diwestîne. ||| He had suddenly realized that he was tiring himself in vain.
+Xwe da dîwêr, cixareyek pêxist, û, piştî kêliyekê, axivî. ||| He leaned against the wall, lit a cigarette, and, after a moment, spoke.
+
+«Ez ê te bigihînim sirekê, axa, tiştek ku carekê hocayek (zanayekî olî yê Tirk) li Selanîkê ji min re got.... Ez ê wê ji te re bibêjim, tewra eger fêdeyê nede jî. ||| "I'm going to let you into a secret, boss, something a hodja once told me in Salonica.... I'm going to tell it to you, even if it doesn't do any good.
+
+«Wê demê ez li Makedonyayê firotvanê gerok bûm. ||| "At that time I was a pedlar in Macedonia.
+Ez diçûm gundan da ku makarên ta, derzî, jiyana pîrozan, bixûr û bîber bifroşim. ||| I went into the villages to sell reels of thread, needles, the lives of the saints, benjamin and pepper.
+Wê hingê dengekî min ê kêmpeyda hebû, ez bilbilekî rastîn bûm. ||| I had a rare voice, then, a real nightingale I was.
+Divê tu zanibî ku jin jî li ber dengekî tewdikevin. ||| You must know women also succumb to a voice.
+Û ew li ber çi natewin — ew jinikên fêlbaz! Tenê Xweda dizane çi di hundirê wan de diqewime! ||| And what won't they succumb to -- the jades! God only knows what goes on inside them!
+Tu dikarî bi qasî guneh kirêt bî, seqet an qût bî, lê eger dengekî te yê nerm hebe û tu bikaribî bistirê, jin bi tevahî serê xwe winda dikin. ||| You may be as ugly as sin, lame or a hunchback, but if you've a soft voice and can sing the women completely lose their heads.
+
+«Ez li Selanîkê jî firotin dikir û tewra diçûm taxên Tirkan. ||| "I was also peddling in Salonica and even went into the Turkish districts.
+Û, wisa xuya ye, dengê min ewqas jineke Misilman a dewlemend, keça paşayekî, efsûn kiribû ku ew nikaribû razê. ||| And, it appears, my voice had so charmed a rich Muslim woman, the daughter of a pasha, that she could not sleep.
+Wê hocayekî kal gazî kir û destên wî bi mecîdiyan tije kir. ||| She called an old hodja and filled his hands with mejidies.
+‹Aman!› jê re got, ‹here û ji gawirê firotvan re bibêje ku bê. Aman (gaziyeke lavayê û teslîmiyetê)! Divê ez wî bibînim. Ez êdî nikarim li ber xwe bidim!› ||| 'Aman!' she said to him, 'go and tell the peddling Giaour to come. Aman! I must see him. I can't hold out any longer!'
+
+«Hoca hat ku min bibîne. ‹Guhdarî bike, Rûmiyê ciwan,› ji min re got. ‹Were bi min re.› ||| "The hodja came to find me. 'Listen, young Roumi,' he said to me. 'Come with me.'
+‹Na,› min got. ‹Tu dixwazî min bibî ku derê?› ||| 'No,' I said. 'Where d'you want to take me to?'
+‹Keça paşayekî heye ku wek ava kaniyê ye. Ew li odeya xwe li benda te ye. Were, Rûmiyê biçûk!› ||| 'There's a pasha's daughter who's like spring water. She's waiting for you in her room. Come, little Roumi!'
+Lê min dizanibû ku bi şev li taxên Tirkan gawirên Xiristiyan dikuştin. ||| But I knew that at night they murdered Christian infidels in the Turkish districts.
+‹Na, ez nayêm,› min got. ‹Ma tu ji Xweda natirsî, gawir?› ||| 'No, I'm not coming,' I said. 'Don't you fear God, Giaour?'
+‹Çima ez bitirsim?› ||| 'Why should I?'
+‹Ji ber ku, Rûmiyê biçûk, ê ku dikare bi jinekê re raze û nakeve, gunehekî mezin dike. ||| 'Because, little Roumi, he who can sleep with a woman and does not, commits a great sin.
+Lawê min, eger jinek gazî te bike ku tu nivîna wê parve bikî û tu neçî, giyanê te dê were hilweşandin! ||| My boy, if a woman calls you to share her bed and you don't go, your soul will be destroyed!
+Ew jin dê li roja qiyametê li ber Xweda axîn bikişîne, û axîna wê jinê, tu kî bî û karên te yên qenc çi bin, dê te bavêje Dojehê!›» ||| That woman will sigh before God on judgment day, and that woman's sigh, whoever you may be and whatever your fine deeds, will cast you into Hell!'"
+
+Zorba axîn kişand. ||| Zorba sighed.
+
+«Eger Dojeh hebe,» got, «ez ê herim Dojehê, û ew ê sedem be. ||| "If Hell exists," he said, "I shall go to Hell, and that'll be the reason.
+Ne ji ber ku min dizî kiriye, kuştiye an zîna kiriye, na! ||| Not because I've robbed, killed or committed adultery, no!
+Ew hemû ne tiştek e. Lê ez ê herim Dojehê ji ber ku şevekê li Selanîkê jinek li ser nivîna xwe li benda min ma û ez neçûm ba wê....» ||| All that's nothing. But I shall go to Hell because one night in Salonica a woman waited for me on her bed and I did not go to her...."
+
+Rabû, agir pêxist û dest bi pijandina xwarina me kir. ||| He rose, lit the fire and started cooking our meal.
+Bi qulpê çavê xwe li min nêrî û bi biçûkdîtinê bişirî. ||| He looked at me out of the corner of his eye and smiled scornfully.
+
+«Tu dikarî her û her li deriyê mirovekî ker bixî!» mirmir kir. ||| "You can knock forever on a deaf man's door!" he muttered.
+
+Û, ber bi jêr ve çemiya, bi hêrs dest pê kir ku li êzingên şil bipife. ||| And, bending down, he began to blow the damp wood angrily.
+"""
+
+
 def esc(s):
     return html.escape(s, quote=False)
 
@@ -6448,7 +7459,7 @@ def build_article(num, data):
     out.append('</article>')
     return "\n".join(out)
 
-ARTICLE = build_article(1, CH01) + "\n" + build_article(6, CH06) + "\n" + build_article(10, CH10) + "\n" + build_article(11, CH11) + "\n" + build_article(12, CH12) + "\n" + build_article(13, CH13) + "\n" + build_article(14, CH14) + "\n" + build_article(15, CH15) + "\n" + build_article(16, CH16) + "\n" + build_article(17, CH17) + "\n" + build_article(18, CH18) + "\n" + build_article(19, CH19) + "\n" + build_article(20, CH20) + "\n" + build_article(21, CH21) + "\n" + build_article(22, CH22) + "\n" + build_article(23, CH23) + "\n" + build_article(24, CH24) + "\n" + build_article(25, CH25) + "\n" + build_article(26, CH26)
+ARTICLE = build_article(1, CH01) + "\n" + build_article(3, CH3) + "\n" + build_article(6, CH06) + "\n" + build_article(8, CH8) + "\n" + build_article(10, CH10) + "\n" + build_article(11, CH11) + "\n" + build_article(12, CH12) + "\n" + build_article(13, CH13) + "\n" + build_article(14, CH14) + "\n" + build_article(15, CH15) + "\n" + build_article(16, CH16) + "\n" + build_article(17, CH17) + "\n" + build_article(18, CH18) + "\n" + build_article(19, CH19) + "\n" + build_article(20, CH20) + "\n" + build_article(21, CH21) + "\n" + build_article(22, CH22) + "\n" + build_article(23, CH23) + "\n" + build_article(24, CH24) + "\n" + build_article(25, CH25) + "\n" + build_article(26, CH26)
 
 HTML_DOC = r"""<!DOCTYPE html>
 <html lang="ku">
